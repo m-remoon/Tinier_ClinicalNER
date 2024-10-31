@@ -1,0 +1,16 @@
+
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Risperidone 2 mg Tablet Sig: One (1) Tablet PO BID for schizophrenia.
+3. Isosorbide Mononitrate 30 mg Tablet Sig: One (1) Tablet PO DAILY for angina.
+4. Methotrexate 10 mg Tablet Sig: One (1) Tablet PO WEEKLY for rheumatoid arthritis.
+5. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraines.
+6. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY for gout prevention.
+7. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet PO DAILY for 4 days for bacterial infection.
+8. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression and anxiety.
+9. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO DAILY for osteoarthritis.
+10. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+11. Verapamil 120 mg Tablet Sig: One (1) Tablet PO TID for supraventricular tachycardia.
+12. Torsemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+13. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+14. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for urinary tract infection.
+15. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for essential tremor.

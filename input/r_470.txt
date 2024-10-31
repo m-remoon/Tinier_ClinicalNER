@@ -1,0 +1,16 @@
+
+1. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for autoimmune disorders.
+2. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for fluid retention.
+3. Methotrexate 15 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+4. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+5. Aripiprazole 5 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+6. Mirtazapine 30 mg Tablet Sig: One (1) Tablet PO QHS for major depressive disorder.
+7. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then One (1) Tablet PO DAILY for the next 4 days for bacterial infection.
+8. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO Q6H for bacterial infection.
+9. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+10. Digoxin 0.125 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+11. Valproic Acid 250 mg Capsule Sig: One (1) Capsule PO TID for seizure disorder.
+12. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraines.
+13. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+14. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO BID for gout.
+15. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.

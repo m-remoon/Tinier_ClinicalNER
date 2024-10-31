@@ -1,0 +1,16 @@
+
+1. Quetiapine 100 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+2. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO TID for fibromyalgia.
+3. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hypercholesterolemia.
+4. Liraglutide 6 mg/mL Solution Sig: 1.8 mg Subcutaneous Daily for type 2 diabetes.
+5. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+6. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety.
+7. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+8. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+9. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+10. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+12. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+13. Celecoxib 200 mg Capsule Sig: One (1) Capsule PO BID for rheumatoid arthritis.
+14. Aclidinium 400 mcg Inhaler Sig: One (1) inhalation BID for COPD.
+15. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.

@@ -1,0 +1,16 @@
+
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+2. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+4. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing blood clots.
+6. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+7. Prednisone 5 mg Tablet Sig: Two (2) Tablets PO DAILY for inflammation.
+8. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet PO Daily for next 4 days for infection.
+9. Ondansetron 8 mg Tablet Sig: One (1) Tablet PO every 8 hours for nausea.
+10. Propranolol 20 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+11. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+12. Topiramate 100 mg Tablet Sig: One (1) Tablet PO BID for seizures.
+13. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+14. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+15. Mirtazapine 30 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.

@@ -1,0 +1,20 @@
+1. Outpatient Lab Work Please draw every Monday until [**2101-1-20**]: LFTs, CBC, Cr. Fax results to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11382**] at [**Telephone/Fax (1) 1419**]
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for pain.
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+4. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual PRN (as needed).
+5. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+7. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+8. Haloperidol 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+9. Haloperidol 1 mg Tablet Sig: Two (2) Tablet PO QID (4 times a day) as needed for agitation.
+10. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: Three (3) Tab Sust.Rel. Particle/Crystal PO once a day.
+12. Nafcillin in D2.4W 2 g/100 mL Piggyback Sig: Two (2) grams Intravenous  Q4H (every 4 hours) for 20 days: last dose to be given on [**2101-1-20**].
+13. midline care midline line care per protocol
+14. Outpatient Lab Work Please draw Potassium on [**2101-1-4**]. Adjust potassium replacement accordingly.
+15. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+16. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).
+17. Cyanocobalamin 500 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+18. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 7 days.
+19. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for pain.
+20. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.

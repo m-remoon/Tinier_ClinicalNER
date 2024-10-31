@@ -1,0 +1,16 @@
+
+1. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+2. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+4. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+5. Tiotropium 18 mcg Inhaler Sig: One (1) Inhalation DAILY for COPD.
+6. Donepezil 10 mg Tablet Sig: One (1) Tablet PO DAILY for Alzheimer's disease.
+7. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QD for high cholesterol.
+8. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+9. Ferrous sulfate 325 mg Tablet Sig: One (1) Tablet PO DAILY for iron deficiency anemia.
+10. Liraglutide 6 mg/mL Solution Sig: 1.2 mg Subcutaneous DAILY for weight management.
+11. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+12. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+13. Naloxone 4 mg Nasal Spray Sig: One (1) Spray Intranasally PRN for opioid overdose.
+14. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+15. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.

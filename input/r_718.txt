@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+4. Sertraline 100 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+5. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY for inflammation.
+6. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+7. Liraglutide 1.2 mg/0.2 mL Injection Sig: 0.2 mL Subcutaneous Daily for diabetes management.
+8. Fluconazole 150 mg Tablet Sig: One (1) Tablet PO once weekly for fungal infection.
+9. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO once daily for allergies.
+10. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+11. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+12. Digoxin 0.125 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+13. Pioglitazone 30 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+14. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+15. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.

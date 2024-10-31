@@ -1,0 +1,13 @@
+1. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day). Disp:*60 Disk with Device(s)* Refills:*2*
+2. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily). Disp:*30 Cap(s)* Refills:*2*
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours). Disp:*4 inhalers* Refills:*2*
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours). Disp:*4 inhalers* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs PO Q4-6H (every 4 to 6 hours) as needed. Disp:*100 ML(s)* Refills:*0*
+6. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+7. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day). Disp:*90 Tablet(s)* Refills:*2*
+8. Lovenox 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous twice a day for 4 days. Disp:*8 Lovenox (Subcutaneous) 60 mg/0.6 mL Syringe* Refills:*1*
+9. Coumadin 3 mg Tablet Sig: One (1) Tablet PO at bedtime. Disp:*30 Tablet(s)* Refills:*6*
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+12. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 3 weeks. Disp:*63 Tablet(s)* Refills:*0*
+13. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day for 14 days. Disp:*14 Tablet(s)* Refills:*0*

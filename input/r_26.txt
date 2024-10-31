@@ -1,0 +1,15 @@
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing blood clots.
+2. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY on an empty stomach for hypothyroidism.
+4. Spiriva 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+5. Dulaglutide 1.5 mg/0.5 mL Injection Sig: One (1) Injection Subcutaneous once weekly for type 2 diabetes.
+6. Risperidone 2 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+7. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+8. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+10. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+11. Dicyclomine 10 mg Capsule Sig: One (1) Capsule PO QID for IBS.
+12. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet DAILY for days 2 to 5 for bacterial infection.
+13. Rivastigmine 1.5 mg Capsule Sig: One (1) Capsule PO BID for Alzheimer's disease.
+14. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO QHS for neuropathic pain.
+15. Propranolol 10 mg Tablet Sig: One (1) Tablet PO TID for migraine prophylaxis.

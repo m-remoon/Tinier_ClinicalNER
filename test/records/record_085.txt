@@ -1,0 +1,31 @@
+1. Fluoxetine 10 mg Capsule Sig: Three (3) Capsule PO DAILY (Daily).
+2. Risperidone 1 mg Tablet Sig: Three (3) Tablet PO HS (at bedtime).
+3. Bupropion 150 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO BID (2 times a day).
+4. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+6. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+7. Midodrine 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+8. Mesalamine 400 mg Tablet, Delayed Release (E.C.) Sig: Three (3) Tablet, Delayed Release (E.C.) PO TID (3 times a day).
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+11. Nicotine 7 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR Transdermal DAILY (Daily).
+12. Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): please do not take this with levofloxacin.
+13. Cepacol 2 mg Lozenge Sig: One (1) Lozenge Mucous membrane Q4H (every 4 hours) as needed. Disp:*100 Lozenge(s)* Refills:*0*
+14. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+15. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**2-8**] Sprays Nasal QID (4 times a day). Disp:*QS bottle* Refills:*2*
+16. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+17. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for anxiety. Disp:*20 Tablet(s)* Refills:*0*
+18. Saline Flush 0.9 % Syringe Sig: Three (3) ml Injection twice a day for 20 doses: prior to each vanco dose. Disp:*20 syringe* Refills:*0*
+19. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+20. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed.
+21. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig: 15-30 MLs PO QID (4 times a day) as needed.
+22. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for constipation.
+23. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for pain.
+24. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical QD ().
+25. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+26. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+27. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheezing.
+28. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+29. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.
+30. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One (1) ML Intravenous DAILY (Daily) as needed: for PICC line.
+31. Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q6H (every 6 hours) for 7 days.

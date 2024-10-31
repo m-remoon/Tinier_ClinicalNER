@@ -1,0 +1,16 @@
+
+1. Nitroglycerin 0.4 mg Sublingual Tablet Sig: One (1) Tablet SL PRN for chest pain.
+2. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+5. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+6. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet PO Daily for four days for bacterial infection.
+7. Liraglutide 0.6 mg Solution Sig: 0.6 mg Subcutaneous DAILY for type 2 diabetes.
+8. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+10. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasms.
+11. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+12. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY with food for atrial fibrillation.
+13. Donepezil 10 mg Tablet Sig: One (1) Tablet PO QHS for Alzheimer's disease.
+14. Valacyclovir 500 mg Tablet Sig: One (1) Tablet PO BID for herpes simplex.
+15. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.

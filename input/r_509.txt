@@ -1,0 +1,16 @@
+
+1. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Triptorelin 3.75 mg Injection Sig: One (1) Injection Intramuscular Monthly for prostate cancer.
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+5. Methotrexate 10 mg Tablet Sig: Two (2) Tablets PO WEEKLY for rheumatoid arthritis.
+6. Rivastigmine 4.6 mg/24 hr Patch Sig: One (1) Patch Transdermal DAILY for Alzheimer's disease.
+7. Sevelamer 800 mg Tablet Sig: Two (2) Tablets PO TID for hyperphosphatemia.
+8. Azathioprine 50 mg Tablet Sig: Two (2) Tablets PO DAILY for inflammatory bowel disease.
+9. Quetiapine 200 mg Tablet Sig: One (1) Tablet PO QHS for bipolar disorder.
+10. Aprepitant 125 mg Capsule Sig: One (1) Capsule PO 1 hour before chemotherapy for nausea and vomiting prevention.
+11. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO QID for C. difficile infection.
+12. Natamycin 5% Suspension Sig: One (1) drop Ophthalmic QID for fungal eye infection.
+13. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+14. Bimatoprost 0.03% Solution Sig: One (1) drop Ophthalmic HS for glaucoma.
+15. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.

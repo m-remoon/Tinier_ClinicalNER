@@ -1,0 +1,16 @@
+
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Bupropion 150 mg Tablet (SR) Sig: One (1) Tablet PO BID for smoking cessation.
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+6. Valacyclovir 1 g Tablet Sig: One (1) Tablet PO TID for herpes zoster.
+7. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet PO DAILY for infection.
+8. Liraglutide 0.6 mg Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+9. Ipratropium 0.03% Nasal Spray Sig: Two (2) Sprays in each nostril BID for allergic rhinitis.
+10. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+11. Gabapentin 600 mg Tablet Sig: One (1) Tablet PO TID for neuropathic pain.
+12. Celecoxib 200 mg Capsule Sig: One (1) Capsule PO BID for arthritis.
+13. Tiotropium 18 mcg Inhalation Powder Sig: Inhale one (1) Capsule once daily for COPD.
+14. Metoprolol 50 mg Tablet (ER) Sig: One (1) Tablet PO BID for angina.
+15. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY for inflammation.

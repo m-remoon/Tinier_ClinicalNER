@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Fenofibrate 160 mg Tablet Sig: One (1) Tablet PO DAILY for high triglycerides.
+4. Dulaglutide 1.5 mg/0.5 mL Injection Sig: 0.5 mL Subcutaneous Weekly for type 2 diabetes.
+5. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+6. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+7. Methotrexate 2.5 mg Tablet Sig: Four (4) Tablets PO Weekly for rheumatoid arthritis.
+8. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for GERD.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+10. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+11. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for lupus.
+12. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraines.
+13. Canagliflozin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+14. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+15. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.

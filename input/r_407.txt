@@ -1,0 +1,16 @@
+
+1. Dulaglutide 0.75 mg/0.5 mL Solution Sig: 0.75 mg Subcutaneous Weekly for diabetes.
+2. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for fluid retention.
+3. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+4. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+5. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for antiplatelet therapy.
+7. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+8. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+9. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+10. Ethinyl Estradiol/Norgestimate 35 mcg/0.25 mg Tablet Sig: One (1) Tablet PO DAILY for contraception.
+11. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+12. Ferrous Sulfate 325 mg Tablet Sig: One (1) Tablet PO DAILY for iron deficiency anemia.
+13. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO Q6H PRN for allergy.
+14. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+15. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.

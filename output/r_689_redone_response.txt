@@ -1,0 +1,35 @@
+```
+Extracted Fields:
+1. Drug: Azithromycin | Strength: 250 mg | Form: Tablet | Dosage: 2, 1 | Frequency: Daily | Route: PO | Reason: Bacterial infection
+2. Drug: Escitalopram | Strength: 10 mg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Depression
+3. Drug: Levothyroxine | Strength: 50 mcg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Hypothyroidism
+4. Drug: Furosemide | Strength: 40 mg | Form: Tablet | Dosage: 1 | Frequency: BID | Route: PO | Reason: Edema
+5. Drug: Rosuvastatin | Strength: 10 mg | Form: Tablet | Dosage: 1 | Frequency: QHS | Route: PO | Reason: High cholesterol
+6. Drug: Prednisone | Strength: 20 mg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Inflammation
+7. Drug: Doxycycline | Strength: 100 mg | Form: Capsule | Dosage: 1 | Frequency: BID | Route: PO | Reason: Acne
+8. Drug: Clopidogrel | Strength: 75 mg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Stroke prevention
+9. Drug: Alendronate | Strength: 70 mg | Form: Tablet | Dosage: 1 | Frequency: Once weekly | Route: PO | Reason: Osteoporosis
+10. Drug: Propranolol | Strength: 40 mg | Form: Tablet | Dosage: 1 | Frequency: BID | Route: PO | Reason: Migraines
+11. Drug: Venlafaxine XR | Strength: 75 mg | Form: Capsule | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Anxiety
+12. Drug: Metoprolol Succinate | Strength: 50 mg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Hypertension
+13. Drug: Esomeprazole | Strength: 40 mg | Form: Capsule | Dosage: 1 | Frequency: Daily | Route: PO | Reason: GERD
+14. Drug: Nitroglycerin | Strength: 0.4 mg | Form: Sublingual Tablet | Dosage: 1 | Frequency: PRN | Route: SL | Reason: Chest pain
+15. Drug: Hydrocodone/Acetaminophen | Strength: 5/325 mg | Form: Tablet | Dosage: 1 | Frequency: Q4-6H PRN | Route: PO | Reason: Pain
+
+Labels:
+1. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, I-DOSAGE, O, O, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON, I-REASON]
+2. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+3. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+4. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+5. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON, I-REASON]
+6. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+7. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+8. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON, I-REASON]
+9. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, I-FREQUENCY, O, B-ROUTE, O, B-REASON]
+10. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+11. [O, B-DRUG, I-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+12. [O, B-DRUG, I-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+13. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON]
+14. [O, B-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, I-FORM, O, B-DOSAGE, O, B-FREQUENCY, O, B-ROUTE, O, B-REASON, I-REASON]
+15. [O, B-DRUG, I-DRUG, O, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, O, B-FREQUENCY, I-FREQUENCY, O, B-ROUTE, O, B-REASON]
+```

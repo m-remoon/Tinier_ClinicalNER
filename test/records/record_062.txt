@@ -1,0 +1,34 @@
+1. lansoprazole 30 mg Rapid Dissolve, DR [**Last Name (STitle) **] DAILY. Disp:*30 Tablet,Rapid Dissolve, DR(s)* Refills:*2*
+2. prochlorperazine maleate 5 mg Tablet Sig: 1-2 Tablets PO q6HR PRN nausea. Disp:*20 Tablet(s)* Refills:*2*
+3. ondansetron HCl 4 mg Tablet Sig: 1-2 Tablets PO q8HR PRN nausea. Disp:*20 Tablet(s)* Refills:*2*
+4. amlodipine 10 mg PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+5. nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID.
+6. simvastatin 10 mg tablet Sig: Two (2) tablet PO DAILY.
+7. fluticasone 50 mcg/actuation Spray Sig: Two (2) Spray Nasal DAILY.
+8. dextromethorphan-guaifenesin 10-100 mg/5 mL Syrup Sig: 5ML PO Q6H PRN cough.
+9. bisacodyl 10mg tablet,delayed release (DR/EC) PO DAILY PRN constipation.
+10. miconazole nitrate 2 % Powder Sig: Appl Topical [**Hospital1 **] PRN scrotal irritation.
+11. lidocaine-diphenhyd-[**Doctor Last Name **]-mag-[**Doctor Last Name **] 200-25-400-40 mg/30 mL Mouthwash Sig: Fifteen (15) mL Mucous membrane QID PRN pain.
+12. loperamide 2 mg PO QID PRN loose stool.
+13. folic acid 1 mg PO DAILY.
+14. cholecalciferol (vitamin D3) 400 unit tablet Sig: Two (2) tablet PO DAILY.
+15. chlorhexidine gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML Mucous membrane [**Hospital1 **].
+16. ipratropium bromide 0.02 % Solution Sig: One (1) Neb Inh Q6H PRN wheezes.
+17. acyclovir 400 mg tablet Sig: One (1) tablet PO Q8H.
+18. heparin (porcine) 5,000 unit/mL Solution Sig: 1mL Injection TID.
+19. acetaminophen 325 mg tablet Sig: 1-2 tablets PO Q6H PRN pain.
+20. metoprolol tartrate 25 mg tablet Sig: 0.5 tablet PO BID.
+21. white petrolatum-mineral oil 56.8-42.5% Ointment Sig: Appl Ophthalmic Q2-3HR.
+22. tramadol 50 mg PO BID PRN left eye pain.
+23. citalopram 20 mg tablet Sig: 1.5 tablets PO DAILY.
+24. lisinopril 10 mg tablet Sig: One (1) tablet PO DAILY.
+25. senna 8.8 mg/5 mL Syrup Sig: Five (5) mL PO BID.
+26. magnesium hydroxide 400 mg/5 mL Sig: 30ML PO Q6H PRN Constipation.
+27. gabapentin 100 mg capsule Sig: Two (2) capsule PO TID.
+28. docusate sodium 50 mg/5 mL Liquid Sig: 10mL PO TID.
+29. polyethylene glycol 3350 17 gram Powder in Packet PO DAILY.
+30. acetaminophen 650mg PO: Give 30 minutes prior to cetuximab.
+31. diphenhydramine HCl 50 mg/mL Sig: 1mL Injection: Give 30 minutes prior to cetuximab.
+32. insulin glargine 100 unit/mL Solution Sig: 6U SC qHS.
+33. insulin regular human 100 unit/mL Solution Sig: As directed Units Injection QID: Per sliding scale.
+34. cetuximab 100mg/50mL Solution Sig: 250mg/m2 IV once a week for 4 weeks: Continue until radiation is complete.

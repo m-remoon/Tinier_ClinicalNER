@@ -1,0 +1,14 @@
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+2. Fosamprenavir 700 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12 hours). Disp:*120 Tablet(s)* Refills:*2*
+3. Lopinavir-Ritonavir 133.3-33.3 mg Capsule Sig: Four (4) Cap PO BID (2 times a day). Disp:*240 Cap(s)* Refills:*2*
+4. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+5. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 3 days. Disp:*3 Tablet(s)* Refills:*0*
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for headache for 3 days. Disp:*15 Tablet(s)* Refills:*0*
+7. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+8. Patanol 0.1 % Drops Sig: 1-2 drops Ophthalmic  twice a day: 1-2 drops in each eye [**Hospital1 **]. Disp:*1 bottle* Refills:*2*
+9. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*
+10. AndroGel 1 % (50 mg) Gel in Packet Sig: One (1) packet Transdermal once a day. Disp:*30 packets* Refills:*2*
+11. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+12. Loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+13. Tricor 145 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+14. Compazine 10 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for nausea for 1 weeks. Disp:*20 Tablet(s)* Refills:*0*

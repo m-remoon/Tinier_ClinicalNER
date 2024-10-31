@@ -1,0 +1,16 @@
+
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Ibuprofen 200 mg Tablet Sig: One (1) Tablet PO Q6H PRN for pain.
+4. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+6. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+7. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY for inflammation.
+8. Loratadine 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+9. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasm.
+10. Potassium Chloride 20 mEq Tablet Sig: One (1) Tablet PO DAILY for hypokalemia.
+11. Ramipril 5 mg Capsule Sig: One (1) Capsule PO DAILY for hypertension.
+12. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+13. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+14. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for blood thinning.
+15. Metoprolol 25 mg Tablet Sig: One (1) Tablet PO BID for tachycardia.

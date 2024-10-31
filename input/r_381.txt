@@ -1,0 +1,16 @@
+
+1. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+2. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+3. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+4. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+5. Alendronate 70 mg Tablet Sig: One (1) Tablet PO Weekly for osteoporosis.
+6. Digoxin 0.125 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+7. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+8. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO TID for fibromyalgia.
+10. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+11. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for urinary tract infection.
+12. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY for autoimmune disorder.
+13. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+14. Sildenafil 50 mg Tablet Sig: One (1) Tablet PO PRN for erectile dysfunction.
+15. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.

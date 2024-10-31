@@ -1,0 +1,16 @@
+
+1. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Etanercept 50 mg/mL Solution Sig: 50 mg Subcutaneous Weekly for rheumatoid arthritis.
+3. Olanzapine 10 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+4. Venlafaxine XR 75 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety.
+5. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+6. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO BID for transplant rejection prophylaxis.
+7. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+8. Tiotropium 18 mcg Inhaler Sig: Two (2) Puffs Inhalation DAILY for COPD.
+9. Bupropion SR 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+10. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+11. Hydroxyzine 25 mg Capsule Sig: One (1) Capsule PO TID for itching.
+12. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+13. Methotrexate 25 mg/mL Solution Sig: 25 mg Subcutaneous Weekly for psoriasis.
+14. Carbidopa/Levodopa 25 mg/100 mg Tablet Sig: One (1) Tablet PO TID for Parkinson's disease.
+15. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for gastric ulcer.

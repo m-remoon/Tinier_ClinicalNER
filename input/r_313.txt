@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Enoxaparin 40 mg/0.4 mL Syringe Sig: 0.4 mL Subcutaneous DAILY for DVT prophylaxis.
+3. Mesalamine 800 mg Tablet Sig: One (1) Tablet PO TID for ulcerative colitis.
+4. Liraglutide 1.8 mg/0.5 mL Solution Sig: 0.5 mL Subcutaneous DAILY for type 2 diabetes.
+5. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+6. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO BID for gout flare-ups.
+7. Budesonide 100 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+8. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+9. Mycophenolate 500 mg Capsule Sig: One (1) Capsule PO BID for organ transplant.
+10. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+11. Lamotrigine 25 mg Tablet Sig: One (1) Tablet PO DAILY for bipolar disorder.
+12. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet PO on days 2-5 for bacterial infection.
+13. Varenicline 1 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+14. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+15. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine attacks.

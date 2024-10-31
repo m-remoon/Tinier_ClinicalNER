@@ -1,0 +1,16 @@
+
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO BID for anxiety.
+3. Liraglutide 18 mg/mL Solution Sig: 1.2 mg Subcutaneous DAILY for weight management.
+4. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+5. Fluticasone 50 mcg Inhaler Sig: Two (2) puffs Inhalation BID for allergic rhinitis.
+6. Methotrexate 7.5 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+7. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+8. Linagliptin 5 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+9. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY for arrhythmia.
+10. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+11. Trazodone 50 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+12. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+13. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for itching.
+14. Betamethasone 0.1% Cream Sig: Apply topically BID for eczema.
+15. Cyclosporine 100 mg Capsule Sig: One (1) Capsule PO BID for organ transplant rejection prevention.

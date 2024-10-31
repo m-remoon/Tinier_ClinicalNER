@@ -1,0 +1,16 @@
+
+1. Aripiprazole 15 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+2. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for DVT prevention.
+3. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+4. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+5. Fluticasone 50 mcg Inhaler Sig: Two (2) puffs Inhalation BID for allergic rhinitis.
+6. Risperidone 2 mg Tablet Sig: One (1) Tablet PO DAILY for bipolar disorder.
+7. Azithromycin 250 mg Tablet Sig: Two (2) Tablet PO on first day, then One (1) Tablet DAILY for bacterial infection.
+8. Methotrexate 2.5 mg Tablet Sig: Two (2) Tablets PO Weekly for rheumatoid arthritis.
+9. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+10. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+11. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for lupus.
+12. Budesonide 3 mg Capsule Sig: One (1) Capsule PO BID for Crohn's disease.
+13. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+14. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for alopecia.
+15. Liraglutide 18 mg/3 mL Solution Sig: 1.2 mg Subcutaneous DAILY for weight management.

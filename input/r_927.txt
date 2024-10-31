@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Fluticasone 50 mcg Nasal Spray Sig: Two (2) Sprays each nostril DAILY for allergic rhinitis.
+4. Liraglutide 18 mg/3 mL Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+5. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+6. Brimonidine 0.1% Eye Drops Sig: One (1) Drop in affected eye(s) TID for glaucoma.
+7. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+8. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+9. Terbinafine 250 mg Tablet Sig: One (1) Tablet PO DAILY for fungal infection.
+10. Tiotropium 18 mcg Inhaler Sig: Two (2) Inhalations DAILY for COPD.
+11. Methotrexate 7.5 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+12. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+13. Donepezil 10 mg Tablet Sig: One (1) Tablet PO DAILY for Alzheimer's disease.
+14. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+15. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet DAILY for 4 days for bacterial infection.

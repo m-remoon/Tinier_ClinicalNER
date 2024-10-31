@@ -1,0 +1,16 @@
+
+1. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Amoxicillin 500 mg Capsule Sig: One (1) Capsule PO TID for bacterial infection.
+3. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+4. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for edema due to heart failure.
+5. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY for organ transplant rejection.
+6. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+7. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for fluid retention.
+8. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for sleep and depression.
+9. Azithromycin 500 mg Tablet Sig: One (1) Tablet PO ONCE for chlamydia infection.
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing stroke or heart attack.
+11. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+12. Tiotropium 18 mcg Inhaler Sig: Two (2) inhalations Inhalation DAILY for COPD.
+13. Methotrexate 10 mg Tablet Sig: Once (1) weekly for rheumatoid arthritis.
+14. Metoprolol Succinate 50 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+15. Rivastigmine 4.6 mg/24 hr Patch Sig: One (1) Patch TOPICAL DAILY for Alzheimer's disease.

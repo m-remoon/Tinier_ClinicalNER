@@ -1,0 +1,16 @@
+
+1. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+2. Cefuroxime 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+3. Alprazolam 0.5 mg Tablet Sig: One (1) Tablet PO TID for panic disorder.
+4. Rivastigmine 4.6 mg Patch Sig: One (1) Patch Transdermal DAILY for Alzheimer's disease.
+5. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+6. Enoxaparin 40 mg/0.4 mL Solution Sig: 40 mg Subcutaneous Daily for DVT prophylaxis.
+7. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+8. Azithromycin 500 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet PO DAILY for days 2-5 for bacterial infections.
+9. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+10. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+11. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+12. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+13. Fluticasone 110 mcg Inhaler Sig: Two (2) puffs Inhalation BID for allergic rhinitis.
+14. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+15. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.

@@ -1,0 +1,35 @@
+```
+Extracted Fields:
+1. Drug: Apixaban | Strength: 2.5 mg | Form: Tablet | Dosage: 1 | Frequency: BID | Route: PO | Reason: Anticoagulation
+2. Drug: Dulaglutide | Strength: 1.5 mg/0.5 mL | Form: Solution, Pen-injector | Dosage: 1 | Frequency: Weekly | Route: Subcutaneous | Reason: Diabetes
+3. Drug: Vesicare | Strength: 5 mg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Overactive bladder
+4. Drug: Dapagliflozin | Strength: 10 mg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Type 2 diabetes
+5. Drug: Oxybutynin | Strength: 10 mg | Form: Extended-Release, Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Bladder spasms
+6. Drug: Rivaroxaban | Strength: 10 mg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Deep vein thrombosis prophylaxis
+7. Drug: Benralizumab | Strength: 30 mg/mL | Form: Solution | Dosage: 1 | Frequency: Every 4 weeks | Route: Subcutaneous | Reason: Eosinophilic asthma
+8. Drug: Eszopiclone | Strength: 2 mg | Form: Tablet | Dosage: 1 | Frequency: QHS | Route: PO | Reason: Insomnia
+9. Drug: Sacubitril/Valsartan | Strength: 100 mg | Form: Tablet | Dosage: 1 | Frequency: BID | Route: PO | Reason: Heart failure
+10. Drug: Mirabegron | Strength: 50 mg | Form: Tablet | Dosage: 1 | Frequency: Daily | Route: PO | Reason: Urinary incontinence
+11. Drug: Beclomethasone | Strength: 40 mcg | Form: Inhaler | Dosage: 2 | Frequency: BID | Route: Inhalation | Reason: Asthma maintenance
+12. Drug: Liraglutide | Strength: 0.6 mg | Form: Solution, Pen-injector | Dosage: 1 | Frequency: Daily | Route: Subcutaneous | Reason: Obesity management
+13. Drug: Tolterodine | Strength: 2 mg | Form: Capsule | Dosage: 1 | Frequency: BID | Route: PO | Reason: Urinary frequency
+14. Drug: Ivabradine | Strength: 5 mg | Form: Tablet | Dosage: 1 | Frequency: BID | Route: PO | Reason: Heart rate control
+15. Drug: Secukinumab | Strength: 150 mg/mL | Form: Solution | Dosage: 1 | Frequency: Monthly | Route: Subcutaneous | Reason: Plaque psoriasis
+
+Labels:
+1. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON]
+2. [O, B-DRUG, B-STRENGTH, I-STRENGTH, I-STRENGTH, B-FORM, I-FORM, O, B-DOSAGE, B-ROUTE, B-FREQUENCY, O, B-REASON]
+3. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+4. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON, I-REASON]
+5. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, I-FORM, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+6. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON, I-REASON, I-REASON]
+7. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, I-FREQUENCY, I-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+8. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON]
+9. [O, B-DRUG, I-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+10. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+11. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+12. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, I-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+13. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+14. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+15. [O, B-DRUG, B-STRENGTH, I-STRENGTH, B-FORM, O, B-DOSAGE, B-FREQUENCY, B-ROUTE, O, B-REASON, I-REASON]
+```

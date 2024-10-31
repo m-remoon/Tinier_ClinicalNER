@@ -1,0 +1,15 @@
+    1. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+    2. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+    3. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+    4. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+    5. Liraglutide 0.6 mg Solution Sig: 0.6 mg Subcutaneous DAILY for obesity.
+    6. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+    7. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+    8. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+    9. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then One (1) Tablet PO DAILY for bacterial infection.
+    10. Cilostazol 100 mg Tablet Sig: One (1) Tablet PO BID for intermittent claudication.
+    11. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+    12. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for allergies.
+    13. Methotrexate 15 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+    14. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+    15. Terbinafine 250 mg Tablet Sig: One (1) Tablet PO DAILY for fungal infection.

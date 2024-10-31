@@ -1,0 +1,122 @@
+{
+    "record_id": "record_041",
+    "entries": [
+        {
+            "instruction": "1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).",
+            "tokens": [
+                "1.",
+                "Pantoprazole",
+                "40",
+                "mg",
+                "Tablet,",
+                "Delayed",
+                "Release",
+                "(E.C.)",
+                "Sig:",
+                "One",
+                "(1)",
+                "Tablet,",
+                "Delayed",
+                "Release",
+                "(E.C.)",
+                "PO",
+                "Q12H",
+                "(every",
+                "12",
+                "hours)."
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-FORM",
+                "I-FORM",
+                "I-FORM",
+                "I-FORM",
+                "O",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-FORM",
+                "I-FORM",
+                "I-FORM",
+                "I-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "2. Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).",
+            "tokens": [
+                "2.",
+                "Diltiazem",
+                "HCl",
+                "30",
+                "mg",
+                "Tablet",
+                "Sig:",
+                "One",
+                "(1)",
+                "Tablet",
+                "PO",
+                "QID",
+                "(4",
+                "times",
+                "a",
+                "day)."
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "I-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-FORM",
+                "O",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "3. Citalopram 20 mg Tablet Sig: One (1) Tablet PO at bedtime.",
+            "tokens": [
+                "3.",
+                "Citalopram",
+                "20",
+                "mg",
+                "Tablet",
+                "Sig:",
+                "One",
+                "(1)",
+                "Tablet",
+                "PO",
+                "at",
+                "bedtime."
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-FORM",
+                "O",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-FORM",
+                "B-ROUTE",
+                "O",
+                "B-FREQUENCY"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "record_id": "record_004",
+    "entries": [
+        {
+            "instruction": "1. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).",
+            "tokens": [
+                "1.",
+                "levothyroxine",
+                "75",
+                "mcg",
+                "Tablet",
+                "Sig:",
+                "One",
+                "(1)",
+                "Tablet",
+                "PO",
+                "DAILY",
+                "(Daily)."
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-FORM",
+                "O",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "I-FREQUENCY"
+            ]
+        }
+    ]
+}

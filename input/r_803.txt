@@ -1,0 +1,15 @@
+1. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for fluid retention.
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+5. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID for edema.
+7. Bisoprolol 5 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+8. Liraglutide 18 mg/3 mL Pen Sig: Inject 1.8 mg Subcutaneous DAILY for diabetes.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+10. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+11. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for BPH.
+12. Methotrexate 2.5 mg Tablet Sig: Two (2) Tablets PO WEEKLY for rheumatoid arthritis.
+13. Oxybutynin 10 mg Tablet Sig: One (1) Tablet PO DAILY for overactive bladder.
+14. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.
+15. Trazodone 50 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.

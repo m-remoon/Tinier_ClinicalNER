@@ -1,0 +1,16 @@
+
+1. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Aripiprazole 10 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+4. Alprazolam 0.5 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+5. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+7. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+8. Valacyclovir 500 mg Tablet Sig: One (1) Tablet PO BID for herpes simplex.
+9. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+10. Tiotropium 18 mcg Inhaler Sig: Two (2) inhalations Inhalation DAILY for COPD.
+11. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+12. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+13. Methotrexate 25 mg/mL Solution Sig: 25 mg Subcutaneous Weekly for rheumatoid arthritis.
+14. Liraglutide 1.2 mg Solution Sig: 1.2 mg Subcutaneous DAILY for type 2 diabetes.
+15. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO QID for pruritus.

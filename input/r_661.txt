@@ -1,0 +1,16 @@
+
+1. Olmesartan 20 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+3. Rabeprazole 20 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+4. Salmeterol 50 mcg Inhaler Sig: Two (2) inhalations BID for asthma.
+5. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+6. Fenofibrate 160 mg Tablet Sig: One (1) Tablet PO DAILY for high triglycerides.
+7. Nifedipine 30 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+8. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+9. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+10. NPH Insulin 100 units/mL Solution Sig: 15 units Subcutaneous BID for diabetes.
+11. Doxazosin 4 mg Tablet Sig: One (1) Tablet PO DAILY for BPH.
+12. Zafirlukast 20 mg Tablet Sig: One (1) Tablet PO BID for asthma.
+13. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for reflux.
+14. Guanfacine 2 mg Tablet Sig: One (1) Tablet PO DAILY for ADHD.
+15. Hydrocodone/Acetaminophen 5/325 mg Tablet Sig: One (1) Tablet PO Q6H PRN for pain.

@@ -1,0 +1,16 @@
+
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO TID for bacterial infection.
+3. Diltiazem 30 mg Tablet Sig: One (1) Tablet PO QID for angina.
+4. Methotrexate 7.5 mg Tablet Sig: One (1) Tablet PO WEEKLY for rheumatoid arthritis.
+5. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+7. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+8. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO PRN for anxiety.
+9. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+10. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet DAILY for 4 days for bacterial infection.
+11. Alendronate 70 mg Tablet Sig: One (1) Tablet PO WEEKLY for osteoporosis.
+12. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO DAILY for arthritis pain.
+13. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+14. Latanoprost 0.005% Eye Drops Sig: One (1) drop in each eye DAILY for glaucoma.
+15. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY with food for stroke prevention in atrial fibrillation.

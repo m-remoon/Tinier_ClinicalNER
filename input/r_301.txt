@@ -1,0 +1,16 @@
+
+1. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+3. Montelukast 4 mg Chewable Tablet Sig: One (1) Tablet PO DAILY for allergic rhinitis.
+4. Fluconazole 150 mg Tablet Sig: One (1) Tablet PO ONCE for fungal infection.
+5. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+6. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet daily for infection.
+7. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+8. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+9. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+10. Ondansetron 8 mg ODT Tablet Sig: One (1) Tablet PO Q8H PRN for nausea.
+11. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+12. Methotrexate 2.5 mg Tablet Sig: Six (6) Tablets PO Once Weekly for rheumatoid arthritis.
+13. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO DAILY for osteoarthritis.
+14. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for major depressive disorder.
+15. Fenofibrate 145 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.

@@ -1,0 +1,16 @@
+
+1. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for antiplatelet therapy.
+3. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+5. Sulfasalazine 500 mg Tablet Sig: One (1) Tablet PO TID for rheumatoid arthritis.
+6. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+7. Tiotropium 18 mcg Inhaler Sig: One (1) Inhalation DAILY for COPD maintenance.
+8. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO TID for fibromyalgia.
+10. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+11. Budesonide 64 mcg Nasal Spray Sig: Two (2) Sprays DAILY for allergic rhinitis.
+12. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for essential tremor.
+13. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+14. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+15. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.

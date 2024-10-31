@@ -1,0 +1,15 @@
+    1. Eliquis 5 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+    2. Spiriva 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+    3. Jardiance 25 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+    4. Xarelto 20 mg Tablet Sig: One (1) Tablet PO DAILY for blood clot prevention.
+    5. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+    6. Linzess 290 mcg Capsule Sig: One (1) Capsule PO DAILY for IBS with constipation.
+    7. Seroquel 100 mg Tablet Sig: One (1) Tablet PO DAILY for bipolar disorder.
+    8. Singulair 5 mg Chewable Tablet Sig: One (1) Tablet PO DAILY for allergies.
+    9. Restasis 0.05% Eye Drops Sig: One (1) drop in each eye BID for dry eyes.
+    10. Lexapro 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+    11. Celebrex 200 mg Capsule Sig: One (1) Capsule PO BID for arthritis.
+    12. Cymbalta 30 mg Capsule Sig: One (1) Capsule PO DAILY for fibromyalgia.
+    13. Prolia 60 mg Injection Sig: One (1) Injection Subcutaneous every 6 months for osteoporosis.
+    14. Entresto 97-103 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+    15. Humira 40 mg/0.8 mL Pen Sig: One (1) Injection Subcutaneous every other week for rheumatoid arthritis.

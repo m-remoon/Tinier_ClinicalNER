@@ -1,0 +1,16 @@
+
+1. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for esophagitis.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for cholesterol management.
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID for fluid retention.
+4. Infliximab 200 mg Solution Sig: 200 mg Intravenous Every 8 weeks for Crohn's disease.
+5. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+6. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+7. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+8. Spiriva 18 mcg Inhaler Sig: One (1) inhalation DAILY for COPD.
+9. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then One (1) Tablet PO Daily for infection.
+10. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for thromboembolism prevention.
+11. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO at onset of migraine.
+12. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+13. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+14. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+15. Metoprolol 25 mg Tablet Sig: One (1) Tablet PO BID for heart failure.

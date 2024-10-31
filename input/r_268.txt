@@ -1,0 +1,15 @@
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Clindamycin 150 mg Capsule Sig: One (1) Capsule PO Q6H for bacterial infection.
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+5. Propranolol 10 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+6. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+7. Cyclosporine 0.05% Ophthalmic Solution Sig: One (1) drop each eye BID for dry eyes.
+8. Ipratropium 0.5 mg/2.5 mL Solution Sig: 2.5 mL Inhalation Q6H for COPD.
+9. Tadalafil 5 mg Tablet Sig: One (1) Tablet PO DAILY for erectile dysfunction.
+10. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on first day, then one (1) Tablet DAILY for bacterial infection.
+11. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+12. Nicardipine 30 mg Capsule Sig: One (1) Capsule PO TID for angina.
+13. Ropinirole 1 mg Tablet Sig: One (1) Tablet PO TID for Parkinson's disease.
+14. Dulaglutide 1.5 mg/0.5 mL Pen Sig: Inject 0.5 mL Subcutaneous Weekly for diabetes.
+15. Naproxen 500 mg Tablet Sig: One (1) Tablet PO BID for arthritis pain.

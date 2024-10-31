@@ -1,0 +1,16 @@
+
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+2. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID for edema.
+4. Nitrofurantoin 100 mg Capsule Sig: One (1) Capsule PO BID for urinary tract infection.
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing stroke.
+6. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+7. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+8. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+9. Loratadine 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+10. Pioglitazone 15 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+11. Ramipril 5 mg Capsule Sig: One (1) Capsule PO DAILY for hypertension.
+12. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) tablet daily for days 2-5 for bronchitis.
+13. Liraglutide 6 mg/mL Solution Sig: 1.2 mg Subcutaneous DAILY for type 2 diabetes.
+14. Trazodone 50 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+15. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for anxiety.

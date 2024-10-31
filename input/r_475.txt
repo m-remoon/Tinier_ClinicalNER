@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Spiriva 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+4. Liraglutide 3 mg/pen Injection Sig: One (1) injection Subcutaneous DAILY for obesity management.
+5. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+6. Donepezil 10 mg Tablet Sig: One (1) Tablet PO NIGHTLY for Alzheimer's disease.
+7. Ethinyl Estradiol/Norgestimate 0.035 mg/0.25 mg Tablet Sig: One (1) Tablet PO DAILY for contraception.
+8. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+9. Sulfasalazine 500 mg Tablet Sig: Two (2) Tablets PO TID for ulcerative colitis.
+10. Fluticasone Nasal Spray 50 mcg Spray Sig: Two (2) sprays Nasal BID for allergic rhinitis.
+11. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+12. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for hypercholesterolemia.
+13. Valproic Acid 250 mg Capsule Sig: One (1) Capsule PO TID for bipolar disorder.
+14. Methotrexate 2.5 mg Tablet Sig: Six (6) Tablets PO Weekly for psoriasis.
+15. Fentanyl 25 mcg/hour Patch Sig: One (1) Patch Transdermal Q72H for chronic pain.

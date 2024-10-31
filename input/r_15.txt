@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hypercholesterolemia.
+2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO BID for depression.
+3. Fluticasone 50 mcg Nasal Spray Sig: Two (2) Sprays Inhalation BID for allergic rhinitis.
+4. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+5. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+6. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+7. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+8. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+9. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for reducing cholesterol.
+10. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+11. Tiotropium 18 mcg Inhaler Sig: Two (2) Puffs Inhalation DAILY for COPD.
+12. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+13. Methotrexate 10 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+14. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+15. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.

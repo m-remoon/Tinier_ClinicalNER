@@ -1,0 +1,16 @@
+
+1. Aripiprazole 15 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing blood clots.
+3. Spiriva 18 mcg Inhaler Sig: Two (2) puffs Inhalation ONCE DAILY for COPD.
+4. Hydroxyzine 25 mg Capsule Sig: One (1) Capsule PO Q6H PRN for anxiety.
+5. Methotrexate 7.5 mg Tablet Sig: One (1) Tablet PO WEEKLY for rheumatoid arthritis.
+6. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+7. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+8. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+9. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+11. Liraglutide 0.6 mg Solution Sig: Inject 0.6 mg Subcutaneous DAILY for diabetes.
+12. Ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO TID for Parkinson's disease.
+13. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasticity.
+14. Mycophenolate 500 mg Tablet Sig: One (1) Tablet PO BID for organ transplant rejection prevention.
+15. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY for arrhythmia.

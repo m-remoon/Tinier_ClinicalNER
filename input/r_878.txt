@@ -1,0 +1,16 @@
+
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Buprenorphine/Naloxone 8 mg/2 mg Sublingual Film Sig: One (1) Film Sublingually DAILY for opioid dependence.
+4. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+5. Lamotrigine 50 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+6. Rivastigmine 4.6 mg/24 hr Patch Sig: One (1) Patch Topically DAILY for Alzheimer's disease.
+7. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+8. Topiramate 100 mg Tablet Sig: One (1) Tablet PO NIGHTLY for migraines.
+9. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+10. Carbamazepine 200 mg Tablet Sig: One (1) Tablet PO TID for seizure disorders.
+11. Oxybutynin 10 mg Tablet Sig: One (1) Tablet PO DAILY for overactive bladder.
+12. Mycophenolate 500 mg Tablet Sig: One (1) Tablet PO BID for organ transplant rejection prophylaxis.
+13. Fluticasone/Salmeterol 250 mcg/50 mcg Inhaler Sig: Two (2) puffs Inhalation BID for COPD.
+14. Methotrexate 15 mg Tablet Sig: One (1) Tablet PO WEEKLY for psoriasis.
+15. Rifaximin 550 mg Tablet Sig: One (1) Tablet PO TID for hepatic encephalopathy.

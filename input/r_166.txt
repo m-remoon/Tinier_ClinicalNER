@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Fluconazole 150 mg Tablet Sig: One (1) Tablet PO Once for fungal infection.
+5. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+7. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+8. Protonix 40 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+9. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO BID for anxiety.
+10. Ipratropium Bromide 0.03% Solution Sig: Two (2) Sprays Inhalation QID for COPD.
+11. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet PO daily for days 2-5 for respiratory tract infection.
+12. Sulfasalazine 500 mg Tablet Sig: Two (2) Tablets PO BID for ulcerative colitis.
+13. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasms.
+14. Acetazolamide 250 mg Tablet Sig: One (1) Tablet PO BID for glaucoma.
+15. Nicardipine 30 mg Capsule Sig: One (1) Capsule PO TID for angina.

@@ -1,0 +1,16 @@
+
+1. Varenicline 1 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+2. Liraglutide 1.2 mg Solution Sig: 1.2 mg Subcutaneous DAILY for weight management.
+3. Sulfasalazine 500 mg Tablet Sig: One (1) Tablet PO TID for ulcerative colitis.
+4. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+5. Risperidone 2 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+6. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+7. Erenumab 70 mg/mL Solution Sig: 70 mg Subcutaneous Monthly for migraine prevention.
+8. Anastrozole 1 mg Tablet Sig: One (1) Tablet PO DAILY for breast cancer.
+9. Mycophenolate mofetil 500 mg Tablet Sig: One (1) Tablet PO BID for organ transplant rejection.
+10. Teriflunomide 14 mg Tablet Sig: One (1) Tablet PO DAILY for multiple sclerosis.
+11. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+12. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+13. Sevelamer 800 mg Tablet Sig: One (1) Tablet PO TID with meals for hyperphosphatemia.
+14. Aripiprazole 10 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+15. Enalapril 20 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.

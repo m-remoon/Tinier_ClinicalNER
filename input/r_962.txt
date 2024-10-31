@@ -1,0 +1,16 @@
+
+1. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+5. Aripiprazole 15 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO QAM for edema.
+7. Valacyclovir 1 g Tablet Sig: One (1) Tablet PO BID for herpes zoster.
+8. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for myocardial infarction prevention.
+9. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+10. Rivastigmine 4.6 mg Patch Sig: One (1) Patch Transdermal DAILY for Alzheimer's disease.
+11. Methotrexate 15 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+12. Budesonide 160 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma maintenance.
+13. Pioglitazone 30 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+14. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for major depressive disorder.
+15. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.

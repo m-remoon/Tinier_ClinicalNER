@@ -1,0 +1,16 @@
+
+1. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+2. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO DAILY for rheumatoid arthritis.
+3. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+4. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+5. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+6. Liraglutide 6 mg/mL Solution Sig: 1.2 mg Subcutaneous DAILY for type 2 diabetes.
+7. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+8. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+9. Alprazolam 0.5 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+10. Cefdinir 300 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+11. Dutasteride 0.5 mg Capsule Sig: One (1) Capsule PO DAILY for BPH.
+12. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+13. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+14. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+15. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.

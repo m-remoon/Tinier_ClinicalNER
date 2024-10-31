@@ -1,0 +1,16 @@
+
+1. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+2. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+3. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+4. Varenicline 0.5 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+5. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for hypercholesterolemia.
+6. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+7. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+8. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+9. Quetiapine 50 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+10. Fluticasone 110 mcg Inhaler Sig: Two (2) puffs Inhalation BID for allergic rhinitis.
+11. Glimiperide 2 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+12. Celecoxib 200 mg Capsule Sig: One (1) Capsule PO BID for arthritis.
+13. Aripiprazole 10 mg Tablet Sig: One (1) Tablet PO DAILY for bipolar disorder.
+14. Tizanidine 4 mg Tablet Sig: One (1) Tablet PO TID for muscle spasticity.
+15. Tiotropium 18 mcg Inhaler Sig: Two (2) inhalations Inhalation DAILY for COPD.

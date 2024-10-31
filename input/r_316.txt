@@ -1,0 +1,16 @@
+
+1. Methotrexate 2.5 mg Tablet Sig: One (1) Tablet PO WEEKLY for rheumatoid arthritis.
+2. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Hydroxyzine 25 mg Capsule Sig: One (1) Capsule PO Q6H for itching.
+5. Triptorelin 3.75 mg Injection Sig: One (1) Injection Intramuscularly MONTHLY for prostate cancer.
+6. Ipratropium 500 mcg/2.5 mL Nebulizer Solution Sig: One (1) Vial Inhalation QID for COPD.
+7. Diltiazem 30 mg Tablet Sig: One (1) Tablet PO QID for angina.
+8. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY for immunosuppression.
+9. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for fibromyalgia.
+10. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+11. Doxazosin 4 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+12. Fentanyl 25 mcg/hour Patch Sig: One (1) Patch Transdermal Q72H for chronic pain.
+13. Cyclosporine 100 mg Capsule Sig: One (1) Capsule PO BID for organ transplant.
+14. Risperidone 2 mg Tablet Sig: One (1) Tablet PO BID for schizophrenia.
+15. Valganciclovir 450 mg Tablet Sig: One (1) Tablet PO DAILY for CMV prophylaxis.

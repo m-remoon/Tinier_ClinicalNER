@@ -1,0 +1,16 @@
+
+1. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+2. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+3. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+4. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+5. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO Q6H for bacterial infection.
+6. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID for seizure control.
+7. Propranolol 10 mg Tablet Sig: One (1) Tablet PO BID for tremors.
+8. Ondansetron 4 mg ODT Sig: One (1) Tablet PO TID PRN for nausea.
+9. Verapamil 120 mg Capsule Sig: One (1) Capsule PO DAILY for arrhythmia.
+10. Methotrexate 2.5 mg Tablet Sig: Two (2) Tablets PO Weekly for rheumatoid arthritis.
+11. Dexamethasone 1 mg Tablet Sig: One (1) Tablet PO BID for inflammation.
+12. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+13. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+14. Carbamazepine 200 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+15. Fluticasone 50 mcg Nasal Spray Sig: Two (2) Sprays Intranasal Daily for allergic rhinitis.

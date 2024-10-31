@@ -1,0 +1,16 @@
+
+1. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+2. Diclofenac 1% Gel Sig: Apply topically to affected area QID for arthritis pain.
+3. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+4. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+5. Propranolol 10 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+6. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasms.
+7. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+8. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+9. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+10. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+11. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO QID for bacterial infection.
+12. Trazodone 50 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+13. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+14. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for acne.
+15. Ondansetron 4 mg ODT Sig: One (1) Tablet PO TID PRN for nausea.

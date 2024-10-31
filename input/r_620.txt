@@ -1,0 +1,15 @@
+1. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+2. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID for edema.
+4. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID for seizure control.
+5. Celecoxib 200 mg Capsule Sig: One (1) Capsule PO Daily for arthritis pain.
+6. Eszopiclone 2 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+7. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for heartburn.
+8. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+9. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H PRN for severe pain.
+10. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO Daily for hypothyroidism.
+11. Labetalol 100 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+12. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO Daily for osteoarthritis.
+13. Ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO TID for Parkinson's disease.
+14. Risperidone 1 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+15. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID for bacterial infection.

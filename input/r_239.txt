@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing blood clots.
+3. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+4. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+5. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+6. Methotrexate 15 mg Tablet Sig: One (1) Tablet PO WEEKLY for rheumatoid arthritis.
+7. Fluticasone 50 mcg Nasal Spray Sig: Two (2) sprays each nostril DAILY for allergic rhinitis.
+8. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO DAILY for osteoarthritis.
+9. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+10. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO Q6H for bacterial infection.
+11. Olanzapine 10 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+12. Liraglutide 0.6 mg Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+13. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for lupus.
+14. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+15. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine attack.

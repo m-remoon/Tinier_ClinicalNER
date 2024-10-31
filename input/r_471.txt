@@ -1,0 +1,16 @@
+
+1. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for autoimmune disorder.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Cyclosporine 100 mg Capsule Sig: One (1) Capsule PO BID for organ transplant.
+4. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for seizures.
+5. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+6. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO DAILY for osteoarthritis.
+7. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY for arrhythmia.
+8. Methotrexate 10 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+9. Donepezil 10 mg Tablet Sig: One (1) Tablet PO DAILY for Alzheimer’s disease.
+10. Benztropine 1 mg Tablet Sig: One (1) Tablet PO BID for Parkinson's disease.
+11. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO TID for neuropathic pain.
+12. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for BPH.
+13. Valganciclovir 450 mg Tablet Sig: One (1) Tablet PO BID for cytomegalovirus infection.
+14. Methimazole 5 mg Tablet Sig: One (1) Tablet PO BID for hyperthyroidism.
+15. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.

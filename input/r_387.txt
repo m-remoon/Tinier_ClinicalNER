@@ -1,0 +1,16 @@
+
+1. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO NIGHTLY for high cholesterol.
+3. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+4. Salmeterol 50 mcg Inhaler Sig: One (1) inhalation BID for asthma.
+5. Glipizide 5 mg Tablet Sig: One (1) Tablet PO DAILY for Type 2 diabetes.
+6. Fenofibrate 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertriglyceridemia.
+7. Verapamil 120 mg Tablet Sig: One (1) Tablet PO Q12H for angina.
+8. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+10. Liraglutide 6 mg/mL Solution Sig: 1.2 mg Subcutaneous DAILY for diabetes.
+11. Doxazosin 4 mg Tablet Sig: One (1) Tablet PO DAILY for BPH.
+12. Theophylline 100 mg Capsule Sig: One (1) Capsule PO DAILY for COPD.
+13. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for acid reflux.
+14. Nitrofurantoin 100 mg Capsule Sig: One (1) Capsule PO BID for UTI.
+15. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.

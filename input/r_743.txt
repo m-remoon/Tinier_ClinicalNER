@@ -1,0 +1,15 @@
+1. Aripiprazole 10 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+2. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+3. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+4. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+5. Dulaglutide 1.5 mg/0.5 mL Solution Sig: One (1) injection Subcutaneous Weekly for type 2 diabetes.
+6. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+7. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+8. Nitrofurantoin 100 mg Capsule Sig: One (1) Capsule PO BID for urinary tract infection.
+9. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY for autoimmune hepatitis.
+10. Sumatriptan 100 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+11. Memantine 10 mg Tablet Sig: One (1) Tablet PO BID for Alzheimer's disease.
+12. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+13. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+14. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY for arrhythmia.
+15. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.

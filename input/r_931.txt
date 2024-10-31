@@ -1,0 +1,15 @@
+1. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for diabetes.
+2. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for hypertension.
+3. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for blood thinning.
+4. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily) for hypothyroidism.
+5. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)) for cholesterol control.
+6. Paracetamol 500 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) for pain.
+7. Amoxicillin 500 mg Capsule Sig: One (1) Capsule PO TID (3 times a day) for infection.
+8. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for inflammation.
+9. Atenolol 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for hypertension.
+10. Omeprazole 20 mg Capsule, Delayed Release Sig: One (1) Capsule, Delayed Release PO Q24H (every 24 hours) for acid reflux.
+11. Albuterol 90 mcg Inhalation Aerosol Sig: Two (2) Puffs Inhalation Q4H (every 4 hours) for asthma.
+12. Insulin Glargine 100 units/mL Solution Sig: Ten (10) units Subcutaneous QHS (once a day (at bedtime)) for diabetes.
+13. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for hypertension.
+14. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 times a day) for nerve pain.
+15. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for bacterial infection.

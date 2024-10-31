@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO TID for bacterial infection.
+3. Adalimumab 40 mg/0.8 mL Injection Sig: One (1) Injection Subcutaneous Biweekly for rheumatoid arthritis.
+4. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.
+5. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+6. Alendronate 70 mg Tablet Sig: One (1) Tablet PO WEEKLY for osteoporosis.
+7. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+8. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for hair loss.
+9. Budesonide 160 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+10. Nitrofurantoin 100 mg Capsule Sig: One (1) Capsule PO BID for urinary tract infection.
+11. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+12. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+13. Dulaglutide 0.75 mg/0.5 mL Injection Sig: One (1) Injection Subcutaneous Weekly for type 2 diabetes.
+14. Mesalamine 500 mg Tablet Sig: Two (2) Tablets PO TID for ulcerative colitis.
+15. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID for seizure management.

@@ -1,0 +1,16 @@
+
+1. Ethosuximide 250 mg Capsule Sig: One (1) Capsule PO BID for absence seizures.
+2. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+3. Ivabradine 5 mg Tablet Sig: One (1) Tablet PO BID for chronic heart failure.
+4. Milnacipran 50 mg Tablet Sig: One (1) Tablet PO BID for fibromyalgia.
+5. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+6. Pirfenidone 267 mg Capsule Sig: Three (3) Capsules PO TID for idiopathic pulmonary fibrosis.
+7. Apremilast 30 mg Tablet Sig: One (1) Tablet PO BID for psoriasis.
+8. Edoxaban 60 mg Tablet Sig: One (1) Tablet PO DAILY for prevention of stroke and embolism.
+9. Carglumic Acid 200 mg Tablet Sig: One (1) Tablet PO BID for hyperammonemia.
+10. Treprostinil 1 mg Tablet Sig: One (1) Tablet PO TID for pulmonary arterial hypertension.
+11. Secukinumab 150 mg Solution Sig: One (1) mL Subcutaneous Monthly for ankylosing spondylitis.
+12. Ticagrelor 90 mg Tablet Sig: One (1) Tablet PO BID for acute coronary syndrome.
+13. Leflunomide 20 mg Tablet Sig: One (1) Tablet PO DAILY for rheumatoid arthritis.
+14. Roflumilast 500 mcg Tablet Sig: One (1) Tablet PO DAILY for COPD.
+15. Dabrafenib 75 mg Capsule Sig: One (1) Capsule PO BID for melanoma with BRAF mutation.

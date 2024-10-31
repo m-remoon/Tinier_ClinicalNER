@@ -1,0 +1,15 @@
+1. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+2. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasms.
+4. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+5. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+6. Spironolactone 50 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+7. Venlafaxine XR 75 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety.
+8. Liraglutide 6 mg/mL Injection Sig: 1.8 mg Subcutaneous DAILY for type 2 diabetes.
+9. Benztropine 1 mg Tablet Sig: One (1) Tablet PO QHS for Parkinson's disease.
+10. Dabigatran 150 mg Capsule Sig: One (1) Capsule PO BID for atrial fibrillation.
+11. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+12. Buspirone 10 mg Tablet Sig: One (1) Tablet PO BID for anxiety.
+13. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+14. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+15. Acyclovir 400 mg Tablet Sig: One (1) Tablet PO TID for herpes zoster.

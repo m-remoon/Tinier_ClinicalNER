@@ -1,0 +1,16 @@
+
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+5. Liraglutide 1.2 mg Solution Sig: One (1) Injection Subcutaneous DAILY for weight management.
+6. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+7. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+8. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY for inflammation.
+9. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+10. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+11. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for ulcer prevention.
+12. Dulaglutide 0.75 mg Solution Sig: One (1) Injection Subcutaneous Weekly for type 2 diabetes.
+13. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+14. Risperidone 2 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+15. Digoxin 0.125 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.

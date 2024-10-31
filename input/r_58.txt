@@ -1,0 +1,16 @@
+
+1. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+2. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+5. Celecoxib 200 mg Capsule Sig: One (1) Capsule PO DAILY for arthritis.
+6. Eszopiclone 2 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+7. Linagliptin 5 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+8. Budesonide 200 mcg Inhaler Sig: Two (2) puffs Inhalation BID for COPD.
+9. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for DVT prevention.
+10. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal PRN for constipation.
+11. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+12. Anastrozole 1 mg Tablet Sig: One (1) Tablet PO DAILY for breast cancer.
+13. Diltiazem 30 mg Capsule Sig: One (1) Capsule PO QID for arrhythmia.
+14. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then one (1) Tablet PO DAILY for infection.
+15. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.

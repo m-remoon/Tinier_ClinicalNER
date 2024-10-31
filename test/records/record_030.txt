@@ -1,0 +1,17 @@
+1. Warfarin 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO Once Daily at 4 PM. Disp:*30 Tablet(s)* Refills:*2*
+2. Amlodipine 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+3. Guaifenesin 100 mg/5 mL Syrup [**Hospital1 **]: 5-10 MLs PO Q6H (every 6 hours) as needed. Disp:*200 ML(s)* Refills:*1*
+4. Lisinopril 20 mg Tablet [**Hospital1 **]: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2*
+5. Metoprolol Tartrate 25 mg Tablet [**Hospital1 **]: 1.5 Tablets PO TID (3 times a day). Disp:*135 Tablet(s)* Refills:*2*
+6. Albuterol 90 mcg/Actuation Aerosol [**Hospital1 **]: [**12-27**]  Inhalation four times a day. Disp:*1 bottle* Refills:*1*
+7. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device [**Month/Day (2) **]: One (1)  Inhalation once a day. Disp:*1 bottle* Refills:*1*
+8. Ipratropium Bromide 17 mcg/Actuation Aerosol [**Month/Day (2) **]: [**12-27**] Inhalation four times a day. Disp:*1 bottke* Refills:*2*
+9. Fluticasone 110 mcg/Actuation Aerosol [**Month/Day (2) **]: Four (4) Puff Inhalation [**Hospital1 **] (2 times a day). Disp:*1 bottle* Refills:*2*
+10. Salmeterol 50 mcg/Dose Disk with Device [**Hospital1 **]: Two (2) Disk with Device Inhalation Q12H (every 12 hours). Disp:*120 Disk with Device(s)* Refills:*2*
+11. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR PO BID (2 times a day). Disp:*60 Tablet,Rapid Dissolve, DR(s)* Refills:*2*
+12. Sucralfate 1 gram Tablet [**Last Name (STitle) **]: One (1) Tablet PO QID (4 times a day). Disp:*120 Tablet(s)* Refills:*2*
+13. Aspirin 325 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+14. Atorvastatin 80 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+15. Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a day) as needed. Disp:*60 Tablet(s)* Refills:*0*
+16. Serevent Diskus 50 mcg/Dose Disk with Device [**Last Name (STitle) **]: [**12-27**] Inhalation twice a day. Disp:*1 bottle* Refills:*2*
+17. Prednisone 10 mg Tablet [**Month/Day (2) **]: 1/2-4 Tablets PO once a day for 14 days: take 4 tabs for 1 day, 2 tabs for 4 days, 1 tab for 4 days, [**12-27**] tab for 4 days. Disp:*18 Tablet(s)* Refills:*0*

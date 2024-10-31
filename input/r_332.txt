@@ -1,0 +1,16 @@
+
+1. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Liraglutide 3 mg Pen Injector Sig: 0.6 mg Subcutaneous DAILY for weight management.
+5. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+6. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then One (1) Tablet PO DAILY for 4 days for bacterial infection.
+7. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+8. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO QID for bacterial infection.
+9. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasm.
+10. Aripiprazole 15 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+11. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for GERD.
+12. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+13. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for BPH.
+14. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+15. Ropinirole 1 mg Tablet Sig: One (1) Tablet PO TID for Parkinson's disease.

@@ -1,0 +1,16 @@
+
+1. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO BID for depression.
+3. Spiriva 18 mcg Inhalation Capsule Sig: One (1) Capsule Inhalation DAILY for COPD.
+4. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+5. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+6. Lantus 100 units/mL Solution Sig: 20 units Subcutaneous QHS for diabetes mellitus.
+7. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+8. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO TID for fibromyalgia.
+9. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO HS for hypercholesterolemia.
+10. Fluticasone 50 mcg Nasal Spray Sig: Two (2) Sprays Nasal BID for allergic rhinitis.
+11. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+12. Tiotropium 2.5 mcg Inhaler Sig: Two (2) Inhalations Inhalation DAILY for bronchospasm.
+13. Donepezil 10 mg Tablet Sig: One (1) Tablet PO NIGHTLY for Alzheimer’s disease.
+14. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+15. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then One (1) Tablet Daily for infection.

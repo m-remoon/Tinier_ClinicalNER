@@ -1,0 +1,16 @@
+
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Spiriva 18 mcg Inhaler Sig: One (1) puff Inhalation once daily for COPD.
+4. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO DAILY for osteoarthritis.
+5. Valacyclovir 500 mg Tablet Sig: One (1) Tablet PO BID for herpes simplex.
+6. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO DAILY for rheumatoid arthritis.
+7. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+8. Liraglutide 6 mg/mL Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+9. Nitroglycerin 0.4 mg Sublingual Tablet Sig: One (1) Tablet Sublingual PRN for chest pain.
+10. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then One (1) Tablet PO DAILY on Days 2-5 for bacterial infection.
+11. Fenofibrate 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertriglyceridemia.
+12. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for myocardial infarction prevention.
+13. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+14. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+15. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.

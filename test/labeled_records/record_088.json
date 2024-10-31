@@ -1,0 +1,189 @@
+{
+    "record_id": "record_088",
+    "entries": [
+        {
+            "instruction": "1. Heparin 5000 UNIT SC TID",
+            "tokens": [
+                "1.",
+                "Heparin",
+                "5000",
+                "UNIT",
+                "SC",
+                "TID"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "2. Maalox/Diphenhydramine/Lidocaine 15-30 mL PO QID:PRN mouth pain",
+            "tokens": [
+                "2.",
+                "Maalox/Diphenhydramine/Lidocaine",
+                "15-30",
+                "mL",
+                "PO",
+                "QID:PRN",
+                "mouth",
+                "pain"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "B-REASON",
+                "I-REASON"
+            ]
+        },
+        {
+            "instruction": "3. Docusate Sodium (Liquid) 100 mg PO BID:PRN constipation",
+            "tokens": [
+                "3.",
+                "Docusate",
+                "Sodium",
+                "(Liquid)",
+                "100",
+                "mg",
+                "PO",
+                "BID:PRN",
+                "constipation"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "I-DRUG",
+                "B-FORM",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "B-REASON"
+            ]
+        },
+        {
+            "instruction": "4. Albuterol-Ipratropium [**4-16**] PUFF IH Q4H:PRN SOB, Wheezing",
+            "tokens": [
+                "4.",
+                "Albuterol-Ipratropium",
+                "[**4-16**]",
+                "PUFF",
+                "IH",
+                "Q4H:PRN",
+                "SOB,",
+                "Wheezing"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "B-REASON",
+                "I-REASON"
+            ]
+        },
+        {
+            "instruction": "5. Amiodarone 200 mg PO DAILY",
+            "tokens": [
+                "5.",
+                "Amiodarone",
+                "200",
+                "mg",
+                "PO",
+                "DAILY"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "6. Senna 1 TAB PO BID:PRN constipation",
+            "tokens": [
+                "6.",
+                "Senna",
+                "1",
+                "TAB",
+                "PO",
+                "BID:PRN",
+                "constipation"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-DOSAGE",
+                "B-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "B-REASON"
+            ]
+        },
+        {
+            "instruction": "7. Miconazole Powder 2% 1 Appl TP TID:PRN rash apply to rash",
+            "tokens": [
+                "7.",
+                "Miconazole",
+                "Powder",
+                "2%",
+                "1",
+                "Appl",
+                "TP",
+                "TID:PRN",
+                "rash",
+                "apply",
+                "to",
+                "rash"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-FORM",
+                "B-STRENGTH",
+                "B-DOSAGE",
+                "B-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "B-REASON",
+                "O",
+                "O",
+                "B-REASON"
+            ]
+        },
+        {
+            "instruction": "8. Furosemide 40 mg PO BID:PRN volume overload",
+            "tokens": [
+                "8.",
+                "Furosemide",
+                "40",
+                "mg",
+                "PO",
+                "BID:PRN",
+                "volume",
+                "overload"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "B-REASON",
+                "I-REASON"
+            ]
+        }
+    ]
+}

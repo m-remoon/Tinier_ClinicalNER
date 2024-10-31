@@ -1,0 +1,15 @@
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+2. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Labetalol 200 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+4. Ketorolac 30 mg/mL Injection Sig: One (1) mL IM every 6 hours for acute pain.
+5. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+6. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO QHS for schizophrenia.
+7. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+8. Oxybutynin 10 mg Tablet Sig: One (1) Tablet PO DAILY for incontinence.
+9. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+10. Digoxin 0.125 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+11. Divalproex 500 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+12. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO TID for nerve pain.
+13. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO QID for hypertension.
+14. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO DAILY for epilepsy.
+15. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.

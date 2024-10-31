@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hypercholesterolemia.
+2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression and anxiety.
+3. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Spiriva 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+5. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+6. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+7. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+8. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+9. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for anti-platelet.
+10. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO BID for major depressive disorder.
+11. Budesonide 0.5 mg/2 mL Nebulizer Solution Sig: One (1) Vial Inhalation BID for asthma.
+12. Quetiapine 200 mg Tablet Sig: One (1) Tablet PO QHS for schizophrenia.
+13. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then One (1) Tablet Daily for 4 days for bacterial infection.
+14. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+15. Methotrexate 10 mg Tablet Sig: One (1) Tablet PO WEEKLY for rheumatoid arthritis.

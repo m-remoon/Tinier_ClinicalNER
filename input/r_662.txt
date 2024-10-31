@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Sertraline 100 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+4. Olmesartan 20 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+5. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for fluid retention.
+7. Liraglutide 18 mg/3 mL Solution Sig: 1.2 mg Subcutaneous DAILY for diabetes.
+8. Loratadine 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+9. Acetazolamide 250 mg Tablet Sig: One (1) Tablet PO BID for glaucoma.
+10. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+11. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO Q6H for bacterial infection.
+12. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS for insomnia.
+13. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraines.
+14. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO DAILY for lupus.
+15. Daptomycin 500 mg Injection Sig: One (1) Injection Intravenous Q24H for bacterial infection.

@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+4. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+6. Buproprion 150 mg SR Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+7. Alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+8. Digoxin 0.25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+9. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+10. Liraglutide 6 mg/mL Solution Sig: 1.2 mg Subcutaneous DAILY for weight management.
+11. Topiramate 25 mg Tablet Sig: One (1) Tablet PO HS for migraine prophylaxis.
+12. Etanercept 50 mg/mL Auto-Injector Sig: 50 mg Subcutaneous Weekly for rheumatoid arthritis.
+13. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+14. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO HS for insomnia.
+15. Methotrexate 2.5 mg Tablet Sig: Four (4) Tablets PO Weekly for psoriasis.

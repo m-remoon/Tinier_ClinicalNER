@@ -1,0 +1,15 @@
+    1. Cefuroxime 250 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+    2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+    3. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+    4. Fluticasone 50 mcg Spray Sig: Two (2) Sprays Nasal BID for allergic rhinitis.
+    5. Aripiprazole 10 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+    6. Diclofenac 75 mg Tablet Sig: One (1) Tablet PO BID for arthritis.
+    7. Bisoprolol 5 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+    8. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+    9. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+    10. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for male pattern baldness.
+    11. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+    12. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+    13. Linagliptin 5 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+    14. Mesalamine 1.2 g Tablet Sig: Two (2) Tablets PO DAILY for ulcerative colitis.
+    15. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.

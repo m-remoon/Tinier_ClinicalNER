@@ -1,0 +1,15 @@
+1. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+2. Lipitor 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Amoxicillin 250 mg Capsule Sig: Two (2) Capsule PO TID (3 times a day).
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).
+5. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).
+7. Symbicort 160 mcg/4.5 mcg Inhalation Aerosol Sig: Two (2) Inhalation BID (2 times a day).
+8. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 times a day).
+9. Omeprazole 20 mg Capsule, Delayed Release Sig: One (1) Capsule, Delayed Release PO DAILY (Daily).
+10. Warfarin 5 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)).
+11. Bupropion 150 mg Tablet, Extended Release Sig: One (1) Tablet, Extended Release PO DAILY (Daily).
+12. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+13. Albuterol 2.5 mg/3mL Solution for Nebulization Sig: One (1) Dose Inhalation Q4H (every 4 hours).
+14. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+15. Insulin Glargine 100 Units/mL Solution for Injection Sig: 30 Units Subcutaneous DAILY (Daily).

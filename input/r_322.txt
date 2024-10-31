@@ -1,0 +1,16 @@
+
+1. Vortioxetine 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+2. Empagliflozin 25 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+3. Adalimumab 40 mg Solution Sig: 40 mg Subcutaneous Biweekly for rheumatoid arthritis.
+4. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing blood clots.
+6. Secukinumab 150 mg Injection Sig: 150 mg Subcutaneous Monthly for psoriasis.
+7. Dutasteride 0.5 mg Capsule Sig: One (1) Capsule PO DAILY for benign prostatic hyperplasia.
+8. Ertugliflozin 15 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+9. Sofosbuvir-Velpatasvir 400-100 mg Tablet Sig: One (1) Tablet PO DAILY for hepatitis C.
+10. Linaclotide 290 mcg Capsule Sig: One (1) Capsule PO DAILY for irritable bowel syndrome.
+11. Pirfenidone 267 mg Capsule Sig: Three (3) Capsules PO TID for idiopathic pulmonary fibrosis.
+12. Nintedanib 150 mg Capsule Sig: One (1) Capsule PO BID for idiopathic pulmonary fibrosis.
+13. Everolimus 10 mg Tablet Sig: One (1) Tablet PO DAILY for organ transplant rejection prevention.
+14. Tofacitinib 5 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+15. Canagliflozin 300 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.

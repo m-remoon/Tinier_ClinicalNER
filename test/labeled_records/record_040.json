@@ -1,0 +1,173 @@
+{
+    "record_id": "record_040",
+    "entries": [
+        {
+            "instruction": "1. Rosuvastatin Calcium 5 mg PO DAILY",
+            "tokens": [
+                "1.",
+                "Rosuvastatin",
+                "Calcium",
+                "5",
+                "mg",
+                "PO",
+                "DAILY"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "I-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "2. Warfarin 5 mg PO ONCE Duration: 1 Doses",
+            "tokens": [
+                "2.",
+                "Warfarin",
+                "5",
+                "mg",
+                "PO",
+                "ONCE",
+                "Duration:",
+                "1",
+                "Doses"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "O",
+                "B-DOSAGE",
+                "I-DOSAGE"
+            ]
+        },
+        {
+            "instruction": "3. GlipiZIDE 5 mg PO DAILY",
+            "tokens": [
+                "3.",
+                "GlipiZIDE",
+                "5",
+                "mg",
+                "PO",
+                "DAILY"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "4. Clobetasol Propionate 0.05% Cream 1 Appl TP [**Hospital1 **]",
+            "tokens": [
+                "4.",
+                "Clobetasol",
+                "Propionate",
+                "0.05%",
+                "Cream",
+                "1",
+                "Appl",
+                "TP",
+                "[**Hospital1",
+                "**]"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "I-DRUG",
+                "B-STRENGTH",
+                "B-FORM",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-ROUTE",
+                "O",
+                "O"
+            ]
+        },
+        {
+            "instruction": "5. Carvedilol 25 mg PO BID",
+            "tokens": [
+                "5.",
+                "Carvedilol",
+                "25",
+                "mg",
+                "PO",
+                "BID"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "6. Amlodipine 10 mg PO DAILY",
+            "tokens": [
+                "6.",
+                "Amlodipine",
+                "10",
+                "mg",
+                "PO",
+                "DAILY"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "7. Aspirin 325 mg PO DAILY",
+            "tokens": [
+                "7.",
+                "Aspirin",
+                "325",
+                "mg",
+                "PO",
+                "DAILY"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY"
+            ]
+        },
+        {
+            "instruction": "8. Furosemide 40 mg PO BID",
+            "tokens": [
+                "8.",
+                "Furosemide",
+                "40",
+                "mg",
+                "PO",
+                "BID"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-ROUTE",
+                "B-FREQUENCY"
+            ]
+        }
+    ]
+}

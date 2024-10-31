@@ -1,0 +1,15 @@
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Sertraline 100 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+5. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+6. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet PO DAILY for infection.
+7. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+8. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+9. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+10. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+11. Ipratropium 17 mcg Inhaler Sig: Two (2) puffs Inhalation QID for COPD.
+12. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+13. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for reducing stroke risk.
+14. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety.
+15. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.

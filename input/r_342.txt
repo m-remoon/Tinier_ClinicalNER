@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+2. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+3. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+4. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+5. Eszopiclone 1 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+6. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+7. Tiotropium 18 mcg Inhaler Sig: Two (2) Puffs Inhalation DAILY for COPD.
+8. Olmesartan 20 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+9. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+10. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+11. Valacyclovir 1 g Tablet Sig: One (1) Tablet PO TID for herpes zoster.
+12. Terazosin 1 mg Tablet Sig: One (1) Tablet PO QHS for BPH.
+13. Meclizine 25 mg Tablet Sig: One (1) Tablet PO TID for vertigo.
+14. Diclofenac 50 mg Tablet Sig: One (1) Tablet PO TID for arthritis pain.
+15. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.

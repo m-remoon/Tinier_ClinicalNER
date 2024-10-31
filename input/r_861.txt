@@ -1,0 +1,16 @@
+
+1. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+3. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+4. Salbutamol 100 mcg Inhaler Sig: Two (2) puffs Inhalation Q4H for asthma.
+5. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+6. Fenofibrate 145 mg Tablet Sig: One (1) Tablet PO DAILY for triglyceride control.
+7. Nifedipine 30 mg Tablet Sig: One (1) Tablet PO DAILY for angina.
+8. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.
+9. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+10. Liraglutide 0.6 mg Solution Sig: One (1) Injection Subcutaneous DAILY for diabetes.
+11. Tadalafil 5 mg Tablet Sig: One (1) Tablet PO DAILY for erectile dysfunction.
+12. Bepotastine 1.5% Eye Drops Sig: One (1) drop in affected eye(s) BID for allergic conjunctivitis.
+13. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for acid reflux.
+14. Transdermal Clonidine 0.2 mg Patch Sig: One (1) Patch Weekly for hypertension.
+15. Oxycodone 10 mg Tablet Sig: One (1) Tablet PO Q4H PRN for moderate to severe pain.

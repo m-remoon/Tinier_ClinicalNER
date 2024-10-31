@@ -1,0 +1,16 @@
+
+1. Carvedilol 25 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+2. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+3. Indapamide 2.5 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+4. Digoxin 0.125 mg Tablet Sig: One (1) Tablet PO DAILY for heart arrhythmia.
+5. Tacrolimus 1 mg Capsule Sig: One (1) Capsule PO BID for organ transplant rejection.
+6. Vortioxetine 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+7. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+8. Budesonide 360 mcg Inhaler Sig: Two (2) puffs Inhalation BID for COPD.
+9. Methotrexate 2.5 mg Tablet Sig: Four (4) Tablets PO Weekly for rheumatoid arthritis.
+10. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+11. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+12. Naltrexone 50 mg Tablet Sig: One (1) Tablet PO DAILY for alcohol dependence.
+13. Liraglutide 6 mg/mL Solution Sig: 1.8 mg Subcutaneous DAILY for weight management.
+14. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for lupus.
+15. Dulaglutide 1.5 mg/0.5 mL Pen Sig: 1.5 mg Subcutaneous Weekly for type 2 diabetes.

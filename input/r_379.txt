@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+2. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+3. Salmeterol 50 mcg Diskus Sig: One (1) inhalation Inhalation BID for asthma.
+4. Glipizide 5 mg Tablet Sig: One (1) Tablet PO BID for type 2 diabetes.
+5. Fenofibrate 145 mg Tablet Sig: One (1) Tablet PO DAILY for high triglycerides.
+6. Bisoprolol 5 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+7. Dabigatran 150 mg Capsule Sig: One (1) Capsule PO BID for anticoagulation.
+8. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+9. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+10. Beclomethasone 80 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+11. Anastrozole 1 mg Tablet Sig: One (1) Tablet PO DAILY for breast cancer.
+12. Temazepam 15 mg Capsule Sig: One (1) Capsule PO QHS for insomnia.
+13. Dicyclomine 10 mg Capsule Sig: One (1) Capsule PO QID for IBS.
+14. Ketorolac 10 mg Tablet Sig: One (1) Tablet PO Q6H for pain.
+15. Fluticasone 50 mcg Nasal Spray Sig: Two (2) sprays each nostril Nasal QD for allergic rhinitis.

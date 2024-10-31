@@ -1,0 +1,14 @@
+1. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Glipizide 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+3. Flecainide 50 mg Tablet Sig: Two (2) Tablet PO QPM (once a day (in the evening)).
+4. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO M,WED,FRI (). Disp:*30 Tablet(s)* Refills:*0*
+5. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+7. Clonazepam 0.5 mg Tablet Sig: 0.5 Tablet PO QHS (once a day (at bedtime)).
+8. Voriconazole 200 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).
+9. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day). Disp:*1 * Refills:*2*
+10. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1)  Injection QMOWEFR (Monday -[**Hospital1 20212**]-Friday).
+11. Niacin 500 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO QD ().
+12. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 7 days. Disp:*21 Tablet(s)* Refills:*0*
+13. Flomax 0.4 mg Capsule, Sust. Release 24HR Sig: One (1) Capsule, Sust. Release 24HR PO once a day. Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*0*
+14. Senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.

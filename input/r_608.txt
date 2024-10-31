@@ -1,0 +1,15 @@
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+2. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Venlafaxine XR 75 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+4. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS for neuropathic pain.
+5. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO TID for overactive bladder.
+6. Prednisone 10 mg Tablet Sig: One (1) Tablet PO QD for inflammation.
+7. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+8. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+9. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+10. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS for insomnia.
+11. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+12. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO HS for insomnia.
+13. Sumatriptan 100 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+14. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+15. Finasteride 1 mg Tablet Sig: One (1) Tablet PO DAILY for hair loss.

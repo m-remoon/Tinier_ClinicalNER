@@ -1,0 +1,16 @@
+
+1. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+3. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+4. Budesonide 160 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+5. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+6. Fenofibrate 145 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+7. Diltiazem CD 120 mg Capsule Sig: One (1) Capsule PO DAILY for hypertension.
+8. Enoxaparin 40 mg/0.4 mL Injection Sig: One (1) Injection Subcutaneous DAILY for DVT prophylaxis.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+10. Dulaglutide 1.5 mg/0.5 mL Injection Sig: One (1) Injection Subcutaneous Weekly for diabetes.
+11. Terazosin 1 mg Tablet Sig: One (1) Tablet PO BEDTIME for BPH.
+12. Levocetirizine 5 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+13. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for heartburn.
+14. Methadone 10 mg Tablet Sig: One (1) Tablet PO Q8H for chronic pain.
+15. Bimatoprost 0.03% Solution Sig: One (1) drop Ophthalmic NIGHTLY for glaucoma.

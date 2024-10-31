@@ -1,0 +1,16 @@
+
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for gastric ulcers.
+4. Salbutamol 100 mcg Inhaler Sig: Two (2) puffs Inhalation PRN for bronchospasm.
+5. Liraglutide 1.2 mg Solution Sig: Subcutaneous injection once daily for weight management.
+6. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO HS PRN for insomnia.
+7. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+8. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO DAILY for osteoarthritis.
+9. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+10. Glimepiride 2 mg Tablet Sig: One (1) Tablet PO DAILY with breakfast for type 2 diabetes.
+11. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+12. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety.
+13. Tiotropium 18 mcg Inhaler Sig: Two (2) inhalations Inhalation once daily for COPD.
+14. Mirtazapine 30 mg Tablet Sig: One (1) Tablet PO HS for major depressive disorder.
+15. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for edema.

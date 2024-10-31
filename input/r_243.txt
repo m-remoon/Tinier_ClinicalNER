@@ -1,0 +1,16 @@
+    
+1. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+2. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+5. Liraglutide 1.2 mg/0.6 mL Solution Sig: 1.2 mg Subcutaneous DAILY for weight management.
+6. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+7. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+8. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+9. Dulaglutide 1.5 mg/0.5 mL Solution Sig: 1.5 mg Subcutaneous Weekly for type 2 diabetes.
+10. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+11. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+12. Propranolol 10 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+13. Isosorbide Mononitrate 30 mg Tablet Sig: One (1) Tablet PO DAILY for angina.
+14. Acetazolamide 125 mg Capsule Sig: One (1) Capsule PO BID for altitude sickness.
+15. Sevelamer 800 mg Tablet Sig: One (1) Tablet PO TID with meals for hyperphosphatemia.

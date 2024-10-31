@@ -1,0 +1,15 @@
+1. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+2. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+3. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+4. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+5. Methotrexate 25 mg/mL Injection Sig: One (1) mL Subcutaneous Weekly for rheumatoid arthritis.
+6. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+7. Emtricitabine/Tenofovir 200 mg/300 mg Tablet Sig: One (1) Tablet PO DAILY for HIV prevention.
+8. Apremilast 30 mg Tablet Sig: One (1) Tablet PO BID for psoriasis.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO TID for fibromyalgia.
+10. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then one (1) Tablet PO DAILY for infection.
+11. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraines.
+12. Sevelamer 800 mg Tablet Sig: One (1) Tablet PO TID with meals for hyperphosphatemia.
+13. Donepezil 10 mg Tablet Sig: One (1) Tablet PO DAILY for Alzheimer's disease.
+14. Sildenafil 50 mg Tablet Sig: One (1) Tablet PO PRN for erectile dysfunction.
+15. Liraglutide 6 mg/mL Pen Sig: 1.8 mg Subcutaneous DAILY for weight management.

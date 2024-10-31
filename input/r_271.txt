@@ -1,0 +1,16 @@
+
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for prevention of stroke.
+2. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+5. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hypercholesterolemia.
+6. Enoxaparin 40 mg/0.4 mL Solution Sig: 0.4 mL Subcutaneous DAILY for DVT prophylaxis.
+7. Esomeprazole 20 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+8. Propranolol 80 mg Capsule Sig: One (1) Capsule PO BID for migraine prevention.
+9. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety.
+10. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+11. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+12. Budesonide 180 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma maintenance.
+13. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+14. Tizanidine 4 mg Tablet Sig: One (1) Tablet PO TID for muscle spasm.
+15. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.

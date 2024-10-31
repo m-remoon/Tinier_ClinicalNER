@@ -1,0 +1,16 @@
+
+1. Ceftriaxone 1 g Injection Sig: One (1) gram IV Daily for bacterial infection.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO Daily for hypothyroidism.
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO Daily for stroke prevention.
+4. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO Daily for acid reflux.
+5. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO Daily for allergies.
+6. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+7. Verapamil 120 mg Tablet Sig: One (1) Tablet PO BID for arrhythmia.
+8. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO Daily for depression.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+10. Linagliptin 5 mg Tablet Sig: One (1) Tablet PO Daily for type 2 diabetes.
+11. Budesonide 180 mcg Inhaler Sig: Two (2) inhalations Inhalation BID for asthma.
+12. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+13. Amoxicillin 500 mg Capsule Sig: One (1) Capsule PO TID for throat infection.
+14. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+15. Lamotrigine 25 mg Tablet Sig: One (1) Tablet PO Daily for epilepsy.

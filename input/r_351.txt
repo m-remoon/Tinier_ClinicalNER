@@ -1,0 +1,16 @@
+
+1. Olmesartan 20 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QHS for high cholesterol.
+3. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+4. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+5. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+6. Fenofibrate 160 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+7. Diltiazem 30 mg Capsule Sig: One (1) Capsule PO TID for hypertension.
+8. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+10. Rapid-Acting Insulin 100 units/mL Solution Sig: 5 units Subcutaneous AC for diabetes.
+11. Dutasteride 0.5 mg Capsule Sig: One (1) Capsule PO DAILY for BPH.
+12. Zafirlukast 20 mg Tablet Sig: One (1) Tablet PO BID for asthma.
+13. Esomeprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for acid reflux.
+14. Methyldopa 250 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+15. Oxycodone 10 mg Tablet Sig: One (1) Tablet PO Q4H PRN for pain.

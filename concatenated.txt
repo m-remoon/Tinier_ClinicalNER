@@ -1,0 +1,1270 @@
+1. Bupropion HCl 75 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). Disp:*120 Tablet(s)* Refills:*2*
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+3. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+4. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+5. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). Disp:*30 Tablet(s)* Refills:*2*
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*40 Tablet(s)* Refills:*0*
+8. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) as needed for stents. Disp:*30 Tablet(s)* Refills:*0*
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 10 days. Disp:*20 Tablet(s)* Refills:*2*
+10. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: Two (2) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours) for 10 days. Disp:*40 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+11. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for anxiety. Disp:*30 Tablet(s)* Refills:*0*
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day): while taking percocet, for constipation. Disp:*60 Capsule(s)* Refills:*2*
+13. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day). Disp:*qs * Refills:*2*
+
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Simvastatin 40 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+3. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation QID (4 times a day).
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Glipizide 5 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+6. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*qs one month Tablet(s)* Refills:*2*
+7. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO DAILY (Daily). Disp:*qs one month Capsule, Sustained Release(s)* Refills:*2*
+8. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO once a day: as you were taking before.
+9. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+10. Aldactone 50 mg Tablet Sig: One (1) Tablet PO once a day.
+11. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day: per your previous dose.
+12. Atrovent 18 mcg/Actuation Aerosol Sig: One (1)  Inhalation four times a day: as before.
+
+1. Outpatient Lab Work Please obtain twice weekly hematocrits, INR (INR goal 2.5 - 3.5)
+2. Outpatient Lab Work Please obtain twice weekly chemistry panels (sodium, potassium, chloride, bicarb, BUN, creatinine, mag, calcium, phosp) to monitor for hypernatremia and chronic kidney insufficiency
+3. bumetanide 1 mg Tablet Sig: Five (5) Tablet PO once a day.
+4. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and PRN.
+5. warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4 PM: goal inr 2.5 - 3.5.
+6. vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours): TO END [**2137-11-9**].
+7. prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day.
+8. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO twice a day.
+9. levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO once a day.
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO twice a day.
+11. multivitamin     Capsule Sig: One (1) Capsule PO once a day.
+12. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1)  Inhalation once a day.
+13. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+14. dofetilide 125 mcg Capsule Sig: One (1) Capsule PO twice a day.
+15. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2)  Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+16. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1) Tablet PO once a day.
+17. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+18. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO once a day as needed for pain: hold for sedation, RR< 12.
+19. morphine 10 mg/5 mL Solution Sig: [**1-28**]  PO every four (4) hours as needed for shortness of breath or wheezing.
+20. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO twice a day.
+21. Epogen 20,000 unit/mL Solution Sig: One (1)  Injection once a week: Please administer on Monday.
+22. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO once a day.
+23. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours): TO END [**2137-11-9**].
+24. heparin (porcine) in D5W  Intravenous
+25. nadolol 20 mg Tablet Sig: 0.5 Tablet PO once a day.
+26. meropenem 500 mg Recon Soln Sig: Five Hundred (500) mg Intravenous every eight (8) hours for 3 days: TO END [**2137-11-3**].
+
+1. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+1. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2) Spray Nasal [**Hospital1 **] (2 times a day) as needed for nasal stuffiness.
+2. Fluvastatin 20 mg Capsule Sig: One (1) Capsule PO every other day.
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Montelukast 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Maxair Autohaler 200 mcg/Inhalation Aerosol Breath Activated Inhalation
+7. K-Tab 10 mEq Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO once a day.
+8. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO twice a day: after chemotherapy.
+9. Viactiv  Oral
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+11. Claritin 10 mg Tablet Sig: One (1) Tablet PO once a day.
+12. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours) for 3 days: Take until Saturday night. Disp:*5 Capsule(s)* Refills:*0*
+
+1. Pantoprazole 40 mg PO Q24H RX *pantoprazole 40 mg 1 Tablet(s) by mouth daily Disp #*60 Tablet Refills:*0
+2. Tamsulosin 0.4 mg PO DAILY RX *tamsulosin 0.4 mg 1 Capsule(s) by mouth daily Disp #*30 Capsule Refills:*0
+3. Ciprofloxacin HCl 250 mg PO Q12H UTI Duration: 5 Days
+4. lisinopril
+5. metoprolol
+
+1. Insulin Regular Human 100 unit/mL Solution Sig: One (1) injection Injection ASDIR (AS DIRECTED): according to sliding scale.
+2. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for pain. Disp:*100 Tablet(s)* Refills:*0*
+3. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO TID (3 times a day). Disp:*qs  for 1 month ml* Refills:*2*
+4. Hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal [**Hospital1 **] (2 times a day) as needed for hemorrhoids. Disp:*1 tube* Refills:*0*
+5. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-1**] Drops Ophthalmic  PRN (as needed).
+6. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily). Disp:*90 Cap(s)* Refills:*2*
+7. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for itching. Disp:*1 bottle* Refills:*0*
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+1. quetiapine 50 mg Tablet Sig: Two (2) Tablet PO QAM (once a day (in the morning)).
+2. quetiapine 50 mg Tablet Sig: Six (6) Tablet PO QHS (once a day (at bedtime)).
+3. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Six (6) Puff Inhalation Q6H (every 6 hours) as needed for wheezing.
+4. clonazepam 1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+5. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for anxiety.
+6. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) Capsule, Delayed Release(E.C.) PO DAILY (Daily). Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+8. ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 hours) as needed for pain.
+9. amphetamine-dextroamphetamine 5 mg Capsule, Sust. Release 24 hr Sig: Four (4) Capsule, Sust. Release 24 hr PO bid ().
+10. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every [**5-9**] hours.
+11. trazodone 50 mg Tablet Sig: Three (3) Tablet PO ONCE (Once).
+12. gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at bedtime).
+
+1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for Pain.
+2. dexamethasone 4 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. insulin regular human 100 unit/mL Solution Sig: One (1) Injection ASDIR (AS DIRECTED).
+4. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for Heart burn.
+5. levetiracetam 250 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).
+6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+7. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.
+8. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+10. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+11. Ondansetron 4 mg IV Q8H:PRN Nausea
+
+mg p.o. daily, lorazepam 0.5 mg q. 6 hours p.r.n. nausea, pravastatin 20 mg p.o. daily, Compazine 5 to 10 mg q.i.d. p.r.n. nausea.  FOLLOW-UP PLANS:  The patient will return to clinic on [**2178-2-10**] for assessment of his clinical status prior to consideration for treatment with week #2 of therapy.   I have reviewed the discharge summary and agree with the hospital course and disposition as dictated by [**First Name8 (NamePattern2) 622**] [**Last Name (NamePattern1) 17265**].    [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], MD [**MD Number(2) 66804**]  Dictated By:[**Last Name (NamePattern1) 18853**] MEDQUIST36 D:  [**2178-2-24**] 12:32:55 T:  [**2178-2-25**] 15:33:12 Job#:  [**Job Number 87177**]  cc:[**Numeric Identifier 87178**]
+
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours): completes [**2142-9-7**].
+2. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) Intravenous Q 12H (Every 12 Hours): completes [**2142-9-7**].
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily). Disp:*30 Tablet, Chewable(s)* Refills:*0*
+5. Furosemide 10 mg/mL Solution Sig: Twenty (20) mg Injection twice a day for 7 days. Disp:*qs * Refills:*0*
+6. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7 days. Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+8. Labetalol 200 mg Tablet Sig: Four (4) Tablet PO TID (3 times a day). Disp:*360 Tablet(s)* Refills:*0*
+
+1. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO Q12H (every 12 hours).
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Alum-Mag Hydroxide-Simeth 200-200-20 mg/5 mL Suspension Sig: 15-30 MLs PO QID (4 times a day) as needed.
+7. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+8. Insulin Lispro 100 unit/mL Solution Sig: One (1) Subcutaneous ASDIR (AS DIRECTED).
+9. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 6 days: Starting [**6-2**], please titrate down to once daily dosing.
+10. Coumadin 1 mg Tablet Sig: One (1) Tablet PO once a day as needed for once INR < 3.0: Dosing may need to be titrated as Amiodarone dosing gets changed to onec daily on [**6-2**].  Please check INR daily until Coumadin dosing becomes more stable.
+11. Outpatient Lab Work Daily INR until Coumadin dosing stable - Coumadin dose will likely need to be increased once Amiodarone decreases to dialy dosing on [**6-2**].  Goal INR 2~3
+12. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day: Please start on [**6-2**].
+13. Outpatient Lab Work Please check weekly TSH while on Amiodarone
+
+
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ML Injection TID (3 times a day).
+2. Olanzapine 2.5 mg Tablet Sig: Two (2) Tablet PO QAM (once a day (in the morning)).
+3. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for breakthrough agitation.
+4. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+5. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+6. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 times a day): hold for HR <60; SBP <110.
+7. Levothyroxine 125 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+8. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.
+9. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+10. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation.
+11. Dulcolax 5 mg Tablet, Delayed Release (E.C.) Sig: [**12-27**] Tablet, Delayed Release (E.C.)s PO twice a day as needed for constipation.
+12. Fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 2 weeks.
+13. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day).
+14. Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times a day).
+15. Metamucil     Powder Sig: One (1) TBSP PO twice a day.
+
+1. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+2. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Sublingual once a day as needed for chest pain.
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+4. sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.
+5. carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+6. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.
+8. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO at bedtime.
+
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO four times a day as needed for pain.
+3. Lovastatin 20 mg Tablet Sig: One (1) Tablet PO daily ().
+4. Pioglitazone 15 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) as needed for indigestion.
+6. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: 0.5 Tablet Sustained Release 24 hr PO once a day.
+7. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. Vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day.
+9. Cyanocobalamin 500 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. Loratadine 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+11. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) Capsule, Sust. Release 24 hr PO HS (at bedtime).
+13. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+14. Outpatient Lab Work Please draw CBC on [**2113-6-27**] when pt comes to see Dr. [**Last Name (STitle) **], call results to the ID fellow Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) 432**]
+15. Outpatient Lab Work Please check CBC by VNA on [**2113-7-4**] and call results to ID fellow, Dr. [**Last Name (STitle) **] at [**Hospital1 18**] at [**Telephone/Fax (1) 432**].
+16. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 9 days: last day [**2113-6-28**]. Disp:*18 Tablet(s)* Refills:*0*
+
+1. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day). Disp:*60 Disk with Device(s)* Refills:*2*
+2. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily). Disp:*30 Cap(s)* Refills:*2*
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours). Disp:*4 inhalers* Refills:*2*
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours). Disp:*4 inhalers* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs PO Q4-6H (every 4 to 6 hours) as needed. Disp:*100 ML(s)* Refills:*0*
+6. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+7. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day). Disp:*90 Tablet(s)* Refills:*2*
+8. Lovenox 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous twice a day for 4 days. Disp:*8 Lovenox (Subcutaneous) 60 mg/0.6 mL Syringe* Refills:*1*
+9. Coumadin 3 mg Tablet Sig: One (1) Tablet PO at bedtime. Disp:*30 Tablet(s)* Refills:*6*
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+12. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 3 weeks. Disp:*63 Tablet(s)* Refills:*0*
+13. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day for 14 days. Disp:*14 Tablet(s)* Refills:*0*
+
+1. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Glipizide 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+3. Flecainide 50 mg Tablet Sig: Two (2) Tablet PO QPM (once a day (in the evening)).
+4. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO M,WED,FRI (). Disp:*30 Tablet(s)* Refills:*0*
+5. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+7. Clonazepam 0.5 mg Tablet Sig: 0.5 Tablet PO QHS (once a day (at bedtime)).
+8. Voriconazole 200 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours).
+9. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day). Disp:*1 * Refills:*2*
+10. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1)  Injection QMOWEFR (Monday -[**Hospital1 20212**]-Friday).
+11. Niacin 500 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO QD ().
+12. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) for 7 days. Disp:*21 Tablet(s)* Refills:*0*
+13. Flomax 0.4 mg Capsule, Sust. Release 24HR Sig: One (1) Capsule, Sust. Release 24HR PO once a day. Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*0*
+14. Senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.
+
+1.  Risperdal .5 mg p.o. q.h.s.
+2.  Tylenol 650 mg p.o. q. 4 to 6 hours prn
+3.  Prevacid 30 mg p.o. q.d.
+4.  Synthroid 200 mg p.o. q.d.
+5.  Nystatin powder to affected groin q.d.
+6.  Neutra-Phos 2 packets q.d.
+7.  Heparin 5000 units subcutaneously b.i.d. as the patient is not ambulating
+8.  Tube feeds - ProMod with fiber at 65 cc/hr, check residuals q. 4, hold if greater than 100 cc, free of water bolus 100 cc per gastrostomy tube t.i.d.
+9.  Vancomycin intravenously 750 mg q. 18 hours, stop on [**2152-3-5**]
+10. Flagyl 500 mg p.o. t.i.d., stop on [**2152-3-11**]  DISCHARGE CONDITION:  Stable.  DISCHARGE PLAN:  The patient is to see Dr. [**Last Name (STitle) **] at the [**Hospital1 37853**] Medical Building on [**2152-3-10**] at 10 AM, phone [**Telephone/Fax (1) 37854**].  Treatment at rehabilitation, gastrostomy tube should remain clamped, change dressings of gastrostomy and jejunostomy tube q.d.  Tube feeds - Cardiac diet, advance diet as tolerated.  Check TSH in three weeks and adjust Synthroid.  Check fingersticks b.i.d. and cover with sliding scale insulin.    DR.[**First Name (STitle) **],[**First Name3 (LF) 734**] 12-944  Dictated By:[**Last Name (NamePattern4) 8102**] MEDQUIST36  D:  [**2152-3-3**]  15:32 T:  [**2152-3-3**]  16:14 JOB#:  [**Job Number 37855**]
+
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+2. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Carbidopa-Levodopa 25-100 mg Tablet Sustained Release Sig: One (1) Tablet PO TID (3 times a day).
+5. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+6. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. Tolterodine 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+9. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily): This medication is to be stopped when coumadin reaches therapeutic dose.  Coumadin to be started [**7-27**].
+11. Verapamil 240 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO once a day.
+
+1. Labetalol 300 mg Tablet Sig: Two (2) Tablet PO twice a day. Disp:*120 Tablet(s)* Refills:*2*
+2. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+3. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+4. Blood pressure cuff Please provide patient with home blood pressure cuff
+
+1. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.
+2. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day).
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+6. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q4-6H (every 4 to 6 hours).
+7. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q4-6H (every 4 to 6 hours).
+8. Ascorbic Acid 90 mg/mL Drops Sig: Six (6)  PO DAILY (Daily): 500 mg PO daily.
+9. Zinc Sulfate 220 (50) mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+10. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+11. Therapeutic Multivitamin     Liquid Sig: Five (5) ML PO DAILY (Daily).
+12. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+13. Insulin Regular Human 100 unit/mL Solution Sig: One (1) Injection ASDIR (AS DIRECTED): See sliding scale.
+14. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily): Recheck TSH level in 3 days and adjust dose accordingly.
+15. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+16. Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q12H (every 12 hours) for 7 days.
+
+1. Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+2. Daptomycin 500 mg Recon Soln Sig: Four Hundred (400) mg Intravenous Q48H (every 48 hours): Please continue for 9 days. Please NOTE: patient has changing renal function. Currently GFR is less than 50, so should dose q48 hours. If GFR>50, please change to q24 hour dosing.
+3. Clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for psoriasis.
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO twice a day.
+7. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+8. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day).
+9. Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+10. Hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal [**Hospital1 **] (2 times a day).
+11. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+13. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain.
+
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for back pain.
+2. Propafenone 225 mg Capsule, Sust. Release 12 hr Sig: One (1) Capsule, Sust. Release 12 hr PO twice a day.
+3. Cartia XT 240 mg Capsule, Sust. Release 24 hr Sig: One (1) Capsule, Sust. Release 24 hr PO once a day.
+4. Docusate Sodium 250 mg Capsule Sig: One (1) Capsule PO twice a day.
+5. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Enalapril Maleate 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+1. Montelukast Sodium 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). [**Known lastname **]:*30 Tablet(s)* Refills:*0*
+2. Guaifenesin 100 mg/5 mL Liquid Sig: 5-10 MLs PO q4-6h prn. [**Known lastname **]:*50 ML(s)* Refills:*0*
+3. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+4. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). [**Known lastname **]:*30 Tablet(s)* Refills:*0*
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). [**Known lastname **]:*30 Tablet(s)* Refills:*0*
+6. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). [**Known lastname **]:*30 Tablet(s)* Refills:*0*
+7. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q2H (every 2 hours) as needed. [**Known lastname **]:*1 MDI* Refills:*0*
+8. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) inhalation Inhalation [**Hospital1 **] (2 times a day). [**Hospital1 **]:*qs 1 month supply* Refills:*0*
+9. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day). [**Hospital1 **]:*30 Capsule(s)* Refills:*0*
+10. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). [**Hospital1 **]:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). [**Hospital1 **]:*60 Capsule(s)* Refills:*0*
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed. [**Hospital1 **]:*30 Tablet(s)* Refills:*0*
+13. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day. [**Hospital1 **]:*30 Tablet(s)* Refills:*0*
+14. Prednisone 10 mg Tablet Sig: Six (6) Tablet PO once a day: for 2 days ([**Date range (1) 25243**]), then 5 tabs daily for 2 days ([**Date range (1) 25244**]), then 4 tabs daily for 2 days (4/26/05-4/27), then 3 tabs daily for 2 days ([**6-5**]/-[**6-6**]), then 2 ts daily for 2 days ([**Date range (1) 25245**]), then 1 tab daily for 2 days ([**Date range (1) 25246**]). [**Date range (1) **]:*42 Tablet(s)* Refills:*0*
+15. Atrovent 18 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation four times a day. [**Date range (1) **]:*1 MDI* Refills:*0*
+16. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb Inhalation every 4-6 hours as needed. [**Date range (1) **]:*qs one month* Refills:*0*
+17. one touch ultra lancets use as directed [**Date range (1) **]: 90 refills: 0
+18. one touch ultra test strips use as directed [**Date range (1) **]: 90 refills: 0
+19. space chamber use as directed [**Date range (1) **]: 1 refills: 0
+20. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as needed for pain for 5 days. [**Date range (1) **]:*30 Tablet(s)* Refills:*0*
+
+1. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+2. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every 24 hours).
+3. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+4. Sulfamethoxazole-Trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Prednisone 5 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+8. Tacrolimus 1 mg Capsule Sig: 1 and [**1-12**] Capsule PO Q12H (every 12 hours).
+9. Insulin Lispro 100 unit/mL Solution Sig: per sliding scale per scale Subcutaneous ASDIR (AS DIRECTED).
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+11. Levetiracetam 250 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day). Disp:*180 Tablet(s)* Refills:*0*
+
+1. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual PRN (as needed) as needed for chest pain : [**Month (only) 116**] repeat after 5 minutes if chest pain does not resolve. If pt still has chest pain after 3 doses (15 minutes), please notify MD.
+2. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for anxiety: Do not take more than directed.
+4. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO once a day as needed for constipation.
+5. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) dosr PO once a day as needed for constipation.
+6. Sulfamethoxazole-Trimethoprim 800-160 mg Tablet Sig: One (1) Tablet PO 3X/WEEK (MO,WE,FR).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+9. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+10. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+11. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q4H (every 4 hours) as needed for dyspnea.
+12. Ipratropium Bromide 0.02 % Solution Sig: One (1) inhalation Inhalation Q6H (every 6 hours) as needed for SOB.
+13. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours): Do not exceed 4 grams in 24 hours.
+14. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+15. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as needed for back pain: leave on for 12 hours and then leave off for 12 hours. Adhesive Patch, Medicated(s)
+16. Haloperidol 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+17. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+18. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 2 days: Course ends on [**2108-4-21**].
+19. Morphine 10 mg/5 mL Solution Sig: 2.5 - 5 mL PO q1h as needed for shortness of [**Date Range 1440**]. Disp:*1 500 mL bottle* Refills:*0*
+
+1. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO DAILY (Daily).
+2. Hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+3. Ranitidine HCl 150 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+4. Amphetamine-Dextroamphetamine 20 mg Capsule, Sust. Release 24 hr Sig: One (1) Capsule, Sust. Release 24 hr PO daily ().
+5. Cromolyn 100 mg/5 mL Solution Sig: Three Hundred (300) ml PO QID (4 times a day).
+6. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+7. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+8. Fexofenadine 60 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).
+9. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours).
+10. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO three times a day. Disp:*90 Tablet, Chewable(s)* Refills:*2*
+11. Prednisone 10 mg Tablet Sig: Taper PO once a day: 40 mg x 4 days 30 mg x 3 days 20 mg x 3 days 10 mg x 3days. Disp:*34 Tablet(s)* Refills:*0*
+12. Vitamin D 400 unit Tablet Sig: Two (2) Tablet PO once a day. Disp:*60 Tablet(s)* Refills:*2*
+
+1. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed.
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*0*
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+7. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*
+9. Lidoderm  Topical
+10. Nitroglycerin  Sublingual
+11. Pentoxifylline 400 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO three times a day: with meals.
+12. Calcium 600 with Vitamin D3 600 mg(1,500mg) -200 unit Tablet Sig: One (1) Tablet PO twice a day.
+13. Omega-3 Fatty Acids 1,000 mg Capsule Sig: One (1) Capsule PO once a day.
+14. Valsartan 80 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*
+
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+2. Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed.
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q4H (every 4 hours) as needed.
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.
+5. Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1) Intravenous  Q8H (every 8 hours) as needed.
+6. Pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln Intravenous  Q12H (every 12 hours).
+7. Morphine 2 mg/mL Syringe Sig: [**12-24**]  Injection Q4H (every 4 hours) as needed.
+8. Lorazepam 2 mg/mL Syringe Sig: 0.5 mg Injection Q4H (every 4 hours) as needed.
+
+1. Warfarin 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO Once Daily at 4 PM. Disp:*30 Tablet(s)* Refills:*2*
+2. Amlodipine 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+3. Guaifenesin 100 mg/5 mL Syrup [**Hospital1 **]: 5-10 MLs PO Q6H (every 6 hours) as needed. Disp:*200 ML(s)* Refills:*1*
+4. Lisinopril 20 mg Tablet [**Hospital1 **]: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2*
+5. Metoprolol Tartrate 25 mg Tablet [**Hospital1 **]: 1.5 Tablets PO TID (3 times a day). Disp:*135 Tablet(s)* Refills:*2*
+6. Albuterol 90 mcg/Actuation Aerosol [**Hospital1 **]: [**12-27**]  Inhalation four times a day. Disp:*1 bottle* Refills:*1*
+7. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device [**Month/Day (2) **]: One (1)  Inhalation once a day. Disp:*1 bottle* Refills:*1*
+8. Ipratropium Bromide 17 mcg/Actuation Aerosol [**Month/Day (2) **]: [**12-27**] Inhalation four times a day. Disp:*1 bottke* Refills:*2*
+9. Fluticasone 110 mcg/Actuation Aerosol [**Month/Day (2) **]: Four (4) Puff Inhalation [**Hospital1 **] (2 times a day). Disp:*1 bottle* Refills:*2*
+10. Salmeterol 50 mcg/Dose Disk with Device [**Hospital1 **]: Two (2) Disk with Device Inhalation Q12H (every 12 hours). Disp:*120 Disk with Device(s)* Refills:*2*
+11. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR PO BID (2 times a day). Disp:*60 Tablet,Rapid Dissolve, DR(s)* Refills:*2*
+12. Sucralfate 1 gram Tablet [**Last Name (STitle) **]: One (1) Tablet PO QID (4 times a day). Disp:*120 Tablet(s)* Refills:*2*
+13. Aspirin 325 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+14. Atorvastatin 80 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+15. Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a day) as needed. Disp:*60 Tablet(s)* Refills:*0*
+16. Serevent Diskus 50 mcg/Dose Disk with Device [**Last Name (STitle) **]: [**12-27**] Inhalation twice a day. Disp:*1 bottle* Refills:*2*
+17. Prednisone 10 mg Tablet [**Month/Day (2) **]: 1/2-4 Tablets PO once a day for 14 days: take 4 tabs for 1 day, 2 tabs for 4 days, 1 tab for 4 days, [**12-27**] tab for 4 days. Disp:*18 Tablet(s)* Refills:*0*
+
+1. Aspirin EC 325 mg PO DAILY
+2. Atorvastatin 20 mg PO DAILY
+3. DiCYCLOmine 10 mg PO QID
+4. Omeprazole 40 mg PO DAILY
+5. Acetaminophen-Caff-Butalbital [**1-25**] TAB PO Q6H:PRN headache RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg [**1-25**] tablet(s) by mouth q 4 hours Disp #*30 Tablet Refills:*0
+6. Ciprofloxacin HCl 500 mg PO Q12H Duration: 7 Days RX *ciprofloxacin [Cipro] 500 mg 1 tablet(s) by mouth twice a day Disp #*14 Tablet Refills:*0
+7. Metoprolol Tartrate 12.5 mg PO BID hold for SBP < 100, HR < 60 RX *metoprolol tartrate 25 mg 0.5 (One half) tablet(s) by mouth twice a day Disp #*30 Tablet Refills:*0
+8. Donnatol 10 mL PO BID:PRN abdominal pain
+
+mg q p.m., 400 mg q a.m., Lopressor 12.5 mg [**Hospital1 **], Lisinopril 20 mg q d, Lipitor 10 mg q d, Aspirin 325 mg q d and Nitroglycerin sublingual tablets prn.  The patient is to follow-up with his cardiologist, Dr. [**Last Name (STitle) 7047**] within 7 days after discharge.  DISCHARGE DIAGNOSIS:
+1.  Myocardial infarction and profound vagal reaction.     [**Name6 (MD) 251**] [**Last Name (NamePattern4) 677**], M.D.  [**MD Number(1) 25755**]  Dictated By:[**Doctor Last Name 47224**] MEDQUIST36  D:  [**2163-1-19**]  10:52 T:  [**2163-1-19**]  12:18 JOB#:  [**Job Number 35439**]
+
+1. acetaminophen 325 mg Tablet [**Month/Year (2) **]: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain fever.
+2. docusate sodium 100 mg Capsule [**Month/Year (2) **]: One (1) Capsule PO BID (2 times a day).
+3. oxycodone-acetaminophen 5-325 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO Q4H (every 4 hours) as needed for pain . Disp:*20 Tablet(s)* Refills:*0*
+4. clopidogrel 75 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+5. metoprolol tartrate 25 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO BID (2 times a day).
+6. aspirin 325 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+7. diphenhydramine HCl 25 mg Capsule [**Month/Year (2) **]: Two (2) Capsule PO Q6H (every 6 hours) as needed for pruritis for 1 days. Disp:*10 Capsule(s)* Refills:*0*
+8. famotidine 20 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO BID (2 times a day) for 1 days. Disp:*2 Tablet(s)* Refills:*0*
+9. dexamethasone 4 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO every eight (8) hours for 1 days. Disp:*3 Tablet(s)* Refills:*0*
+10. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable [**Month/Year (2) **]: One (1) Tablet, Chewable PO BID (2 times a day).
+11. cholecalciferol (vitamin D3) 400 unit Tablet [**Month/Year (2) **]: One (1) Tablet PO DAILY (Daily).
+12. hydrocortisone 2.5 % Cream [**Month/Year (2) **]: One (1) APPL  Topical QID PRN as needed for itching: APPLY TO BODY. Disp:*1 TUBE* Refills:*3*
+13. hydrocortisone 1 % Lotion [**Month/Year (2) **]: One (1) APPL Topical four times a day as needed for itching: APPLY TO FACE. Disp:*1 TUBE* Refills:*0*
+
+1. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. alprazolam 1 mg Tablet Sig: 1.5 Tablets PO QHS (once a day (at bedtime)) as needed for insomnia.
+4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+6. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12 hours) for 5 days. Disp:*20 Tablet(s)* Refills:*0*
+8. phenazopyridine 100 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 2 days. Disp:*6 Tablet(s)* Refills:*0*
+9. atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+11. triamterene-hydrochlorothiazid 37.5-25 mg Capsule Sig: One (1) Cap PO DAILY (Daily).
+12. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+13. Cialis 5 mg Tablet Sig: One (1) Tablet PO prn as needed for intercourse.
+14. Fish Oil 1,000 mg Capsule Sig: One (1) Capsule PO once a day.
+15. Flovent HFA 110 mcg/actuation Aerosol Sig: Two (2) puffs Inhalation twice a day.
+
+1.  Atenolol 50 mg p.o. q. day.
+2.  Zestril 5 mg p.o. q. day.
+3.  Protonix 40 mg p.o. twice a day.
+4.  Celexa 20 mg p.o. q. day.
+5.  Rocaltrol 1 tablet p.o. q. day.
+6.  Renagel 3200 mg p.o. three times a day.
+7.  CellCept 1 gram p.o. twice a day.
+8.  Prednisone 20 mg p.o. q. day.
+9.  Bactrim Single Strength, one tablet p.o. q. day.
+10. Colace 100 mg p.o. twice a day.
+11. Amphojel 15 ml p.o. three times a day and with meals.
+12. Ganciclovir 500 mg p.o. q. day.
+13. Rapamune 5 mg p.o. q. day.
+14. Nystatin 5 ml p.o. swish and swallow four times a day.    [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3598**], MD  [**MD Number(1) 3599**]  Dictated By:[**Last Name (NamePattern1) 3801**]  MEDQUIST36  D:  [**2130-2-26**]  14:46 T:  [**2130-2-27**]  15:24 JOB#:  [**Job Number 18839**]
+
+1. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+2. Levobunolol 0.5 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime).
+3. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime).
+4. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as needed.
+7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed.
+8. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+9. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day: This was held during the hospitalization, but should be re-started if the patient's SBP remains stable >100.
+10. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day: This was held during the hospitalization, but should be re-started and added back to her regimen.
+
+zyprexa 25mg at night citalopram 10mg once daily trileptal 600mg qhs plus asa 325mg once daily bisacodyl every other day detrol 1mg [**Hospital1 **] robitussin 1 tsp QID plavix 75mg once daily miralax once daily spiriva symbicort vit b12
+
+1. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). [**Hospital1 **]:*60 Tablet(s)* Refills:*2*
+3. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for abdominal pain.
+4. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+8. Procrit 10,000 unit/mL Solution Sig: [**Numeric Identifier 961**] ([**Numeric Identifier 961**]) units Injection once a week. [**Numeric Identifier **]:*30 doses* Refills:*2*
+9. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO BID (2 times a day). [**Numeric Identifier **]:*60 Tablet(s)* Refills:*2*
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). [**Numeric Identifier **]:*30 Tablet(s)* Refills:*2*
+11. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). [**Numeric Identifier **]:*30 Tablet(s)* Refills:*2*
+12. Clonidine 0.3 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly Transdermal QFRI (every Friday). [**Numeric Identifier **]:*12 Patch Weekly(s)* Refills:*2*
+13. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 3 doses: take one tablet twice a day [**4-28**] and then once on [**4-29**] and then clonidine patch will work on its own. [**Month/Day (4) **]:*3 Tablet(s)* Refills:*0*
+14. Outpatient Lab Work hct and chem 7 and please fax to [**Telephone/Fax (1) **] attention Dr. [**Last Name (STitle) **]
+15. Glucose Meter, [**Last Name (STitle) **] & Strips     Kit Sig: One (1) kit Miscellaneous once a day. [**Last Name (STitle) **]:*1 1* Refills:*2*
+16. glucometer test strips Please provide glucometer test strips for the patient with 6 refills
+17. Novolin 70/30 InnoLet 100 unit/mL (70-30) Insulin Pen Sig: as directed  Subcutaneous twice a day: 8 units in the AM 4 units in the PM. [**Last Name (STitle) **]:*QS QS* Refills:*10*
+18. Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: Three (3) Tablet Sustained Release 24 hr PO once a day: 150mg daily. [**Last Name (STitle) **]:*90 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+1. Rosuvastatin Calcium 5 mg PO DAILY
+2. Warfarin 5 mg PO ONCE Duration: 1 Doses
+3. GlipiZIDE 5 mg PO DAILY
+4. Clobetasol Propionate 0.05% Cream 1 Appl TP [**Hospital1 **]
+5. Carvedilol 25 mg PO BID
+6. Amlodipine 10 mg PO DAILY
+7. Aspirin 325 mg PO DAILY
+8. Furosemide 40 mg PO BID
+
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+2. Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).
+3. Citalopram 20 mg Tablet Sig: One (1) Tablet PO at bedtime.
+
+1. Docusate Sodium 50 mg/5 mL Liquid Sig: Ten (10) mL PO BID (2 times a day).
+2. Ipratropium Bromide 0.02 % Solution Sig: One (1) inhalation Inhalation every six (6) hours.
+3. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) patch Transdermal every seventy-two (72) hours.
+4. Albuterol Sulfate 2.5 mg/0.5 mL Solution for Nebulization Sig: [**2-8**] pulvules Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+5. Acetylcysteine 20 % (200 mg/mL) Solution Sig: [**7-17**] mL Miscellaneous [**Hospital1 **] (2 times a day).
+6. Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1) syringe Subcutaneous Q12H (every 12 hours).
+7. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) Tablet PO once a day.
+8. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 times a day (before meals and at bedtime)).
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO twice a day.
+10. Morphine 10 mg/5 mL Solution Sig: [**6-16**] mL PO Q2hrs as needed for pain.
+11. Senna 8.8 mg/5 mL Syrup Sig: [**6-16**] mL PO twice a day as needed for constipation.
+12. Lidocaine-Diphenhyd-[**Doctor Last Name **]-Mag-[**Doctor Last Name **] 200-25-400-40 mg/30 mL Mouthwash Sig: 15-30 mL Mucous membrane every six (6) hours as needed for Throat pain.
+13. Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO BID (2 times a day). Disp:*600 1* Refills:*2*
+14. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). Disp:*30 Tablet(s)* Refills:*0*
+15. Sodium Chloride 3 % Solution for Nebulization Sig: One (1) neb Inhalation every eight (8) hours. Disp:*90 nebs* Refills:*2*
+16. Tube Feeds Fibersource HN Liquid 1560 cc once a day at rate of 65 ml/hr
+
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.
+3. Insulin Regular Human 100 unit/mL Solution Sig: sliding scale Injection ASDIR (AS DIRECTED): for BS 150-200, give 2 U, for BS 201-250, give 4 U, for BS 251-300, give 6U, for BS 301-350, give 8U, for BS 351-400, give 10 U.
+4. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed.
+5. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 7 days: Continue until [**1-9**].
+6. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day) for 7 days: Continue [**Date range (1) 60000**].
+7. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily): Continue until you follow up with cardiology.
+8. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+10. Zolpidem Tartrate 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as needed.
+11. Fondaparinux Sodium 2.5 mg/0.5 mL Syringe Sig: One (1) Subcutaneous DAILY (Daily): Continue until therapeutic on coumadin.  Overlap therapy for 2 days with therapeutic coumadin dosing.
+12. Morphine Sulfate 2-4 mg IV Q4H:PRN
+13. Lorazepam 0.5-2 mg IV Q4H:PRN
+14. Warfarin Sodium 2 mg Tablet Sig: One (1) Tablet PO HS (at bedtime): Please ck INR every other day for goal INR [**2-24**]. Adjust coumadin dosing accordingly.
+15. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+16. Bumex 1 mg Tablet Sig: One (1) Tablet PO once a day.
+17. Lipitor 40 mg Tablet Sig: One (1) Tablet PO once a day.
+18. Cyanocobalamin 1,000 mcg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO once a day.
+
+1. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12 hours) for 3 days. Disp:*10 Tablet(s)* Refills:*0*
+2. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO once a day for 2 days. Disp:*2 Tablet(s)* Refills:*0*
+
+1. Prednisone 20 mg Tablet Sig: Per schedule Tablet PO DAILY (Daily): 2 pills for 2 days, 1 pill for 2 days and then 0.5 pills for 2 days. Disp:*8 Tablet(s)* Refills:*0*
+2. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q6H (every 6 hours).
+3. Flovent HFA 110 mcg/Actuation Aerosol Sig: [**12-24**]  Inhalation twice a day.
+4. Nasonex 50 mcg/Actuation Spray, Non-Aerosol Sig: Two (2) Nasal once a day.
+5. Necon 1/35 (28) 1-35 mg-mcg Tablet Sig: One (1) Tablet PO once a day.
+6. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+
+
+1. Levetiracetam 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+2. Levobunolol 0.5 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2 times a day).
+3. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q4H (every 4 hours) as needed for wheeze.
+4. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+5. Pravastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO at bedtime.
+8. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+9. Zetia 10 mg Tablet Sig: One (1) Tablet PO once a day.
+10. Warfarin 4 mg Tablet Sig: One (1) Tablet PO once a day.
+
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+2. Fosamprenavir 700 mg Tablet Sig: Two (2) Tablet PO Q12H (every 12 hours). Disp:*120 Tablet(s)* Refills:*2*
+3. Lopinavir-Ritonavir 133.3-33.3 mg Capsule Sig: Four (4) Cap PO BID (2 times a day). Disp:*240 Cap(s)* Refills:*2*
+4. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+5. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 3 days. Disp:*3 Tablet(s)* Refills:*0*
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for headache for 3 days. Disp:*15 Tablet(s)* Refills:*0*
+7. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+8. Patanol 0.1 % Drops Sig: 1-2 drops Ophthalmic  twice a day: 1-2 drops in each eye [**Hospital1 **]. Disp:*1 bottle* Refills:*2*
+9. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*
+10. AndroGel 1 % (50 mg) Gel in Packet Sig: One (1) packet Transdermal once a day. Disp:*30 packets* Refills:*2*
+11. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+12. Loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+13. Tricor 145 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+14. Compazine 10 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for nausea for 1 weeks. Disp:*20 Tablet(s)* Refills:*0*
+
+1. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+2. Memantine 5 mg Tablet Sig: Two (2) Tablet PO bid (). Disp:*30 Tablet(s)* Refills:*1*
+3. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+4. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO QDAY () for 7 days. Disp:*7 Tablet(s)* Refills:*0*
+
+1. isoniazid 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): for 9 months, day 1 [**2131-8-16**].
+2. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+3. sertraline 50 mg Tablet Sig: Five (5) Tablet PO DAILY (Daily): total dose 250mg.
+4. fluticasone-salmeterol 100-50 mcg/dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+5. latanoprost 0.005 % Drops Sig: One (1) Drop(s) in each eye Ophthalmic HS (at bedtime).
+6. prednisone 20 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily): total dose 30mg daily.
+7. lipase-protease-amylase 5,000-17,000 -27,000 unit Capsule, Delayed Release(E.C.) Sig: One (1) Cap PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+8. lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+9. trazodone 50 mg Tablet Sig: One (1) Tablet PO at bedtime.
+10. lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): Day #1 = [**2131-8-14**].
+11. atovaquone 750 mg/5 mL Suspension Sig: 1500 (1500) mg daily PO DAILY (Daily): For PCP [**Name Initial (PRE) 1102**]. Disp:*250 mL* Refills:*2*
+12. dextromethorphan-guaifenesin 10-100 mg/5 mL Liquid Sig: [**5-8**] MLs PO Q4H (every 4 hours) as needed for cough. Disp:*250 mL* Refills:*0*
+13. cetirizine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+14. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+15. Januvia 100 mg Tablet Sig: One (1) Tablet PO once a day.
+16. pioglitazone 30 mg Tablet Sig: One (1) Tablet PO once a day.
+17. Metoprolol succinate ER 75 mg daily
+18. glipizide 10 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet Extended Rel 24 hr PO DAILY (Daily).
+19. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO once a day: Day #1 = [**2131-8-16**] for 9 months .
+
+1. Singulair 10 mg Tablet Sig: One (1) Tablet PO once a day.
+2. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation every 4-6 hours as needed for shortness of breath or wheezing.
+3. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every four (4) hours as needed for severe pain.
+4. lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+5. zinc sulfate 220 mg Tablet Sig: One (1) Tablet PO once a day.
+6. ascorbic acid 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO once a day.
+7. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day:
+8. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.
+9. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO once a day.
+10. Flonase 50 mcg/Actuation Spray, Suspension Sig: Two (2) sprays Nasal once a day.
+11. Vitamin B-12 1,000 mcg Tablet Sig: One (1) Tablet PO once a month: next dose due [**5-24**].
+12. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.
+13. Vitamin D-3 400 unit Tablet, Chewable Sig: [**12-17**] Tablet, Chewables PO once a day.
+14. Cardura 4 mg Tablet Sig: One (1) Tablet PO once a day.
+15. Advair Diskus 250-50 mcg/dose Disk with Device Sig: One (1) puff Inhalation twice a day.
+16. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day: HOLD FOR LOOSE STOOLS.
+17. lactulose 10 gram/15 mL Solution Sig: Thirty (30) mL PO once a day: HOLD FOR LOOSE STOOLS.
+18. multivitamin with minerals     Tablet Sig: One (1) Tablet PO once a day.
+19. senna 8.6 mg Tablet Sig: 1-2 Tablets PO once a day as needed for constipation.
+20. bisacodyl 10 mg Suppository Sig: One (1) suppository Rectal once a day as needed for constipation.
+21. Fleet Enema 19-7 gram/118 mL Enema Sig: One (1) enema Rectal once a day as needed for constipation.
+22. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every [**3-21**] hours as needed for fever or pain.
+23. glipizide 5 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet Extended Rel 24 hr PO once a day.
+24. ammonium lactate 12 % Lotion Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day): to affected area.
+25. Outpatient Lab Work Check BUN & Cr on [**Last Name (LF) 766**], [**5-21**] and send information to patient's PCP.
+26. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO q48h (every fourty-eight (48) hours) for 4 days: Due for two more doses: on [**5-12**]. Tablet(s)
+27. Outpatient Lab Work Check INR on [**Last Name (LF) 2974**], [**5-18**] and adjust coumadin dose accordingly.
+
+1. Amitriptyline 50 mg PO HS
+2. DiphenhydrAMINE 25 mg PO Q6H:PRN itch
+3. Fluocinonide 0.05% Cream 1 Appl TP TID scalp rash
+4. OxycoDONE (Immediate Release)  10 mg PO Q6H
+5. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID to body rash
+6. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB/wheezing
+7. Albuterol Inhaler [**6-6**] PUFF IH Q4H:PRN Wheezes
+8. Loratadine *NF* 10 mg Oral qday
+9. Omeprazole 20 mg PO DAILY
+10. Amoxicillin 500 mg PO Q8H RX *amoxicillin 500 mg 1 tablet(s) by mouth three times daily Disp #*60 Tablet Refills:*2
+11. Gabapentin 100 mg PO TID
+12. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation Inhalation daily
+13. PredniSONE 60 mg PO DAILY Duration: 2 Days Tapered dose - DOWN RX *prednisone 10 mg as directed tablet(s) by mouth daily Disp #*26 Tablet Refills:*0
+14. PredniSONE 40 mg PO DAILY Duration: 2 Days Tapered dose - DOWN RX *prednisone 20 mg 2 tablet(s) by mouth once daily Disp #*4 Tablet Refills:*0
+15. PredniSONE 20 mg PO DAILY Duration: 2 Days Tapered dose - DOWN RX *prednisone 20 mg 1 tablet(s) by mouth daily Disp #*2 Tablet Refills:*0
+16. PredniSONE 10 mg PO DAILY Duration: 2 Days Tapered dose - DOWN RX *prednisone 10 mg 1 tablet(s) by mouth daily Disp #*2 Tablet Refills:*0
+17. Sulfameth/Trimethoprim DS 1 TAB PO DAILY RX *Bactrim DS 800 mg-160 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0
+
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed. Disp:*1 * Refills:*0*
+2. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day). Disp:*1 * Refills:*0*
+3. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical TID (3 times a day) as needed for pruritus. Disp:*1 * Refills:*0*
+4. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO Q6H (every 6 hours) as needed.
+5. Diltiazem HCl 30 mg Tablet Sig: 1.5 Tablets PO QID (4 times a day). Disp:*180 Tablet(s)* Refills:*0*
+6. Albuterol Sulfate 0.083 % Solution Sig: [**1-15**]  Inhalation Q6H (every 6 hours) as needed. Disp:*90 * Refills:*0*
+7. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours). Disp:*90 * Refills:*0*
+8. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day). Disp:*1 * Refills:*0*
+9. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed. Disp:*120 Tablet(s)* Refills:*0*
+10. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO BID (2 times a day) as needed for stent management. Disp:*400 ML(s)* Refills:*0*
+11. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+13. Linezolid 600 mg Tablet Sig: One (1) Tablet PO once a day for 1 months. Disp:*30 Tablet(s)* Refills:*0*
+14. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for pain. Disp:*75 Tablet(s)* Refills:*0*
+15. Zofran 4 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for nausea. Disp:*15 Tablet(s)* Refills:*0*
+16. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO four times a day. Disp:*120 Tablet, Chewable(s)* Refills:*0*
+17. NPH insulin 5 units NPH SQ with b-fast and dinner
+18. humalog insulin humalog insulin per sliding scale
+19. Syringe with Needle, Insulin 3 mL 20 x 1  Syringe Sig: One (1) Syringe Miscellaneous AS DIRECTED. Disp:*120 Syringe* Refills:*0*
+20. Roxicet 5-325 mg/5 mL Solution Sig: [**5-22**] mL PO every six (6) hours as needed for pain. Disp:*1200 mL* Refills:*0*
+
+1. tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) Capsule, Sust. Release 24 hr PO at bedtime.
+2. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4) hours as needed for Pain.
+3. multivitamin     Tablet Oral
+4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO once a day.
+5. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+7. vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day.
+
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+3. Fluticasone 50 mcg/Actuation Disk with Device Sig: One (1) puff Inhalation once a day.
+4. Imipramine HCl 10 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+6. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+8. Lescol XL 80 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO at bedtime.
+9. Cholestyramine-Sucrose 4 gram Packet Sig: One (1) Packet PO BID (2 times a day).
+10. Meclizine 12.5 mg Tablet Sig: One (1) Tablet PO twice a day.
+11. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed.
+12. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+13. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+
+1. Mirtazapine 15 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO HS (at bedtime).
+2. Docusate Sodium 150 mg/15 mL Liquid Sig: One Hundred (100) mg PO BID (2 times a day).
+3. Albuterol 90 mcg/Actuation Aerosol Sig: Six (6) Puff Inhalation Q4H (every 4 hours) as needed.
+4. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Six (6) Puff Inhalation Q6H (every 6 hours) as needed.
+5. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+7. Sertraline 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+9. Scopolamine Base 1.5 mg Patch 72HR Sig: One (1) Patch 72HR Transdermal Q72H PRN () as needed for secretions.
+10. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day.
+11. Glycopyrrolate 0.2 mg/mL Solution Sig: 0.2 mg Injection Q6H (every 6 hours) as needed.
+
+1.  Atorvostatin 20 mg p.o. q.d.
+2.  Metoprolol 12.5 mg p.o. b.i.d.
+3.  Aspirin 81 mg p.o. q.d.
+4.  Lansoprazole 30 mg per G tube b.i.d.
+5.  Scopolamine patch transdermal q. 72 hours.
+6.  Ciprofloxacin 500 mg p.o. q. 12 hours for a 14 day course, last dose [**2176-8-1**].
+7.  Albuterol and Atrovent nebulizers p.r.n.
+8.  Acetaminophen p.r.n.
+9.  Insulin NPH 30 units q.a.m., 30 units q.h.s.
+10. Insulin sliding scale as follows:  Fingersticks 80-100 covered with 4 units; fingersticks 101-150 with 6 units; fingersticks 151-200 with 8 units; fingersticks 201-250 to be covered with 10 units; fingersticks 251-300 with 12 units; fingersticks 301-350 with 14 units; fingersticks 351 to 400 with 16 units; fingersticks greater than 400 with 18 units of regular insulin.  All the above medications may be given per NG tube.  Ideally, the patient will be restarted on an ACE inhibitor once her requirement for systolic blood pressure greater than 130 related to her CVA has passed.     [**Name6 (MD) 7853**] [**Last Name (NamePattern4) 7854**], M.D. [**MD Number(1) 7855**]  Dictated By:[**Last Name (NamePattern1) 11873**] MEDQUIST36  D:  [**2176-7-19**]  09:39 T:  [**2176-7-19**]  08:12 JOB#:  [**Job Number 48025**]
+
+1. Quetiapine Fumarate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for anxiety,agitation. Disp:*14 Tablet(s)* Refills:*0*
+2. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO QD () for 1 days. Disp:*1 Tablet(s)* Refills:*0*
+3. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO taper as directed as needed for nausea,vomiting,diahrrea,craving: Take one dose tonight ([**8-16**]) for a total of three times a day. Take twice a day on [**8-17**]. Then, take once a day on [**8-18**]. Then, discontinue the medication. Disp:*4 Tablet(s)* Refills:*0*
+
+1. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q3-4H (Every 3 to 4 Hours) as needed.
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+4. Artificial Saliva 0.15-0.15 % Solution Sig: 1-3 MLs Mucous membrane PRN (as needed).
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+6. Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 HR Sig: One (1) Cap PO BID (2 times a day).
+7. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day): apply to affected areas.
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for SOB/wheeze.
+9. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical QID (4 times a day) as needed: apply to affected areas.
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+11. Morphine Concentrate 20 mg/mL Solution Sig: 5-10 mg PO Q1-2H () as needed.
+12. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 8 days: Please have blood counts (CBC) checked on [**2131-12-31**].
+13. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 8 days.
+14. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+15. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+16. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+17. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day).
+18. CBC  Sig: One (1) lab test  once for 1 doses: Please have blood counts (CBC) checked on [**2131-12-31**].
+
+1. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+2. B-Complex with Vitamin C     Tablet Sig: One (1) Cap PO DAILY (Daily). Disp:*30 tablets* Refills:*2*
+3. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+4. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+
+1. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). Disp:*30 Tablet(s)* Refills:*2*
+2. Mesalamine 400 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO TID (3 times a day).
+3. Hyoscyamine Sulfate 0.125 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual QID (4 times a day). Disp:*120 Tablet, Sublingual(s)* Refills:*0*
+4. Ciprofloxacin 750 mg Tablet Sig: One (1) Tablet PO twice a day for 11 days. Disp:*22 Tablet(s)* Refills:*0*
+
+1. Outpatient Lab Work Please draw every Monday until [**2101-1-20**]: LFTs, CBC, Cr. Fax results to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11382**] at [**Telephone/Fax (1) 1419**]
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for pain.
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+4. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Tablet, Sublingual Sublingual PRN (as needed).
+5. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+7. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+8. Haloperidol 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+9. Haloperidol 1 mg Tablet Sig: Two (2) Tablet PO QID (4 times a day) as needed for agitation.
+10. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: Three (3) Tab Sust.Rel. Particle/Crystal PO once a day.
+12. Nafcillin in D2.4W 2 g/100 mL Piggyback Sig: Two (2) grams Intravenous  Q4H (every 4 hours) for 20 days: last dose to be given on [**2101-1-20**].
+13. midline care midline line care per protocol
+14. Outpatient Lab Work Please draw Potassium on [**2101-1-4**]. Adjust potassium replacement accordingly.
+15. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+16. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).
+17. Cyanocobalamin 500 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+18. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 7 days.
+19. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for pain.
+20. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.
+
+1. lansoprazole 30 mg Rapid Dissolve, DR [**Last Name (STitle) **] DAILY. Disp:*30 Tablet,Rapid Dissolve, DR(s)* Refills:*2*
+2. prochlorperazine maleate 5 mg Tablet Sig: 1-2 Tablets PO q6HR PRN nausea. Disp:*20 Tablet(s)* Refills:*2*
+3. ondansetron HCl 4 mg Tablet Sig: 1-2 Tablets PO q8HR PRN nausea. Disp:*20 Tablet(s)* Refills:*2*
+4. amlodipine 10 mg PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+5. nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID.
+6. simvastatin 10 mg tablet Sig: Two (2) tablet PO DAILY.
+7. fluticasone 50 mcg/actuation Spray Sig: Two (2) Spray Nasal DAILY.
+8. dextromethorphan-guaifenesin 10-100 mg/5 mL Syrup Sig: 5ML PO Q6H PRN cough.
+9. bisacodyl 10mg tablet,delayed release (DR/EC) PO DAILY PRN constipation.
+10. miconazole nitrate 2 % Powder Sig: Appl Topical [**Hospital1 **] PRN scrotal irritation.
+11. lidocaine-diphenhyd-[**Doctor Last Name **]-mag-[**Doctor Last Name **] 200-25-400-40 mg/30 mL Mouthwash Sig: Fifteen (15) mL Mucous membrane QID PRN pain.
+12. loperamide 2 mg PO QID PRN loose stool.
+13. folic acid 1 mg PO DAILY.
+14. cholecalciferol (vitamin D3) 400 unit tablet Sig: Two (2) tablet PO DAILY.
+15. chlorhexidine gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML Mucous membrane [**Hospital1 **].
+16. ipratropium bromide 0.02 % Solution Sig: One (1) Neb Inh Q6H PRN wheezes.
+17. acyclovir 400 mg tablet Sig: One (1) tablet PO Q8H.
+18. heparin (porcine) 5,000 unit/mL Solution Sig: 1mL Injection TID.
+19. acetaminophen 325 mg tablet Sig: 1-2 tablets PO Q6H PRN pain.
+20. metoprolol tartrate 25 mg tablet Sig: 0.5 tablet PO BID.
+21. white petrolatum-mineral oil 56.8-42.5% Ointment Sig: Appl Ophthalmic Q2-3HR.
+22. tramadol 50 mg PO BID PRN left eye pain.
+23. citalopram 20 mg tablet Sig: 1.5 tablets PO DAILY.
+24. lisinopril 10 mg tablet Sig: One (1) tablet PO DAILY.
+25. senna 8.8 mg/5 mL Syrup Sig: Five (5) mL PO BID.
+26. magnesium hydroxide 400 mg/5 mL Sig: 30ML PO Q6H PRN Constipation.
+27. gabapentin 100 mg capsule Sig: Two (2) capsule PO TID.
+28. docusate sodium 50 mg/5 mL Liquid Sig: 10mL PO TID.
+29. polyethylene glycol 3350 17 gram Powder in Packet PO DAILY.
+30. acetaminophen 650mg PO: Give 30 minutes prior to cetuximab.
+31. diphenhydramine HCl 50 mg/mL Sig: 1mL Injection: Give 30 minutes prior to cetuximab.
+32. insulin glargine 100 unit/mL Solution Sig: 6U SC qHS.
+33. insulin regular human 100 unit/mL Solution Sig: As directed Units Injection QID: Per sliding scale.
+34. cetuximab 100mg/50mL Solution Sig: 250mg/m2 IV once a week for 4 weeks: Continue until radiation is complete.
+
+1. Captopril 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+2. Citalopram Hydrobromide 20 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).
+3. Carvedilol 3.125 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Levothyroxine Sodium 50 mcg Tablet Sig: One (1) Tablet PO QOD ().
+6. Levothyroxine Sodium 50 mcg Tablet Sig: 0.5 Tablet PO QOD ().
+7. Silver Sulfadiazine 1 % Cream Sig: One (1) Appl Topical DAILY (Daily) as needed.
+8. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for anxiety, sleeplessness.
+10. Trazodone HCl 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for sleeplessness.
+11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+14. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day: Please do not start taking this medication until [**2180-4-19**].
+15. Prevacid 30 mg Susp,Delayed Release for Recon Sig: Thirty (30) mg PO twice a day. Disp:*qs mg* Refills:*2*
+
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 4000-[**Numeric Identifier 2249**] units Injection PRN (as needed) as needed for line flush.
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+3. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times a day).
+4. Acetaminophen 160 mg/5 mL Solution Sig: 325-650 mg PO Q6H (every 6 hours) as needed for fever, pain.
+5. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO BID (2 times a day) as needed for constipation.
+6. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**1-7**] Drops Ophthalmic PRN (as needed) as needed for irritation.
+8. Bacitracin-Polymyxin B 500-10,000 unit/g Ointment Sig: One (1) Appl Ophthalmic QID (4 times a day).
+9. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+10. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): for renal transplant.
+11. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: Four (4) Tablet PO QHD (each hemodialysis): DC on [**12-29**].09. Give AFTER HD.
+12. Metoclopramide 10 mg Tablet Sig: 2.5 mg PO BID (2 times a day).
+13. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): Increase as needed for persistent HTN.
+14. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+15. Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+16. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) Puff Inhalation Q4H (every 4 hours) as needed for dyspnea, wheeze.
+17. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q4H (every 4 hours) as needed for shortness of breath, dyspnea.
+18. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) for 5 days: DC on [**2107-12-24**]. Please give IN ADDITION to standing prednisone 5mg PO daily for rejection.
+19. Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC, heparin dependent: Flush with 10mL Normal Saline followed by Heparin as above daily and PRN per lumen.
+20. Keppra 250 mg Tablet Sig: One (1) Tablet PO after HD: in addition to daily dose of Keppra 500mg PO BID.
+21. Keppra 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+22. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day): For IVC thrombi until further evaluated by vascular surgery as outpatient.
+
+1. hydrocodone-acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain: maximum daily Tylenol (acetaminophen) is 4000mg, each Vicodin contains 500mg Tylenol (acetaminophen). Disp:*50 Tablet(s)* Refills:*0*
+2. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+4. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea. Disp:*40 Tablet, Rapid Dissolve(s)* Refills:*0*
+5. lorazepam 1 mg Tablet Sig: One (1) Tablet PO QID (4 times a day) as needed for anxiety. Disp:*60 Tablet(s)* Refills:*0*
+6. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nausea. Disp:*60 Tablet(s)* Refills:*0*
+7. ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain. Disp:*60 Tablet(s)* Refills:*0*
+8. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours). Disp:*120 Tablet(s)* Refills:*2*
+
+1. Aspirin 325 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+2. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette [**Hospital1 **]: [**12-9**] Drops Ophthalmic PRN (as needed).
+3. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+4. Docusate Sodium 100 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO BID (2 times a day) as needed: hold for diarrhea.
+5. Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a day) as needed: hold for diarrhea.
+6. Lactulose 10 g/15 mL Syrup [**Last Name (STitle) **]: Thirty (30) ML PO Q8H (every 8 hours) as needed: hold for diarrhea.
+7. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Last Name (STitle) **]: One (1) Inhalation Q4H (every 4 hours) as needed for wheezing.
+8. Acetaminophen 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+9. Thiamine HCl 100 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+10. B Complex-Vitamin C-Folic Acid 1 mg Capsule [**Last Name (STitle) **]: One (1) Cap PO DAILY (Daily).
+12. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device [**Last Name (STitle) **]: One (1) inh, Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+13. Budesonide 0.25 mg/2 mL Solution for Nebulization [**Hospital1 **]: One (1) neb Inhalation [**Hospital1 **] (2 times a day).
+14. Nystatin 100,000 unit/mL Suspension [**Hospital1 **]: Five (5) ML PO QID (4 times a day).
+15. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr [**Hospital1 **]: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+16. Haloperidol 1 mg Tablet [**Hospital1 **]: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for anxiety or aggitation.
+17. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Hospital1 **]: One (1) neb ih Inhalation Q6H (every 6 hours) as needed.
+18. Tramadol 50 mg Tablet [**Hospital1 **]: One (1) Tablet PO Q12H (every 12 hours) as needed.
+19. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated [**Hospital1 **]: One (1) Adhesive Patch, Medicated Topical Q24H (every 24 hours).
+20. Ipratropium Bromide 0.02 % Solution [**Hospital1 **]: One (1) neb Inhalation Q6H (every 6 hours) as needed.
+21. Haloperidol 2 mg Tablet [**Hospital1 **]: One (1) Tablet PO TID (3 times a day).
+22. Zolpidem 5 mg Tablet [**Hospital1 **]: 1-2 Tablets PO HS (at bedtime).
+23. Miconazole Nitrate 2 % Powder [**Hospital1 **]: One (1) Appl Topical QID (4 times a day) as needed.
+24. Sevelamer 400 mg Tablet [**Hospital1 **]: One (1) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+25. Gabapentin 100 mg Capsule [**Hospital1 **]: One (1) Capsule PO HS (at bedtime): hold for oversedation.
+26. Toprol XL 100mg Tablet [**Hospital1 **]: One (1) Tablet PO once a day
+
+1. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+2. Calcipotriene 0.005 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+3. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+4. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+5. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO every twelve (12) hours as needed for cough. Disp:*30 Capsule(s)* Refills:*0*
+6. Diovan 80 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Multivitamin  Oral
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO every other day. Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+1. Lamotrigine 100 mg Tablet Sig: 2.5 Tablets PO DAILY (Daily).
+2. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+3. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day).
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+6. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+7. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+8. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as needed.
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb neb Inhalation Q6H (every 6 hours) as needed for sob/cough.
+10. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. Insulin Regular Human 100 unit/mL Solution Sig: follow sliding scale  Injection four times a day.
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+13. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.
+14. Tacrolimus 5 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours).
+15. Tacrolimus 1 mg Capsule Sig: One (1) Capsule PO twice a day.
+16. Outpatient Lab Work stat Labs [**5-16**] for chem 7 and trough prograf level am call results to [**Telephone/Fax (1) 673**]
+
+1. Pantoprazole 40 mg PO Q12H RX *pantoprazole 40 mg 1 tablet(s) by mouth q12 hours Disp #*60 Tablet Refills:*2
+2. HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN Pain RX *hydromorphone [Dilaudid] 2 mg [**12-9**] tablet(s) by mouth q 4-6 hours PRN Disp #*40 Tablet Refills:*0
+3. Docusate Sodium 100 mg PO BID RX *docusate sodium 100 mg 1 capsule(s) by mouth [**Hospital1 **] PRN Disp #*60 Capsule Refills:*1
+
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Insulin Lispro 100 unit/mL Insulin Pen Sig: As per sliding scale Units Subcutaneous four times a day: Use number of units indicated on sliding scale for your measured blood glucose level before breakfast, lunch, dinner, and at bedtime. Disp:*2 Pens* Refills:*5*
+3. Insulin Glargine 300 unit/3 mL Insulin Pen Sig: Forty (40) Units Subcutaneous at bedtime. Disp:*2 Pens* Refills:*2*
+4. Lancets     Misc Sig: One (1) lancet Miscellaneous qachs. Disp:*120 lancets* Refills:*2*
+5. Test strips One test strip qachs dispense 120
+
+1. Phenytoin 125 mg/5 mL Suspension Sig: One [**Age over 90 **]y Five (125) mg PO TID (3 times a day).
+2. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+4. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for fungus.
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+6. Colace 50 mg/5 mL Liquid Sig: One Hundred (100) mg PO twice a day as needed for constipation.
+7. Lantus 100 unit/mL Solution Sig: Six (6) Units Subcutaneous at bedtime.
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+9. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units SC Injection TID (3 times a day).
+10. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML Intravenous PRN (as needed) as needed for line flush.
+
+1. hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal [**Hospital1 **] PRN () as needed for hemorrhoid pain.
+2. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection [**Hospital1 **] (2 times a day).
+3. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+4. ramipril 5 mg Capsule Sig: One (1) Capsule PO once a day.
+5. diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4 times a day): Hold for SBP < 100.
+6. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).
+7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+8. Milk of Magnesia 400 mg/5 mL Suspension Sig: Two (2) tbsp PO at bedtime as needed for constipation.
+9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO once a day.
+
+1. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**11-26**] Drops Ophthalmic PRN (as needed).
+2. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+3. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+4. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 1 weeks: last dose [**2133-6-21**].
+5. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 1 weeks: last dose [**2133-6-21**].
+6. Labetalol 100 mg Tablet Sig: 1.5 Tablets PO TID (3 times a day).
+7. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: Four (4) mg Injection Q8H (every 8 hours) as needed.
+8. Metoprolol Tartrate 5 mg/5 mL Solution Sig: Ten (10) mg Intravenous Q6H (every 6 hours) as needed for SBP>180.
+9. Hydralazine 20 mg/mL Solution Sig: Ten (10) mg Injection Q4H (every 4 hours) as needed for SBP > 160.
+10. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed: prn pain or fever.
+12. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+1. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO daily ().
+2. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+4. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs PO Q4H (every 4 hours) as needed for pain.
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+1. Wellbutrin  Oral
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day. Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*0*
+3. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*
+4. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QSUN (every Sunday).
+5. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain: max APAP 4g/24hrs.
+7. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). Disp:*120 Tablet(s)* Refills:*0*
+8. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*60 Tablet(s)* Refills:*0*
+9. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours). Disp:*60 Tablet(s)* Refills:*0*
+10. Outpatient Physical Therapy
+
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+2. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Warfarin 2 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4 PM: except 7 mg on Thursday.
+6. Advair Diskus 250-50 mcg/Dose Disk with Device Sig: One (1) puff Inhalation twice a day.
+7. Benazepril 20 mg Tablet Sig: 1.5 Tablets PO twice a day.
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+9. insulin pump Please continue your fingersticks and insulin pump as per home regimen.
+
+1. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM.
+5. insulin NPH & regular human 100 unit/mL (70-30) Suspension Sig: Fifteen (15) Units Subcutaneous twice a day. Disp:*900 Units* Refills:*2*
+6. furosemide 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+7. carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). Disp:*120 Tablet(s)* Refills:*0*
+8. enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) syringe Subcutaneous DAILY (Daily) for 1 doses: Please take dose at 3pm on Sat, [**4-14**]. Disp:*1 syringe* Refills:*0*
+9. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. insulin aspart 100 unit/mL Solution Sig: One (1) syringe Subcutaneous four times a day: Take your blood sugars before each meal and administer additional insulin according to attached sliding scale:. Disp:*900 units* Refills:*2*
+
+1. alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO once a day as needed for anxiety.
+2. Vitamin D2 50,000 unit Capsule Sig: One (1) Capsule PO once a week.
+3. raloxifene 60 mg Tablet Sig: One (1) Tablet PO daily ().
+4. calcium carbonate 500 mg calcium (1,250 mg) Tablet Sig: One (1) Tablet PO Q 24H (Every 24 Hours).
+5. sumatriptan succinate 50 mg Tablet Sig: One (1) Tablet PO once a day as needed for migraine.
+
+1. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed. Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours). Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS (4 times a day (before meals and at bedtime)). Disp:*240 Tablet(s)* Refills:*2*
+6. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO three times a day as needed for Nausea or anxiety. Disp:*60 Tablet(s)* Refills:*0*
+7. Losartan 25 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+8. Demeclocycline 150 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). Disp:*120 Tablet(s)* Refills:*2*
+9. Outpatient Lab Work Blood draw: Panel 7, CBC, LFT's including total bilirubin. To be drawn within 1 week of discharge.
+10. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.
+11. Acyclovir 200 mg Capsule Sig: One (1) Capsule PO Q8H (every 8 hours).
+12. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed.
+13. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+14. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.
+15. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 3 days.
+16. Insulin sliding scale NPH insulin: 25U QAM, 18U QPM . Four times daily fingersticks with humalog dosing per insulin sliding scale.
+17. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+18. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for neck/back pain.
+19. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+20. Furosemide 20 mg Tablet Sig: Two (2) Tablet PO once a day.
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+3. Glimepiride 2 mg Tablet Sig: One (1) Tablet PO daily ().
+4. Valsartan 40 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day.
+6. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day) as needed for nerve pain. Disp:*45 Capsule(s)* Refills:*0*
+7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day: To prevent constipation. Disp:*30 Capsule(s)* Refills:*0*
+8. Senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation: Take as needed to relieve constipation. Disp:*30 Capsule(s)* Refills:*0*
+
+1. Maalox 200-200-20 mg/5 mL Suspension [**Known lastname **]: One (1) ML PO TID (3 times a day) as needed for constipation.
+2. Artificial Tear with Lanolin 0.1-0.1 % Ointment [**Known lastname **]: One (1) Appl Ophthalmic PRN (as needed).
+3. Polyvinyl Alcohol 1.4 % Drops [**Known lastname **]: One (1) Drop Ophthalmic PRN (as needed).
+4. Docusate Sodium 50 mg/5 mL Liquid [**Known lastname **]: One (1)  PO BID (2 times a day).
+5. Oxycodone 5 mg/5 mL Solution [**Known lastname **]: One (1)  PO every eight (8) hours as needed for pain.
+6. Acetaminophen 325 mg Tablet [**Known lastname **]: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain, fever.
+7. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+8. Zinc Sulfate 220 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO DAILY (Daily).
+9. Allopurinol 100 mg Tablet [**Last Name (STitle) **]: 1.5 Tablets PO DAILY (Daily).
+10. Benztropine 1 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+11. Amiodarone 200 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+12. Metoprolol Tartrate 50 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3 times a day).
+13. Warfarin 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO ONCE (Once) for 1 doses: check daily INR.
+14. Furosemide 10 mg/mL Solution [**Last Name (STitle) **]: One (1)  Injection [**Hospital1 **] (2 times a day).
+
+1. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily) for 2 weeks. Disp:*14 Adhesive Patch, Medicated(s)* Refills:*0*
+2. acyclovir 5 % Ointment Sig: One (1) Appl Topical ASDIR (AS DIRECTED). Disp:*1 tube* Refills:*0*
+3. alprazolam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for anxiety.
+4. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+5. gabapentin 300 mg Capsule Sig: One (1) Capsule PO DAILY (Daily). Disp:*30 Capsule(s)* Refills:*0*
+6. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*120 Tablet(s)* Refills:*0*
+7. amoxicillin-pot clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 10 days. Disp:*20 Tablet(s)* Refills:*0*
+8. fluconazole 200 mg Tablet Sig: Two (2) Tablet PO once a day for 10 days. Disp:*20 Tablet(s)* Refills:*0*
+9. ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO every eight (8) hours as needed for nausea. Disp:*20 Tablet, Rapid Dissolve(s)* Refills:*0*
+10. Xanax 1 mg Tablet Sig: One (1) Tablet PO three times a day as needed for anxiety. Disp:*10 Tablet(s)* Refills:*0*
+
+1. allopurinol 300 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Combivent 18-103 mcg/Actuation Aerosol Sig: [**12-12**] puff Inhalation four times a day.
+3. ipratropium-albuterol 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for Nebulization Sig: One (1) ampule Inhalation four times a day as needed for shortness of breath or wheezing: 1 ampule in nebulizer up to qid as needed for lung disease flare .
+4. levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+6. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) Capsule, Ext Release 24 hr PO at bedtime.
+7. tizanidine 4 mg Tablet Sig: One (1) Tablet PO at bedtime.
+8. warfarin 7.5 mg Tablet Sig: One (1) Tablet PO 5X/WEEK ([**Doctor First Name **], TU, WE, TH, SA).
+9. warfarin 5 mg Tablet Sig: One (1) Tablet PO 2X/WEEK (MO,FR).
+10. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO once a day.
+11. Advair Diskus 250-50 mcg/dose Disk with Device Sig: One (1) whiff Inhalation twice a day.
+12. fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) Spray Nasal DAILY (Daily).
+13. hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO at bedtime as needed for itching.
+14. ciclopirox 0.77 % Gel Sig: One (1) application Topical twice a day: Apply to abdomen folds.
+15. clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+16. docusate sodium 100 mg Tablet Sig: One (1) Capsule PO BID (2 times a day).
+17. trazodone 50 mg Tablet Sig: 0.5-1 Tablet PO HS (at bedtime) as needed for insomnia.
+18. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day.
+19. nitrofurantoin macrocrystal 100 mg Capsule Sig: One (1) Capsule PO four times a day for 5 days: Please take from [**4-28**] - [**2124-5-4**]. Disp:*20 Capsule(s)* Refills:*0*
+20. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical QID (4 times a day) as needed for pruritis.
+
+1. Fluoxetine 10 mg Capsule Sig: Three (3) Capsule PO DAILY (Daily).
+2. Risperidone 1 mg Tablet Sig: Three (3) Tablet PO HS (at bedtime).
+3. Bupropion 150 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO BID (2 times a day).
+4. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+6. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+7. Midodrine 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+8. Mesalamine 400 mg Tablet, Delayed Release (E.C.) Sig: Three (3) Tablet, Delayed Release (E.C.) PO TID (3 times a day).
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+11. Nicotine 7 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR Transdermal DAILY (Daily).
+12. Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): please do not take this with levofloxacin.
+13. Cepacol 2 mg Lozenge Sig: One (1) Lozenge Mucous membrane Q4H (every 4 hours) as needed. Disp:*100 Lozenge(s)* Refills:*0*
+14. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+15. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**2-8**] Sprays Nasal QID (4 times a day). Disp:*QS bottle* Refills:*2*
+16. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+17. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for anxiety. Disp:*20 Tablet(s)* Refills:*0*
+18. Saline Flush 0.9 % Syringe Sig: Three (3) ml Injection twice a day for 20 doses: prior to each vanco dose. Disp:*20 syringe* Refills:*0*
+19. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+20. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed.
+21. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig: 15-30 MLs PO QID (4 times a day) as needed.
+22. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for constipation.
+23. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for pain.
+24. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical QD ().
+25. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+26. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day).
+27. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for wheezing.
+28. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+29. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain.
+30. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One (1) ML Intravenous DAILY (Daily) as needed: for PICC line.
+31. Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q6H (every 6 hours) for 7 days.
+
+1. Enoxaparin 100 mg/mL Syringe Sig: Ninety (90) mg Subcutaneous every twelve (12) hours. Disp:*3 syringes* Refills:*0*
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+4. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).
+5. Aciphex 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO every other day.
+6. Atenolol 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+7. Irbesartan-Hydrochlorothiazide 150-12.5 mg Tablet Sig: one half Tablet PO once a day.
+8. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for itching.
+9. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+10. Lidocaine HCl 2 % Solution Sig: One (1) ML Mucous membrane TID (3 times a day) as needed for oral sores: before meals if needed. Disp:*100 ML(s)* Refills:*2*
+11. Formoterol Fumarate 20 mcg/2 mL Solution for Nebulization Sig: One (1) solution Inhalation twice a day as needed for shortness of breath or wheezing. Disp:*60 solutions* Refills:*3*
+
+1. Calcium 500 500 mg calcium (1,250 mg) Tablet Sig: One (1) Tablet PO twice a day.
+2. Miralax 17 gram Powder in Packet Sig: One (1)  PO once a day as needed for constipation.
+3. Klor-Con 20 mEq Packet Sig: One (1)  PO twice a day.
+4. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+5. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.
+6. fluticasone 50 mcg/actuation Spray, Suspension Sig: One (1) Nasal twice a day.
+7. Tylenol 325 mg Tablet Sig: Two (2) Tablet PO four times a day as needed for pain. Tablet(s)
+8. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for anxiety/nausea.
+9. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1)  Inhalation every four (4) hours as needed for SOB/wheeze.
+10. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. bimatoprost 0.03 % Drops Sig: One (1)  Ophthalmic QHS (once a day (at bedtime)).
+12. amitriptyline 50 mg Tablet Sig: Two (2) Tablet PO QHS (once a day (at bedtime)).
+13. lactobacillus acidophilus     Tablet, Chewable Sig: One (1) Tablet, Chewable PO three times a day.
+14. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+15. citalopram 20 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+16. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+17. Medication Bisacodyl 10 mg suppository PRN constipation
+18. Medication Robitussin PRN cough
+19. Medication Milk of Magnesia PRN constipation
+20. Medication Fleet Enema PRN constipation
+21. lactulose 20 gram/30 mL Solution Sig: Thirty (30) mL PO Every other night.
+22. Lumigan 0.03 % Drops Sig: One (1) drop Ophthalmic at bedtime.
+23. Medication Bio E with selenium soft gel 1 tab PO daily
+24. Lasix 20 mg Tablet Sig: Three (3) Tablet PO once a day: This medication should not be restarted until the patient is evaluated by a physician at the nursing home.
+25. Vitamin D2 50,000 unit Capsule Sig: One (1) Capsule PO once a month.
+
+1. Heparin 5000 UNIT SC TID
+2. Maalox/Diphenhydramine/Lidocaine 15-30 mL PO QID:PRN mouth pain
+3. Docusate Sodium (Liquid) 100 mg PO BID:PRN constipation
+4. Albuterol-Ipratropium [**4-16**] PUFF IH Q4H:PRN SOB, Wheezing
+5. Amiodarone 200 mg PO DAILY
+6. Senna 1 TAB PO BID:PRN constipation
+7. Miconazole Powder 2% 1 Appl TP TID:PRN rash apply to rash
+8. Furosemide 40 mg PO BID:PRN volume overload
+
+1. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing. Disp:*1 MDI* Refills:*2*
+2. Atrovent 18 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing. Disp:*1 MDI* Refills:*2*
+3. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+4. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+5. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO DAILY (Daily). Disp:*30 Capsule(s)* Refills:*2*
+6. Atenolol 100 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+
+1. Atorvastatin 40 mg Tablet [**Month/Day/Year **]: Two (2) Tablet PO DAILY (Daily).
+2. Clonidine 0.1 mg Tablet [**Month/Day/Year **]: Two (2) Tablet PO BID (2 times a day).
+3. Clopidogrel 75 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO DAILY (Daily).
+4. Doxycycline Hyclate 100 mg Capsule [**Month/Day/Year **]: One (1) Capsule PO Q12H (every 12 hours).
+5. Esomeprazole Magnesium 40 mg Capsule, Delayed Release(E.C.) [**Month/Day/Year **]: One (1) Capsule, Delayed Release(E.C.) PO once a day.
+6. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization [**Month/Day/Year **]: One (1) treatment Inhalation every 4-6 hours as needed for wheezing.
+7. Furosemide 20 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO DAILY (Daily).
+8. Hydralazine 50 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO Q8H (every 8 hours).
+9. Fluticasone 110 mcg/Actuation Aerosol [**Month/Day/Year **]: Two (2) puffs Inhalation twice a day.
+10. Metoprolol Tartrate 50 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO TID (3 times a day).
+11. Ipratropium Bromide 0.02 % Solution [**Month/Day/Year **]: One (1) treatment Inhalation Q6H (every 6 hours).
+12. Docusate Sodium 100 mg Capsule [**Month/Day/Year **]: One (1) Capsule PO BID (2 times a day) as needed for constipation.
+13. Prednisone 10 mg Tablet [**Month/Day/Year **]: As directed Tablet PO DAILY (Daily) for 9 days: Please take two tablets (20 mg) once daily X 3 days ([**6-25**], [**6-26**], [**6-27**]) then one tablet (10 mg) once daily X 3 days ([**6-28**], [**6-29**], [**6-30**]). Then, take [**1-4**] tablet (5 mg) once daily X 3 days ([**7-1**], [**7-2**], [**7-3**]) then stop. Disp:*11 Tablet(s)* Refills:*0*
+14. Isosorbide Dinitrate 30 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO three times a day.
+15. Acetaminophen 325 mg Tablet [**Month/Year (2) **]: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain: total acetaminophen dose 4 g daily.
+16. Senna 8.6 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO BID (2 times a day) as needed for constipation.
+
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every [**3-15**] hours as needed for pain.
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+4. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Sotalol 80 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+
+1. fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every 24 hours).
+2. prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): follow sliding scale taper.
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+4. mycophenolate mofetil 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+5. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day.
+7. valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO once a day.
+8. tacrolimus 1 mg Capsule Sig: Five (5) Capsule PO Q12H (every 12 hours).
+9. insulin lispro 100 unit/mL Solution Sig: follow sliding scale Subcutaneous four times a day. Disp:*1 bottle* Refills:*2*
+10. tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H (every 12 hours).
+11. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+12. pregabalin 25 mg Capsule Sig: Two (2) Capsule PO QHS (once a day (at bedtime)). Disp:*60 Capsule(s)* Refills:*2*
+13. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO Q12H (every 12 hours). Disp:*28 Tablet Extended Release(s)* Refills:*0*
+14. oxycodone 5 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed for pain. Disp:*70 Tablet(s)* Refills:*0*
+15. furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*20 Tablet(s)* Refills:*1*
+16. NPH insulin human recomb 100 unit/mL Suspension Sig: Twenty (20) units Subcutaneous once a day. Disp:*1 bottle* Refills:*2*
+17. Insulin Syringes Low dose U-100 syringes 25-26 gauge [**12-19**] inch needle for [**Hospital1 **] NPH and sliding scale qid humalog supply: 1 box refill:2
+
+1. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. glucagon (human recombinant) 1 mg Recon Soln Sig: One (1) Recon Soln Injection Q15MIN () as needed for hypoglycemia protocol.
+3. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+5. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for constipation.
+6. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day): for DVT prophylaxis.
+7. calcium carbonate 200 mg (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed for indigestion.
+8. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+9. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+10. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for Pain.
+11. famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+12. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Urianary tract infection for 7 doses.
+13. dextrose 50% in water (D50W)     Syringe Sig: One (1) Intravenous PRN (as needed) as needed for hypoglycemia protocol.
+14. insulin regular human 100 unit/mL (3 mL) Insulin Pen Sig: One (1)  Subcutaneous four times a day: Per sliding-scale insulin regimen for insulin-dependent diabetes mellitus.
+
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+2. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours). Disp:*60 Tablet(s)* Refills:*2*
+3. nifedipine 30 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet Extended Rel 24 hr PO once a day. Disp:*30 Tablet Extended Rel 24 hr(s)* Refills:*2*
+4. guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed for coughing.
+
+1. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at bedtime)) as needed for insomnia.
+2. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 times a day).
+5. nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed for thrush.
+6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation.
+7. gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 hours).
+8. oxycodone 30 mg Tablet Sustained Release 12 hr Sig: One (1) Tablet Sustained Release 12 hr PO Q12H (every 12 hours). Disp:*60 Tablet Sustained Release 12 hr(s)* Refills:*0*
+9. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.
+10. dexamethasone 4 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+11. citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+12. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). Disp:*30 Tablet(s)* Refills:*0*
+
+1. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) Tablet PO QD (once a day).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+3. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).
+4. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Prednisone 20 mg Tablet Sig: One (1) Tablet PO QD (once a day).
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed. Disp:*30 Tablet(s)* Refills:*0*
+7. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every 24 hours).
+8. Neoral 25 mg Capsule Sig: Five (5) Capsule PO every twelve (12) hours.
+9. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+10. Valcyte 450 mg Tablet Sig: One (1) Tablet PO every other day.
+
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+2. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for nAUSEA .
+3. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed for cough.
+4. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day) as needed for cough.
+5. Meropenem 500 mg Recon Soln Sig: One (1) dose Intravenous every six (6) hours for 6 days: Last doses on [**2115-1-8**].
+6. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) Treatment Inhalation every four (4) hours as needed for sob/wheeze.
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q8H (every 8 hours) as needed for PRN FEVER.
+8. Cholecalciferol (Vitamin D3) 1,000 unit Tablet Sig: One (1) Tablet PO once a day.
+9. Omega-3 Fish Oil 1,000-5 mg-unit Capsule Sig: One (1) Capsule PO once a day.
+10. Vitamin E 400 unit Capsule Sig: One (1) Capsule PO once a day.
+
+1. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+2. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+3. Nystatin 100,000 unit/mL Suspension Sig: 100,000 MLs PO QID (4 times a day).
+4. Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed.
+5. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**11-20**] Sprays Nasal TID (3 times a day).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).
+7. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for anxiety.
+8. Acetylcysteine 20 % (200 mg/mL) Solution Sig: One (1) ML Miscell.  Q4-6H (every 4 to 6 hours) as needed.
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+10. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+11. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed.
+12. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day): Continue until patient is regularly ambulatory, than may D/C.
+13. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+14. Ipratropium Bromide 0.02 % Solution Sig: One (1) inhalation Inhalation Q4H (every 4 hours) as needed.
+15. Clonazepam 0.25 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO three times a day: Hold for RR < 16.
+16. Guaifenesin 600 mg Tablet Sustained Release Sig: Two (2) Tablet Sustained Release PO BID (2 times a day).
+17. Morphine 15 mg Tablet Sustained Release Sig: Three (3) Tablet Sustained Release PO Q12H (every 12 hours).
+18. Linezolid 600 mg/300 mL Parenteral Solution Sig: Six Hundred (600) mg Intravenous  Q12H (every 12 hours) for 5 days: First dose: [**2181-9-10**] Continue for total of 21 day course Last dose: [**2181-9-30**].
+19. Ceftazidime-Dextrose (Iso-osm) 2 g/50 mL Piggyback Sig: Two (2) grams Intravenous  Q8H (every 8 hours) for 7 days: First dose: [**2181-9-12**] Continue for total of 21 day course Last dose: [**2181-10-2**].
+20. Amikacin 250 mg/mL Solution Sig: One (1) gram Injection Q24H (every 24 hours) for 3 days: First dose: [**2181-9-15**] Continue for total 14 day course last dose: [**2181-9-28**].
+21. Dolasetron 12.5 mg/0.625 mL Solution Sig: 12.5 mg Intravenous  Q8H (every 8 hours) as needed for nausea /vomiting.
+22. Morphine 2 mg/mL Syringe Sig: Two (2) mg Injection Q4H (every 4 hours) as needed for breakthrough pain.
+23. Prednisone 10 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily): Continue for 1 week. Wean as possible over following 2 to 3 weeks to 10mg daily as possible.
+24. Insulin NPH-Regular Human Rec 100 unit/mL (70-30) Suspension Sig: see instructions units Subcutaneous once a day: Please provide 40 units qam 22 units qhs.
+25. Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1) unit Subcutaneous four times a day: Please provide Humalog sliding scale with meals and at bedtime per provided sliding scale in addition to standing Insulin 70/30 .
+
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units SC Injection TID (3 times a day) for 1 weeks.
+2. LeVETiracetam 1,000 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+3. Metoprolol Tartrate 25 mg Tablet Sig: [**1-11**] Tablet PO BID (2 times a day).
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).
+5. Neutra-Phos [**Telephone/Fax (3) 4228**] mg Powder in Packet Sig: One (1) packet PO DAILY (Daily) for 2 days.
+6. Acetaminophen 650 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for fever or pain.
+
+1. Outpatient Physical Therapy Please assess and treat for deconditioning from hospitalization and left ankle pain.  Diagnosis: Pneumonia. Please give results to Dr. [**Last Name (STitle) **],[**First Name3 (LF) 88528**] R. [**Telephone/Fax (1) 39876**]. Ok to sign off.
+2. multivitamin     Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*
+3. folic acid 1 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*
+4. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*
+

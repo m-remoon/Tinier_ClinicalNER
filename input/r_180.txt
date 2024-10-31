@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+2. Dapagliflozin 5 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+3. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+4. Fluticasone 50 mcg Nasal Spray Sig: Two (2) Sprays Inhalation BID for allergic rhinitis.
+5. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+6. Bupropion 150 mg SR Tablet Sig: One (1) Tablet PO BID for depression.
+7. Tadalafil 5 mg Tablet Sig: One (1) Tablet PO DAILY for benign prostatic hyperplasia.
+8. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+9. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO DAY 1, then One (1) Tablet PO DAILY for bacterial infection.
+10. Dimenhydrinate 50 mg Tablet Sig: One (1) Tablet PO Q4H PRN for motion sickness.
+11. Ketorolac 30 mg/mL Injection Sig: One (1) Injection Intramuscular QID for moderate pain.
+12. Olanzapine 10 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+13. Propranolol 10 mg Tablet Sig: One (1) Tablet PO TID for migraine prophylaxis.
+14. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY with food for atrial fibrillation.
+15. Linagliptin 5 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.

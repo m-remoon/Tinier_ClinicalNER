@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Diazepam 5 mg Tablet Sig: One (1) Tablet PO BID for anxiety.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for fluid retention.
+6. Liraglutide 6 mg/mL Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+7. Bisoprolol 5 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+8. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+9. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+10. Salmeterol 50 mcg Inhaler Sig: One (1) puff Inhalation BID for COPD.
+11. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+12. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+13. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+14. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+15. Hydroxyzine 25 mg Capsule Sig: One (1) Capsule PO TID for itching.

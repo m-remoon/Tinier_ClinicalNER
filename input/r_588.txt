@@ -1,0 +1,16 @@
+
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QHS for high cholesterol.
+3. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+4. Salmeterol 50 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+5. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+6. Fluticasone 50 mcg Nasal Spray Sig: Two (2) sprays In each nostril DAILY for allergies.
+7. Bisoprolol 5 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+8. Dabigatran 150 mg Capsule Sig: One (1) Capsule PO BID for anticoagulation.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+10. Insulin Lispro 100 units/mL Solution Sig: 5 units Subcutaneous TID for diabetes.
+11. Dutasteride 0.5 mg Capsule Sig: One (1) Capsule PO DAILY for BPH.
+12. Zafirlukast 20 mg Tablet Sig: One (1) Tablet PO BID for asthma.
+13. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for GERD.
+14. Selegiline 5 mg Tablet Sig: One (1) Tablet PO BID for Parkinson’s disease.
+15. Oxycodone 10 mg Tablet Sig: One (1) Tablet PO Q4H PRN for severe pain.

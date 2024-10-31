@@ -1,0 +1,15 @@
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Aripiprazole 10 mg Tablet Sig: One (1) Tablet PO DAILY for schizophrenia.
+3. Ipratropium 0.5 mg/2.5 mL Nebulizer Solution Sig: Use with nebulizer Q6H for COPD.
+4. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO BID for depression.
+5. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+6. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+7. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+8. Dulaglutide 1.5 mg/0.5 mL Pen Sig: 0.5 mL Subcutaneous Weekly for diabetes.
+9. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+10. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+11. Nifedipine 30 mg Extended-Release Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+12. Donepezil 10 mg Tablet Sig: One (1) Tablet PO QHS for Alzheimer's disease.
+13. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+14. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then one (1) Tablet DAILY for infection.
+15. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.

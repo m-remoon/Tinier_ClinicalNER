@@ -1,0 +1,16 @@
+
+1. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+2. Tiotropium 18 mcg Inhalation Powder Sig: One (1) Capsule Inhalation DAILY for COPD.
+3. Methotrexate 7.5 mg Tablet Sig: One (1) Tablet PO WEEKLY for rheumatoid arthritis.
+4. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+5. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO DAILY for epilepsy.
+6. Dulaglutide 1.5 mg/0.5 mL Solution Sig: 0.5 mL Subcutaneous WEEKLY for diabetes.
+7. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+8. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for fluid retention.
+9. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+10. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for acne.
+11. Risperidone 2 mg Tablet Sig: One (1) Tablet PO BID for schizophrenia.
+12. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+13. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO Q6H for bacterial infection.
+14. Latanoprost 0.005% Eye Drops Sig: One (1) Drop in each eye NIGHTLY for glaucoma.
+15. Carbidopa-Levodopa 25-100 mg Tablet Sig: One (1) Tablet PO TID for Parkinson's disease.

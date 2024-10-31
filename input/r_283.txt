@@ -1,0 +1,16 @@
+
+1. Ceftriaxone 1 g Injection Sig: One (1) dose Intramuscular Daily for bacterial infection.
+2. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+3. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+4. Tiotropium 18 mcg Inhaler Sig: One (1) inhalation Inhalation DAILY for COPD.
+5. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+6. Terbinafine 250 mg Tablet Sig: One (1) Tablet PO DAILY for fungal infection.
+7. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO TID for skin infection.
+8. Memantine 10 mg Tablet Sig: One (1) Tablet PO BID for Alzheimer's disease.
+9. Tadalafil 5 mg Tablet Sig: One (1) Tablet PO DAILY for erectile dysfunction.
+10. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+11. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+12. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+13. Liraglutide 6 mg/mL Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+14. Quetiapine 50 mg Tablet Sig: One (1) Tablet PO QHS for bipolar disorder.
+15. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.

@@ -1,0 +1,16 @@
+
+1. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+2. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO QHS for high cholesterol.
+3. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+4. Salbutamol 100 mcg Inhaler Sig: Two (2) puffs Inhalation Q4H for asthma.
+5. Glipizide 5 mg Tablet Sig: One (1) Tablet PO BID for diabetes.
+6. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+7. Bosentan 62.5 mg Tablet Sig: One (1) Tablet PO BID for pulmonary arterial hypertension.
+8. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.
+9. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO TID for neuropathic pain.
+10. Insulin Lispro 100 units/mL Solution Sig: 10 units Subcutaneous TID for diabetes.
+11. Terazosin 1 mg Capsule Sig: One (1) Capsule PO DAILY for BPH.
+12. Omalizumab 150 mg/1.2 mL Injection Sig: 150 mg Subcutaneous every 4 weeks for asthma.
+13. Ranitidine 150 mg Tablet Sig: One (1) Tablet PO BID for reflux.
+14. Rivastigmine 4.6 mg/24h Patch Sig: One (1) Patch DAILY for Alzheimer's disease.
+15. Tapentadol 50 mg Tablet Sig: One (1) Tablet PO Q6H for pain.

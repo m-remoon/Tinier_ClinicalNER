@@ -1,0 +1,16 @@
+
+1. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+2. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+5. Alendronate 70 mg Tablet Sig: One (1) Tablet PO Weekly for osteoporosis.
+6. Doxycycline 100 mg Tablet Sig: One (1) Tablet PO BID for acne.
+7. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+8. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO BID for anxiety.
+9. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+10. Ipratropium 0.5 mg/2.5 mL Nebulizer Solution Sig: One (1) vial Inhalation Q6H for COPD.
+11. Nitrofurantoin 100 mg Capsule Sig: One (1) Capsule PO BID for urinary tract infection.
+12. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.
+13. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+14. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO NIGHTLY for schizophrenia.
+15. Methotrexate 15 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.

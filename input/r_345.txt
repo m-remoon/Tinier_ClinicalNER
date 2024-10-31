@@ -1,0 +1,16 @@
+
+1. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for lowering cholesterol.
+3. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for preventing blood clots.
+4. Dulaglutide 0.75 mg/0.5 mL Injection Sig: 0.75 mg Subcutaneous Weekly for type 2 diabetes.
+5. Bupropion 150 mg Tablet SR Sig: One (1) Tablet PO BID for depression.
+6. Tiotropium 18 mcg Inhaler Sig: Two (2) inhalations Inhalation DAILY for COPD.
+7. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+8. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing stroke.
+9. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for fluid retention.
+10. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+11. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+12. Olmesartan 20 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+13. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for acid reflux.
+14. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+15. Mycophenolate mofetil 500 mg Tablet Sig: One (1) Tablet PO BID for preventing organ rejection.

@@ -1,0 +1,14 @@
+1. Maalox 200-200-20 mg/5 mL Suspension [**Known lastname **]: One (1) ML PO TID (3 times a day) as needed for constipation.
+2. Artificial Tear with Lanolin 0.1-0.1 % Ointment [**Known lastname **]: One (1) Appl Ophthalmic PRN (as needed).
+3. Polyvinyl Alcohol 1.4 % Drops [**Known lastname **]: One (1) Drop Ophthalmic PRN (as needed).
+4. Docusate Sodium 50 mg/5 mL Liquid [**Known lastname **]: One (1)  PO BID (2 times a day).
+5. Oxycodone 5 mg/5 mL Solution [**Known lastname **]: One (1)  PO every eight (8) hours as needed for pain.
+6. Acetaminophen 325 mg Tablet [**Known lastname **]: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain, fever.
+7. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+8. Zinc Sulfate 220 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO DAILY (Daily).
+9. Allopurinol 100 mg Tablet [**Last Name (STitle) **]: 1.5 Tablets PO DAILY (Daily).
+10. Benztropine 1 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+11. Amiodarone 200 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+12. Metoprolol Tartrate 50 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO TID (3 times a day).
+13. Warfarin 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO ONCE (Once) for 1 doses: check daily INR.
+14. Furosemide 10 mg/mL Solution [**Last Name (STitle) **]: One (1)  Injection [**Hospital1 **] (2 times a day).

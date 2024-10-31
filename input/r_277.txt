@@ -1,0 +1,16 @@
+
+1. Eplerenone 50 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+2. Canagliflozin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+3. Budesonide 200 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+4. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+5. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+6. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+7. Linaclotide 290 mcg Capsule Sig: One (1) Capsule PO DAILY for irritable bowel syndrome.
+8. Rocuronium 10 mg/mL Solution Sig: 0.6 mg/kg IV once as needed for muscle relaxation.
+9. Midazolam 5 mg/mL Solution Sig: 1 mg IV as needed for sedation.
+10. Phenazopyridine 200 mg Tablet Sig: One (1) Tablet PO TID after meals for urinary discomfort.
+11. Anastrozole 1 mg Tablet Sig: One (1) Tablet PO DAILY for breast cancer.
+12. Entecavir 0.5 mg Tablet Sig: One (1) Tablet PO DAILY for hepatitis B.
+13. Secnidazole 2 g Granules Sig: One (1) Dose PO once for bacterial vaginosis.
+14. Sevelamer 800 mg Tablet Sig: Two (2) Tablets PO TID with meals for hyperphosphatemia.
+15. Capecitabine 500 mg Tablet Sig: Three (3) Tablets PO BID for 14 days every 21 days for colorectal cancer.

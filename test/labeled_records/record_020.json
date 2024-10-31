@@ -1,0 +1,153 @@
+{
+    "record_id": "record_020",
+    "entries": [
+        {
+            "instruction": "1. Labetalol 300 mg Tablet Sig: Two (2) Tablet PO twice a day. Disp:*120 Tablet(s)* Refills:*2*",
+            "tokens": [
+                "1.",
+                "Labetalol",
+                "300",
+                "mg",
+                "Tablet",
+                "Sig:",
+                "Two",
+                "(2)",
+                "Tablet",
+                "PO",
+                "twice",
+                "a",
+                "day.",
+                "Disp:*120",
+                "Tablet(s)*",
+                "Refills:*2*"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-FORM",
+                "O",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY",
+                "O",
+                "B-FORM",
+                "O"
+            ]
+        },
+        {
+            "instruction": "2. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*",
+            "tokens": [
+                "2.",
+                "Amlodipine",
+                "10",
+                "mg",
+                "Tablet",
+                "Sig:",
+                "One",
+                "(1)",
+                "Tablet",
+                "PO",
+                "once",
+                "a",
+                "day.",
+                "Disp:*30",
+                "Tablet(s)*",
+                "Refills:*2*"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-FORM",
+                "O",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY",
+                "O",
+                "B-FORM",
+                "O"
+            ]
+        },
+        {
+            "instruction": "3. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*",
+            "tokens": [
+                "3.",
+                "Hydrochlorothiazide",
+                "25",
+                "mg",
+                "Tablet",
+                "Sig:",
+                "One",
+                "(1)",
+                "Tablet",
+                "PO",
+                "once",
+                "a",
+                "day.",
+                "Disp:*30",
+                "Tablet(s)*",
+                "Refills:*2*"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-FORM",
+                "O",
+                "B-DOSAGE",
+                "B-DOSAGE",
+                "B-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY",
+                "O",
+                "O",
+                "O"
+            ]
+        },
+        {
+            "instruction": "4. Blood pressure cuff Please provide patient with home blood pressure cuff",
+            "tokens": [
+                "4.",
+                "Blood",
+                "pressure",
+                "cuff",
+                "Please",
+                "provide",
+                "patient",
+                "with",
+                "home",
+                "blood",
+                "pressure",
+                "cuff"
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "B-DEVICE",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-LOCATION",
+                "O",
+                "O",
+                "B-DEVICE"
+            ]
+        }
+    ]
+}

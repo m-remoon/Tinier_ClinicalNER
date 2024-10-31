@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for dyslipidemia.
+2. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+3. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+4. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+5. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+6. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.
+7. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+8. Ustekinumab 45 mg/0.5 mL Solution Sig: 0.5 mL Subcutaneous every 12 weeks for psoriasis.
+9. Canagliflozin 300 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+10. Dimenhydrinate 50 mg Tablet Sig: One (1) Tablet PO Q4-6H for motion sickness.
+11. Secukinumab 150 mg/mL Solution Sig: One (1) mL Subcutaneous monthly for ankylosing spondylitis.
+12. Benralizumab 30 mg/mL Solution Sig: One (1) mL Subcutaneous every 8 weeks for eosinophilic asthma.
+13. Apremilast 30 mg Tablet Sig: One (1) Tablet PO BID for psoriatic arthritis.
+14. Liraglutide 1.8 mg Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+15. Leflunomide 20 mg Tablet Sig: One (1) Tablet PO DAILY for rheumatoid arthritis.

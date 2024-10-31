@@ -1,0 +1,16 @@
+
+1. Carbamazepine 200 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+2. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+3. Bisoprolol 5 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+4. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+5. Divalproex 250 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+6. Fluticasone 50 mcg Nasal Spray Sig: Two (2) sprays each nostril DAILY for allergic rhinitis.
+7. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO DAILY for rheumatoid arthritis.
+8. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for hypercholesterolemia.
+9. Mometasone 0.1% Cream Sig: Apply to affected area topically BID for eczema.
+10. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+11. Umeclidinium/Vilanterol 62.5/25 mcg Inhaler Sig: One (1) inhalation Daily for COPD.
+12. Mycophenolate mofetil 500 mg Tablet Sig: One (1) Tablet PO BID for organ transplant.
+13. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+14. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY for autoimmune hepatitis.
+15. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for DVT prevention.

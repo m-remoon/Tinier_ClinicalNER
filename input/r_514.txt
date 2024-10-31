@@ -1,0 +1,16 @@
+
+1. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+2. Pravastatin 40 mg Tablet Sig: One (1) Tablet PO QHS for reducing CV risk.
+3. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+4. Tiotropium 18 mcg Inhaler Sig: Two (2) inhalations Inhalation DAILY for COPD.
+5. Leflunomide 10 mg Tablet Sig: One (1) Tablet PO DAILY for rheumatoid arthritis.
+6. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+7. Empagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+8. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for BPH.
+9. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for SLE.
+10. Tolterodine 2 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+11. Oxybutynin 10 mg Tablet Sig: One (1) Tablet PO DAILY for urinary incontinence.
+12. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY for autoimmune hepatitis.
+13. Rivastigmine 1.5 mg Capsule Sig: One (1) Capsule PO BID for Alzheimer's disease.
+14. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for hyperaldosteronism.
+15. Varenicline 1 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.

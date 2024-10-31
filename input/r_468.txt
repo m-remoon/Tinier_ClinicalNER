@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO Daily for high cholesterol.
+2. Sertraline 50 mg Tablet Sig: One (1) Tablet PO Daily for depression.
+3. Alendronate 70 mg Tablet Sig: One (1) Tablet PO Weekly for osteoporosis.
+4. Salbutamol 100 mcg Inhaler Sig: Two (2) puffs Inhalation PRN for bronchospasm.
+5. Glipizide 5 mg Tablet Sig: One (1) Tablet PO Daily for type 2 diabetes.
+6. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Daily for bacterial infection.
+7. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO Daily for edema.
+8. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO Daily for anxiety.
+9. Prednisone 20 mg Tablet Sig: One (1) Tablet PO Daily for inflammation.
+10. Liraglutide 1.2 mg Solution Sig: 0.6 mg Subcutaneous Daily for weight management.
+11. Metoprolol Succinate 50 mg Tablet Sig: One (1) Tablet PO Daily for heart failure.
+12. Tiotropium 2.5 mcg Inhaler Sig: Two (2) inhalations Daily for COPD.
+13. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+14. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+15. Cyanocobalamin 1000 mcg Injection Sig: One (1) injection Intramuscular Monthly for vitamin B12 deficiency.

@@ -1,0 +1,16 @@
+
+1. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO QID for bacterial infection.
+2. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Fluticasone 50 mcg Nasal Spray Sig: Two (2) Sprays Each Nostril DAILY for allergic rhinitis.
+4. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+5. Esomeprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+6. Tiotropium 18 mcg Inhaler Sig: Two (2) Inhalations Inhalation DAILY for COPD.
+7. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+8. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for heartburn.
+9. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+10. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasm.
+11. Valacyclovir 500 mg Tablet Sig: One (1) Tablet PO BID for herpes simplex.
+12. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+13. Methotrexate 2.5 mg Tablet Sig: Two (2) Tablets PO Weekly for rheumatoid arthritis.
+14. Buspirone 10 mg Tablet Sig: One (1) Tablet PO BID for anxiety.
+15. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.

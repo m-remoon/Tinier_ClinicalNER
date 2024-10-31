@@ -1,0 +1,16 @@
+
+1. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID for neuropathic pain.
+2. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO QID for bacterial infection.
+3. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+4. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+5. Alendronate 70 mg Tablet Sig: One (1) Tablet PO Weekly for osteoporosis.
+6. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety.
+7. Rivaroxaban 10 mg Tablet Sig: One (1) Tablet PO DAILY for DVT prophylaxis.
+8. Fluticasone 50 mcg Inhaler Sig: Two (2) puffs Inhalation BID for allergic rhinitis.
+9. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then One (1) Tablet PO DAILY for infection.
+10. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for prostate enlargement.
+11. Verapamil 120 mg Tablet Sig: One (1) Tablet PO BID for arrhythmias.
+12. Lamotrigine 25 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+13. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+14. Risperidone 1 mg Tablet Sig: One (1) Tablet PO BID for schizophrenia.
+15. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for urinary tract infection.

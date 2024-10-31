@@ -1,0 +1,16 @@
+
+1. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for thrombosis prevention.
+6. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+7. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+8. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on first day, then one (1) Tablet DAILY for infection.
+9. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+10. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+11. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+12. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+13. Fenofibrate 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertriglyceridemia.
+14. Ramipril 5 mg Capsule Sig: One (1) Capsule PO DAILY for heart failure.
+15. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.

@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID for edema.
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for antiplatelet therapy.
+4. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+5. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QHS for high cholesterol.
+6. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for GERD.
+7. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+8. Metoprolol Succinate 50 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+9. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+10. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+11. Quetiapine 100 mg Tablet Sig: One (1) Tablet PO BID for bipolar disorder.
+12. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO Daily for acne.
+13. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+14. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal PRN for constipation.
+15. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.

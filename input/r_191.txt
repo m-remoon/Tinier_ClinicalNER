@@ -1,0 +1,16 @@
+
+1. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO Daily for rheumatoid arthritis.
+2. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day one, then one (1) Tablet PO daily for infection.
+3. Lithium Carbonate 300 mg Capsule Sig: One (1) Capsule PO BID for bipolar disorder.
+4. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+5. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO Daily for depression.
+6. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO Daily for hypothyroidism.
+7. Spiriva Respimat 2.5 mcg Inhaler Sig: Two (2) puffs Inhalation Daily for COPD.
+8. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO Daily for allergies.
+9. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+10. Verapamil 240 mg Tablet Sig: One (1) Tablet PO Daily for hypertension.
+11. Topiramate 100 mg Tablet Sig: One (1) Tablet PO BID for seizure prevention.
+12. Valsartan 160 mg Tablet Sig: One (1) Tablet PO Daily for hypertension.
+13. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO BID for gout flare.
+14. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+15. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.

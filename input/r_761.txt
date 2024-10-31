@@ -1,0 +1,15 @@
+    1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+    2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO BID for depression.
+    3. Salbutamol 100 mcg Inhaler Sig: Two (2) puffs Inhalation Q4-6H PRN for bronchospasm.
+    4. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+    5. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO TID PRN for pain.
+    6. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+    7. Fluticasone 50 mcg Spray Sig: Two (2) Sprays Inhalation BID for allergic rhinitis.
+    8. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO TID for neuropathic pain.
+    9. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+    10. Liraglutide 0.6 mg Solution Sig: 0.6 mg Subcutaneous DAILY for diabetes.
+    11. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for preventing thrombosis.
+    12. Loratadine 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+    13. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for acid reflux.
+    14. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+    15. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID PRN for muscle spasm.

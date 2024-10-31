@@ -1,0 +1,16 @@
+
+1. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QHS for hypercholesterolemia.
+3. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for peptic ulcer disease.
+4. Salbutamol 200 mcg Inhaler Sig: Two (2) puffs Inhalation Q4H for bronchospasm.
+5. Glipizide 5 mg Tablet Sig: One (1) Tablet PO BID for type 2 diabetes.
+6. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY for dyslipidemia.
+7. Felodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY for angina.
+8. Rivaroxaban 10 mg Tablet Sig: One (1) Tablet PO DAILY for DVT prophylaxis.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+10. Detemir 100 units/mL Solution Sig: 12 units Subcutaneous QHS for diabetes mellitus.
+11. Doxazosin 2 mg Tablet Sig: One (1) Tablet PO DAILY for urinary retention.
+12. Budesonide 2 mg Nebulizer Solution Sig: One (1) Vial Inhalation BID for COPD.
+13. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for gastric reflux.
+14. Selegiline 5 mg Tablet Sig: One (1) Tablet PO DAILY for Parkinson's disease.
+15. Hydrocodone 5 mg/325 mg Tablet Sig: One (1) Tablet PO Q6H for acute pain.

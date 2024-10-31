@@ -1,0 +1,16 @@
+
+1. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+2. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+5. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+6. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasms.
+7. Nitroglycerin 0.4 mg Sublingual Tablet Sig: One (1) Tablet Sublingual PRN for angina.
+8. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+9. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+10. Hydrocodone/Acetaminophen 5/325 mg Tablet Sig: One (1) Tablet PO Q6H PRN for pain.
+11. Budesonide 160 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+12. Donepezil 10 mg Tablet Sig: One (1) Tablet PO QHS for Alzheimer's disease.
+13. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet daily on days 2-5 for infection.
+14. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+15. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.

@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO BID for anxiety.
+3. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+4. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+5. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+6. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+7. Digoxin 0.125 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+8. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+9. Methotrexate 2.5 mg Tablet Sig: Two (2) Tablets PO Weekly for rheumatoid arthritis.
+10. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+11. Budesonide 0.5 mg/2mL Nebulizer Solution Sig: 2 mL Inhalation BID for asthma.
+12. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+13. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+14. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then One (1) Tablet PO Daily for 4 days for bacterial infection.
+15. Propranolol 10 mg Tablet Sig: One (1) Tablet PO TID for essential tremor.

@@ -1,0 +1,16 @@
+
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+2. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+4. Prednisolone 15 mg Solution Sig: 5 mL PO BID for inflammation.
+5. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+6. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety disorder.
+7. Fluconazole 150 mg Tablet Sig: One (1) Tablet PO Once for fungal infection.
+8. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+10. Omeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+11. Cetirizine 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+12. Donepezil 10 mg Tablet Sig: One (1) Tablet PO QHS for Alzheimer's disease.
+13. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+14. Loratadine 10 mg Tablet Sig: One (1) Tablet PO DAILY for seasonal allergies.
+15. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.

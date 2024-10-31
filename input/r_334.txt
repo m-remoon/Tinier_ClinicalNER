@@ -1,0 +1,16 @@
+
+1. Ketorolac 10 mg Tablet Sig: One (1) Tablet PO Q6H for acute pain.
+2. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+3. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+4. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+5. Tranylcypromine 30 mg Tablet Sig: One (1) Tablet PO BID for depression.
+6. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+7. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+8. Clobetasol 0.05% Cream Sig: Apply Topically BID for eczema.
+9. Acetylcysteine 600 mg Tablet Sig: One (1) Tablet PO BID for chronic bronchitis.
+10. Dutasteride 0.5 mg Capsule Sig: One (1) Capsule PO DAILY for BPH.
+11. Doxazocin 4 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+12. Bortezomib 3.5 mg Injection Sig: One (1) Injection Subcutaneous weekly for multiple myeloma.
+13. Ertugliflozin 5 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+14. Selegiline 5 mg Tablet Sig: One (1) Tablet PO DAILY for Parkinson's disease.
+15. Pazopanib 400 mg Tablet Sig: One (1) Tablet PO DAILY for renal cell carcinoma.

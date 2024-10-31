@@ -1,0 +1,16 @@
+
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Sertraline 100 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Fluticasone 50 mcg/actuation Nasal Spray Sig: Two (2) Sprays In each nostril DAILY for allergic rhinitis.
+4. Liraglutide 1.2 mg Solution Sig: 1.2 mg Subcutaneous DAILY for type 2 diabetes.
+5. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+6. Budesonide 180 mcg Inhaler Sig: Two (2) inhalations BID for asthma.
+7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+8. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+9. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+10. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+11. Eszopiclone 2 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+12. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+13. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY for Crohn's disease.
+14. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+15. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.

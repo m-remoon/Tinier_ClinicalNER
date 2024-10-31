@@ -1,0 +1,15 @@
+    1. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+    2. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO DAILY for acid reflux.
+    3. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+    4. Fluticasone 50 mcg Nasal Spray Sig: Two (2) Sprays Each Nostril Once Daily for allergic rhinitis.
+    5. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO TID for hypertension.
+    6. Liraglutide 6 mg/mL Solution Sig: 0.6 mg Subcutaneous DAILY for type 2 diabetes.
+    7. Spironolactone 50 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+    8. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+    9. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+    10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+    11. Losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY for kidney protection.
+    12. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO TID for fibromyalgia.
+    13. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+    14. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+    15. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.

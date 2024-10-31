@@ -1,0 +1,16 @@
+
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+3. Prednisone 10 mg Tablet Sig: One (1) Tablet PO QAM for inflammation.
+4. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+5. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+6. Digoxin 0.25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+7. Carbamazepine 200 mg Tablet Sig: One (1) Tablet PO BID for seizures.
+8. Alendronate 70 mg Tablet Sig: One (1) Tablet PO Weekly for osteoporosis.
+9. Cyclosporine 2% Eye Drops Sig: One (1) Drop OU BID for dry eyes.
+10. Donepezil 10 mg Tablet Sig: One (1) Tablet PO QHS for Alzheimer's disease.
+11. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for hair loss.
+12. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+13. Ketorolac 30 mg/mL Injection Sig: 1 mL IM Q6H for pain relief.
+14. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+15. Rivastigmine 1.5 mg Capsule Sig: One (1) Capsule PO BID for dementia.

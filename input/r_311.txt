@@ -1,0 +1,16 @@
+
+1. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+2. Nitrofurantoin 100 mg Capsule Sig: One (1) Capsule PO BID for urinary tract infection.
+3. Fluticasone 50 mcg Inhaler Sig: Two (2) puffs Inhalation BID for allergic rhinitis.
+4. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+5. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+6. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+7. Methotrexate 25 mg/mL Solution Sig: 20 mg Subcutaneous Weekly for rheumatoid arthritis.
+8. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QID for gastroparesis.
+9. Diltiazem 30 mg Capsule Sig: One (1) Capsule PO QID for angina.
+10. Propanolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+11. Topiramate 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+12. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO QHS for anxiety.
+13. Liraglutide 6 mg/mL Pen Sig: 1.2 mg Subcutaneous DAILY for diabetes.
+14. Terazosin 2 mg Tablet Sig: One (1) Tablet PO QHS for hypertension.
+15. Sevelamer 800 mg Tablet Sig: One (1) Tablet PO TID with meals for hyperphosphatemia.

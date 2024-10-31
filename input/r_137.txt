@@ -1,0 +1,16 @@
+
+1. Olmesartan 20 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QHS for high cholesterol.
+3. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.
+4. Tiotropium 18 mcg Inhaler Sig: Inhale one (1) capsule Inhalation DAILY for COPD.
+5. Dulaglutide 1.5 mg/0.5 mL Pen Sig: Inject 0.75 mg Subcutaneous Weekly for diabetes.
+6. Venlafaxine 75 mg Tablet Sig: One (1) Tablet PO BID for depression.
+7. Spiriva 2.5 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for asthma.
+8. Empagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+9. Dexlansoprazole 30 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+10. Pregabalin 150 mg Capsule Sig: One (1) Capsule PO TID for neuropathic pain.
+11. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+12. Rivastigmine 4.6 mg Patch Sig: One (1) Patch DAILY for Alzheimer's.
+13. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+14. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY for BPH.
+15. Diclofenac 100 mg Suppository Sig: One (1) Suppository Rectal BID for arthritis pain.

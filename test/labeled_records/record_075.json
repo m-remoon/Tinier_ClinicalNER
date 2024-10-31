@@ -1,0 +1,75 @@
+{
+    "record_id": "record_075",
+    "entries": [
+        {
+            "instruction": "1. Wellbutrin  Oral",
+            "tokens": [
+                "1.",
+                "Wellbutrin",
+                "Oral"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-ROUTE"
+            ]
+        },
+        {
+            "instruction": "2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day. Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*",
+            "tokens": [
+                "2.",
+                "Pantoprazole",
+                "40",
+                "mg",
+                "Tablet,",
+                "Delayed",
+                "Release",
+                "(E.C.)",
+                "Sig:",
+                "One",
+                "(1)",
+                "Tablet,",
+                "Delayed",
+                "Release",
+                "(E.C.)",
+                "PO",
+                "twice",
+                "a",
+                "day.",
+                "Disp:*60",
+                "Tablet,",
+                "Delayed",
+                "Release",
+                "(E.C.)(s)*",
+                "Refills:*2*"
+            ],
+            "labels": [
+                "O",
+                "B-DRUG",
+                "B-STRENGTH",
+                "I-STRENGTH",
+                "B-FORM",
+                "I-FORM",
+                "I-FORM",
+                "I-FORM",
+                "O",
+                "B-DOSAGE",
+                "I-DOSAGE",
+                "B-FORM",
+                "I-FORM",
+                "I-FORM",
+                "I-FORM",
+                "B-ROUTE",
+                "B-FREQUENCY",
+                "I-FREQUENCY",
+                "I-FREQUENCY",
+                "O",
+                "B-FORM",
+                "I-FORM",
+                "I-FORM",
+                "I-FORM",
+                "O"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for prevention of stroke.
+3. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID for rheumatoid arthritis.
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+5. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+6. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+7. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for urinary tract infection.
+8. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+9. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+10. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+11. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+12. Spiriva 18 mcg Inhaler Sig: One (1) Inhalation DAILY for COPD.
+13. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+14. Diltiazem 120 mg Capsule Sig: One (1) Capsule PO DAILY for angina.
+15. Liraglutide 0.6 mg Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.

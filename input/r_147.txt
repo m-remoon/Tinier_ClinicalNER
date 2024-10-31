@@ -1,0 +1,16 @@
+
+1. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID for seizure control.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO Q6H for anxiety.
+4. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for dyslipidemia.
+5. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for heart rate control.
+6. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY for inflammation.
+7. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+8. Bisoprolol 5 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+9. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for urinary tract infection.
+10. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then one (1) Tablet DAILY for 4 days for bacterial infection.
+11. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for acid reflux.
+12. Fluticasone 50 mcg Nasal Spray Sig: Two (2) Sprays in each nostril DAILY for allergic rhinitis.
+13. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+14. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for major depressive disorder.
+15. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO Q8H for skin infection.

@@ -1,0 +1,15 @@
+    1. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+    2. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QHS for high cholesterol.
+    3. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for GERD.
+    4. Ipratropium 17 mcg Inhaler Sig: Two (2) puffs Inhalation QID for COPD.
+    5. Empagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for diabetes.
+    6. Fenofibrate 145 mg Tablet Sig: One (1) Tablet PO DAILY for hypertriglyceridemia.
+    7. Diltiazem 30 mg Tablet Sig: One (1) Tablet PO TID for angina.
+    8. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for anticoagulation.
+    9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for nerve pain.
+    10. Semaglutide 0.5 mg Injection Sig: 0.5 mg Subcutaneous Weekly for weight management.
+    11. Silodosin 8 mg Capsule Sig: One (1) Capsule PO DAILY for BPH.
+    12. Tiotropium 18 mcg Inhaler Sig: One (1) puff Inhalation DAILY for COPD.
+    13. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for reflux.
+    14. Methyldopa 250 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+    15. Hydrocodone 5 mg/325 mg Tablet Sig: One (1) Tablet PO Q6H for pain.

@@ -1,0 +1,16 @@
+
+1. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+2. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+3. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO QID for bacterial infection.
+4. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+5. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID for seizure prevention.
+6. Fenofibrate 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertriglyceridemia.
+7. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prevention.
+8. Methotrexate 2.5 mg Tablet Sig: Two (2) Tablets PO WEEKLY for rheumatoid arthritis.
+9. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasm.
+10. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for heartburn.
+11. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO DAILY for bipolar disorder.
+12. Metoprolol Succinate 50 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+13. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for acne.
+14. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for PTSD.
+15. Terazosin 1 mg Capsule Sig: One (1) Capsule PO HS for hypertension.

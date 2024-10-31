@@ -1,0 +1,16 @@
+
+1. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infections.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Risperidone 2 mg Tablet Sig: One (1) Tablet PO BID for schizophrenia.
+4. Fluticasone 50 mcg Inhaler Sig: Two (2) puffs Inhalation BID for allergic rhinitis.
+5. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+6. Buspirone 10 mg Tablet Sig: One (1) Tablet PO BID for anxiety.
+7. Sulfasalazine 500 mg Tablet Sig: One (1) Tablet PO TID for rheumatoid arthritis.
+8. Glipizide 5 mg Tablet Sig: One (1) Tablet PO DAILY 30 minutes before breakfast for type 2 diabetes.
+9. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID for GERD.
+10. Oxybutynin 5 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+11. Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO BID for urinary tract infection.
+12. Lamotrigine 25 mg Tablet Sig: One (1) Tablet PO DAILY for bipolar disorder.
+13. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+14. Ipratropium 0.5 mg/2.5 mL Solution Sig: One (1) vial nebulization QID for COPD.
+15. Methotrexate 10 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.

@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO BID for depression.
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Spiriva 18 mcg Inhaler Sig: Two (2) inhalations Inhalation DAILY for COPD.
+5. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO NIGHTLY for schizophrenia.
+6. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+7. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+8. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for stroke prevention.
+9. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO TID for fibromyalgia.
+10. Salmeterol 50 mcg Inhaler Sig: One (1) inhalation Inhalation BID for asthma.
+11. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for heart rate control.
+12. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+13. Linagliptin 5 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+14. Propranolol 10 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+15. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for heart attack prevention.

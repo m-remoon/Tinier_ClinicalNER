@@ -1,0 +1,26 @@
+1. Outpatient Lab Work Please obtain twice weekly hematocrits, INR (INR goal 2.5 - 3.5)
+2. Outpatient Lab Work Please obtain twice weekly chemistry panels (sodium, potassium, chloride, bicarb, BUN, creatinine, mag, calcium, phosp) to monitor for hypernatremia and chronic kidney insufficiency
+3. bumetanide 1 mg Tablet Sig: Five (5) Tablet PO once a day.
+4. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and PRN.
+5. warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4 PM: goal inr 2.5 - 3.5.
+6. vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every 6 hours): TO END [**2137-11-9**].
+7. prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day.
+8. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO twice a day.
+9. levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO once a day.
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO twice a day.
+11. multivitamin     Capsule Sig: One (1) Capsule PO once a day.
+12. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1)  Inhalation once a day.
+13. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+14. dofetilide 125 mcg Capsule Sig: One (1) Capsule PO twice a day.
+15. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2)  Inhalation every four (4) hours as needed for shortness of breath or wheezing.
+16. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1) Tablet PO once a day.
+17. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation [**Hospital1 **] (2 times a day).
+18. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO once a day as needed for pain: hold for sedation, RR< 12.
+19. morphine 10 mg/5 mL Solution Sig: [**1-28**]  PO every four (4) hours as needed for shortness of breath or wheezing.
+20. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO twice a day.
+21. Epogen 20,000 unit/mL Solution Sig: One (1)  Injection once a week: Please administer on Monday.
+22. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO once a day.
+23. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours): TO END [**2137-11-9**].
+24. heparin (porcine) in D5W  Intravenous
+25. nadolol 20 mg Tablet Sig: 0.5 Tablet PO once a day.
+26. meropenem 500 mg Recon Soln Sig: Five Hundred (500) mg Intravenous every eight (8) hours for 3 days: TO END [**2137-11-3**].

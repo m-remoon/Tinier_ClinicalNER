@@ -1,0 +1,16 @@
+
+1. Verapamil 80 mg Tablet Sig: One (1) Tablet PO TID for cardiac arrhythmia.
+2. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+5. Hydroxyzine 25 mg Capsule Sig: One (1) Capsule PO TID for anxiety.
+6. Pantoprazole 40 mg Tablet Sig: One (1) Tablet PO QAM for GERD.
+7. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for DVT prevention.
+8. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+9. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY for OCD.
+10. Methotrexate 10 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+11. Budesonide 100 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+12. Metoprolol 50 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+13. Dulaglutide 1.5 mg Injection Sig: 1.5 mg Subcutaneous Weekly for type 2 diabetes.
+14. Lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+15. Finasteride 1 mg Tablet Sig: One (1) Tablet PO DAILY for male pattern baldness.

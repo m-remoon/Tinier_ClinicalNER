@@ -1,0 +1,16 @@
+
+1. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+2. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for edema.
+3. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+4. Cetirizine 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+5. Spironolactone 50 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+6. Donepezil 10 mg Tablet Sig: One (1) Tablet PO QHS for Alzheimer's disease.
+7. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+8. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+9. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+10. Methotrexate 7.5 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+11. Glimepiride 2 mg Tablet Sig: One (1) Tablet PO Daily for type 2 diabetes.
+12. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then one (1) Tablet Daily on Days 2-5 for bacterial infection.
+13. Propranolol 40 mg Tablet Sig: One (1) Tablet PO BID for migraine prophylaxis.
+14. Aripiprazole 5 mg Tablet Sig: One (1) Tablet PO DAILY for bipolar disorder.
+15. Finasteride 1 mg Tablet Sig: One (1) Tablet PO DAILY for hair loss.

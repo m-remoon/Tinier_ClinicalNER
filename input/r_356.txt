@@ -1,0 +1,16 @@
+
+1. Alprazolam 0.5 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+4. Fenofibrate 145 mg Tablet Sig: One (1) Tablet PO DAILY for high triglycerides.
+5. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY for fluid retention.
+7. Valacyclovir 1 g Tablet Sig: One (1) Tablet PO BID for herpes simplex.
+8. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+9. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+10. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraines.
+11. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then one (1) Tablet PO for 4 days for respiratory infection.
+12. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+13. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY for inflammation.
+14. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+15. Memantine 10 mg Tablet Sig: One (1) Tablet PO BID for Alzheimer's disease.

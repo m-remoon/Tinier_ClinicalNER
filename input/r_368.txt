@@ -1,0 +1,16 @@
+
+1. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID for heart failure.
+2. Hydroxyzine 25 mg Capsule Sig: One (1) Capsule PO TID for anxiety.
+3. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QHS for cholesterol control.
+5. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for acid reflux.
+6. Propranolol 10 mg Tablet Sig: One (1) Tablet PO TID for migraine prophylaxis.
+7. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+8. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+9. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY for gout.
+10. Acetaminophen 500 mg Tablet Sig: Two (2) Tablets PO Q6H PRN for pain.
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID for constipation.
+12. Donepezil 10 mg Tablet Sig: One (1) Tablet PO QHS for Alzheimer's disease.
+13. Methotrexate 7.5 mg Tablet Sig: One (1) Tablet PO Weekly for rheumatoid arthritis.
+14. Liraglutide 0.6 mg Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+15. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.

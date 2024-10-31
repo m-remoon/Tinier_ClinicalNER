@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hyperlipidemia.
+2. Dulaglutide 1.5 mg/0.5 mL Solution Sig: 0.5 mL Subcutaneous Weekly for type 2 diabetes.
+3. Vortioxetine 10 mg Tablet Sig: One (1) Tablet PO DAILY for major depressive disorder.
+4. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+5. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for COPD.
+6. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for erosive esophagitis.
+7. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+8. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+9. Icosapent ethyl 1 g Capsule Sig: Two (2) Capsules PO BID for triglycerides.
+10. Umeclidinium 62.5 mcg Inhaler Sig: One (1) puff Inhalation DAILY for chronic obstructive pulmonary disease.
+11. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+12. Mometasone 50 mcg Nasal Spray Sig: Two (2) sprays each nostril BID for allergic rhinitis.
+13. Linagliptin 5 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+14. Methylphenidate 10 mg Tablet Sig: One (1) Tablet PO BID for ADHD.
+15. Meclizine 25 mg Tablet Sig: One (1) Tablet PO Q4H PRN for vertigo.

@@ -1,0 +1,16 @@
+
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Duloxetine 30 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+3. Celecoxib 200 mg Capsule Sig: One (1) Capsule PO BID for arthritis.
+4. Liraglutide 0.6 mg Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+5. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for insomnia.
+6. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on day 1, then one (1) Tablet DAILY for an infection.
+7. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for neuropathic pain.
+8. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for atrial fibrillation.
+9. Tiotropium 18 mcg Inhaler Sig: Two (2) inhalations Inhalation DAILY for COPD.
+10. Tacrolimus 1 mg Capsule Sig: One (1) Capsule PO BID for transplant rejection prophylaxis.
+11. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO QHS for sleep disorder.
+12. Mycophenolate 500 mg Tablet Sig: One (1) Tablet PO BID for lupus nephritis.
+13. Topiramate 50 mg Tablet Sig: One (1) Tablet PO BID for epilepsy.
+14. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for urinary tract infection.
+15. Loratadine 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.

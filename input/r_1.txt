@@ -1,0 +1,15 @@
+    1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+    2. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+    3. Cetirizine 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+    4. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for hypercholesterolemia.
+    5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+    6. Meloxicam 15 mg Tablet Sig: One (1) Tablet PO DAILY for arthritis pain.
+    7. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+    8. Metoprolol 25 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+    9. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for anxiety.
+    10. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+    11. Doxycycline 100 mg Capsule Sig: One (1) Capsule PO BID for bacterial infection.
+    12. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for stroke prevention.
+    13. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID for muscle spasms.
+    14. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+    15. Omalizumab 150 mg/mL Injection Sig: 150 mg Subcutaneous Every 4 weeks for chronic idiopathic urticaria.

@@ -1,0 +1,16 @@
+
+1. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY for high cholesterol.
+2. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for anticoagulation.
+3. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+4. Dapagliflozin 10 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+5. Mometasone 220 mcg Inhaler Sig: Two (2) puffs Inhalation BID for asthma.
+6. Apixaban 5 mg Tablet Sig: One (1) Tablet PO BID for prevention of stroke.
+7. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO DAILY for depression.
+8. Liraglutide 1.2 mg Solution Sig: 0.6 mg Subcutaneous DAILY for weight management.
+9. Olmesartan 20 mg Tablet Sig: One (1) Tablet PO DAILY for hypertension.
+10. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+11. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO DAILY for allergies.
+12. Lisdexamfetamine 30 mg Capsule Sig: One (1) Capsule PO DAILY for ADHD.
+13. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+14. Memantine 10 mg Tablet Sig: One (1) Tablet PO BID for Alzheimer's disease.
+15. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.

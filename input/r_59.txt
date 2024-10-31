@@ -1,0 +1,15 @@
+1. Hydroxyzine 25 mg Tablet Sig: One (1) Tablet PO TID for anxiety.
+2. Levalbuterol 45 mcg Inhaler Sig: Two (2) puffs Inhalation Q4H for COPD.
+3. Phenelzine 15 mg Tablet Sig: One (1) Tablet PO TID for depression.
+4. Minoxidil 5 mg Tablet Sig: One (1) Tablet PO BID for hypertension.
+5. Clindamycin 300 mg Capsule Sig: One (1) Capsule PO Q6H for bacterial infection.
+6. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY for rheumatoid arthritis.
+7. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO QHS for depression.
+8. Varenicline 1 mg Tablet Sig: One (1) Tablet PO BID for smoking cessation.
+9. Fluorouracil 500 mg Solution Sig: Apply topically BID for actinic keratoses.
+10. Tolterodine 2 mg Tablet Sig: One (1) Tablet PO BID for overactive bladder.
+11. Selegiline 5 mg Tablet Sig: One (1) Tablet PO BID for Parkinson's disease.
+12. Rifaximin 550 mg Tablet Sig: One (1) Tablet PO BID for irritable bowel syndrome.
+13. Dronedarone 400 mg Tablet Sig: One (1) Tablet PO BID for atrial fibrillation.
+14. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY for adrenal insufficiency.
+15. Tizanidine 4 mg Tablet Sig: One (1) Tablet PO TID for muscle spasticity.

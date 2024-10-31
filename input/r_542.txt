@@ -1,0 +1,15 @@
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Hydroxyzine 25 mg Capsule Sig: One (1) Capsule PO TID for anxiety.
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for prevention of stroke.
+4. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO QHS for high cholesterol.
+5. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY for depression.
+6. Formoterol 12 mcg Inhaler Sig: Two (2) puffs Inhalation BID for COPD.
+7. Sumatriptan 50 mg Tablet Sig: One (1) Tablet PO PRN for migraine.
+8. Diltiazem 30 mg Tablet Sig: One (1) Tablet PO TID for angina.
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID for edema.
+10. Sitagliptin 100 mg Tablet Sig: One (1) Tablet PO DAILY for type 2 diabetes.
+11. Venlafaxine 75 mg Capsule Sig: One (1) Capsule PO DAILY for anxiety disorder.
+12. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID for fibromyalgia.
+13. Methotrexate 2.5 mg Tablet Sig: Four (4) Tablets PO Weekly for rheumatoid arthritis.
+14. Tiotropium 18 mcg Inhaler Sig: Two (2) puffs Inhalation DAILY for asthma.
+15. Spironolactone 50 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.

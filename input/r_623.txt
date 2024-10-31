@@ -1,0 +1,15 @@
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY for hypothyroidism.
+2. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID for bacterial infection.
+3. Bupropion 150 mg Tablet Sig: One (1) Tablet PO BID for depression.
+4. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY for allergic rhinitis.
+5. Esomeprazole 40 mg Capsule Sig: One (1) Capsule PO DAILY for stomach ulcers.
+6. Lisdexamfetamine 30 mg Capsule Sig: One (1) Capsule PO DAILY for ADHD.
+7. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO BID for anxiety.
+8. Diazepam 5 mg Tablet Sig: One (1) Tablet PO TID for muscle spasms.
+9. Amoxicillin 875 mg Tablet Sig: One (1) Tablet PO BID for sinus infection.
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY for heart attack prevention.
+11. Duloxetine 60 mg Capsule Sig: One (1) Capsule PO DAILY for fibromyalgia.
+12. Azithromycin 250 mg Tablet Sig: Two (2) Tablets PO on Day 1, then one (1) Tablet DAILY for infection.
+13. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY for heart failure.
+14. Fluticasone Propionate 50 mcg Inhaler Sig: One (1) inhalation BID for asthma.
+15. Rivaroxaban 20 mg Tablet Sig: One (1) Tablet PO DAILY for blood clot prevention.
